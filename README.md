@@ -6,7 +6,7 @@ Medical Marijuana
 ### Reason Topic Selected 
 To help medical marijuana patients select appropriate strains to treat their respective ailments 
 ### Source Data Description
-The Kushy cannabis dataset on GitHub is a collection of tabular data from different sectors of the industry, from strains to products to lab results. 
+The Kushy cannabis dataset on GitHub is a collection of tabular data from different sectors of the industry, from strains to products to lab results: 
 
 https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
 
