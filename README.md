@@ -19,13 +19,13 @@ Replication data provided by Harvard Dataverse:
 https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
 
 ### Data Analysis Goal
-Determine which medical marijuana strains are best used as treatment for specific ailments
+Determine which medical marijuana strains are best suited as treatment for specific ailments
 
 ## Communication Protocols
 * Create direct messages for only team members in dedicated Slack channel
 * Weekly meetings on Tuesday/Thursday during class and [Friday/Sunday afternoons?] 
 * Emergency contact information (email/mobile) provided by each team member
-* Emergency contact [Jemi Shieh] by Slack/email/text/call as needed.
+* Emergency contact [Jemi Shieh] 24/7 by Slack/email/text/call as needed
 
 ## Team Role Distribution
 ### GitHub Repository (10 points) – Paul Erlic
@@ -45,12 +45,12 @@ Create a provisional database that stands in for the final database and accompli
 * Draft machine learning model is connected to the provisional database
 
 ### Technology Architect – Ashley Mayes
-Help decide which technologies will be used for each step of the project.
+Help decide which technologies will be used for each step of the project as follows:
 #### Technologies Used
 ##### Data Cleaning and Analysis
 Excel and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 ##### Database Storage
-PostgreSQL is the database we intend to use
+PostgreSQL is the database we intend to use.
 ##### Machine Learning
 [SciKitLearn is the ML library we'll be using to create a clustering algorithm. Our training and testing setup is ___. Extra ML verbiage here such as adding Python, Google Colab and Jupyter Notebook] 
 ##### Dashboard
