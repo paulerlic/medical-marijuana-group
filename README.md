@@ -7,18 +7,25 @@ Medical Marijuana
 To help medical marijuana patients select appropriate strains to treat their respective ailments 
 ### Source Data Description:
 The Kushy cannabis dataset on GitHub is a collection of tabular data from different sectors of the industry, from strains to products to lab results. 
+
 https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
+
 Over 215,000 laboratory measurements, performed at six different labs, of retail cannabis products from Washington State, originally published on March 14, 2018 in Nature:
+
 https://www.nature.com/articles/s41598-018-22755-2
+
 Replication data provided by Harvard Dataverse:
+
 https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
+
 ### Data Analysis Goal
 Determine which medical marijuana strains are best used as treatment for specific ailments
 
 ## Communication Protocols
 * Create direct messages for only team members in dedicated Slack channel
 * Weekly meetings on Tuesday/Thursday during class and [Friday/Sunday afternoons?] 
-* Emergency contact information (email/mobile) provided by team members and emergency contact [Jemi Shieh] by Slack/email/text/call as needed.
+* Emergency contact information (email/mobile) provided by each team member
+* Emergency contact [Jemi Shieh] by Slack/email/text/call as needed.
 
 ## Team Role Distribution
 ### GitHub Repository (10 points) – Paul Erlic
