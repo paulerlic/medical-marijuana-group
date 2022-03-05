@@ -48,7 +48,7 @@ Create a provisional database that stands in for the final database and accompli
 Help decide which technologies will be used for each step of the project as follows:
 #### Technologies Used
 ##### Data Cleaning and Analysis
-Excel and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Excel will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Pandas and Python.
 ##### Database Storage
 PostgreSQL is the database we intend to use.
 ##### Machine Learning
