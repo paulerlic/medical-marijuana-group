@@ -10,7 +10,7 @@ The Kushy cannabis dataset on GitHub is a collection of tabular data from differ
 
 https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
 
-Over 215,000 laboratory measurements, performed at six different labs, of retail cannabis products from Washington State, originally published on March 14, 2018 in Nature:
+The Washington cannabis dataset contains over 215,000 laboratory measurements, performed at six different labs, of retail cannabis products from Washington State, originally published on March 14, 2018 in Nature:
 
 https://www.nature.com/articles/s41598-018-22755-2
 
@@ -19,13 +19,13 @@ Replication data provided by Harvard Dataverse:
 https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
 
 ### Data Analysis Goal
-Determine which medical marijuana strains are best suited as treatment for specific ailments
+Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects
 
 ## Communication Protocols
-* Create direct messages for only team members in dedicated Slack channel
-* Weekly meetings on Tuesday/Thursday during class and [Friday/Sunday afternoons?] 
+* Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
+* Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons 
 * Emergency contact information (email/mobile) provided by each team member
-* Emergency contact [Jemi Shieh] 24/7 by Slack/email/text/call as needed
+* Emergency contact Jemi Shieh 24/7 by Slack/email/text/call as needed
 
 ## Team Role Distribution
 ### GitHub Repository (10 points) – Paul Erlic
@@ -50,11 +50,11 @@ Help decide which technologies will be used for each step of the project as foll
 ##### Data Cleaning and Analysis
 Excel will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Pandas and Python.
 ##### Database Storage
-PostgreSQL is the database we intend to use.
+PostgreSQL is the intended database.
 ##### Machine Learning
-[SciKitLearn is the ML library we'll be using to create a clustering algorithm. Our training and testing setup is ___. Extra ML verbiage here such as adding Python, Google Colab and Jupyter Notebook]. 
+SciKitLearn is the machine learning library to be used to create a clustering algorithm using Python, Google Colab and Jupyter Notebook.
 ##### Dashboard
-We will be using Tableau to create a fully functioning and interactive dashboard.
+Tableau will be used by anato create a fully functioning and interactive dashboard.
 
 ### Dashboard (0 points)
 There are no deliverables associated with the dashboard for this segment.
