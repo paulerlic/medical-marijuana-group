@@ -54,7 +54,7 @@ PostgreSQL is the intended database.
 ##### Machine Learning
 SciKitLearn is the machine learning library to be used to create a clustering algorithm using Python, Google Colab and Jupyter Notebook.
 ##### Dashboard
-Tableau will be used by anato create a fully functioning and interactive dashboard.
+Tableau will be used to create a fully functioning and interactive dashboard.
 
 ### Dashboard (0 points)
 There are no deliverables associated with the dashboard for this segment.
