@@ -19,7 +19,7 @@ CREATE TABLE kushy_reduced (
 	flavor_1 VARCHAR,
 	flavor_2 VARCHAR,
 	flavor_3 VARCHAR,
-    PRIMARY KEY (test_id, test_strain),
+    PRIMARY KEY (test_id),
 	UNIQUE (test_id, test_strain)
 );
 
