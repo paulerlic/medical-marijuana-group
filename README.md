@@ -58,3 +58,6 @@ Tableau will be used to create a fully functioning and interactive dashboard.
 
 ### Dashboard (0 points)
 There are no deliverables associated with the dashboard for this segment.
+
+Group Project : Google Doc
+https://docs.google.com/document/d/1-6FO7k0fXq7iUtX8AFXh-ha2KmLRKktT6JOm8WJNFxg/edit
