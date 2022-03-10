@@ -1,0 +1,723 @@
+test_id,test_strain,type,ailment_1,ailment_2,ailment_3,ailment_4,ailment_5,effects_1,effects_2,effects_3,effects_4,effects_5,effects_6,effects_7,effects_8,flavor_1,flavor_2,flavor_3,thc_max,cbd_max,inventory_type,chemotype,strain_category,strain_leafly_page_rank,strain_leafly_review_rank,strain_tests,strain_chemotype,strain_prop_chemotype1,strain_prop_chemotype2,strain_prop_chemotype3,strain_modal_chemo_prop
+19,Dutch Hawaiian,Sativa,Depression, Stress, Pain, Nausea,,Happy, Energetic, Uplifted, Euphoric, Relaxed, Dry Mouth, Anxious,,Citrus, Sweet,,20.1309,0.54,Flower Lot,1,Sativa,619,141,425,1,1,0,0,1
+21,SleeStack,Hybrid,Stress, Depression,,,,Uplifted, Euphoric, Creative, Relaxed, Talkative, Anxious, Dry Mouth,,Sweet, Pine,,9.9139,0,Flower Lot,1,Sativa,1276,151,63,1,1,0,0,1
+22,Space Needle,Sativa,Depression, Stress,,,,Uplifted, Euphoric, Happy, Hungry, Relaxed, Dry Mouth, Anxious,,Pine,,,10.8132,0,Flower Lot,1,,,,,,,,,
+23,Double Purple Doja,Hybrid,Pain, Stress, Inflammation, Muscle Spasms,,Relaxed, Creative, Sleepy, Happy, Euphoric, Dry Mouth, Anxious,,Earthy, Grape,,11.6702,0,Flower Lot,1,Indica,1115,151,52,1,1,0,0,1
+37,Jack Skellington,Hybrid,Stress, Depression, Pain, Muscle Spasms,,Creative, Relaxed, Euphoric, Energetic, Happy, Dry Mouth, Paranoid, Anxious,Citrus, Sweet,,13.4657,0,Flower Lot,1,Sativa,708,141,124,1,1,0,0,1
+38,Northern Lights,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Anxious, Paranoid,Earthy, Pine, Sweet,12.0579,0,Flower Lot,1,Indica,11,11,1389,1,0.987761,0.0115191,0.0007199,0.987761
+42,Qleaner,Hybrid,,,,,,Uplifted,Energetic,Happy,Euphoric,Creative,,,,,,,13.2919,0,Flower Lot,1,Hybrid,1377,150,61,1,1,0,0,1
+43,Qush,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Sleepy, Uplifted, Happy, Euphoric, Dry Mouth,,,Citrus,,,10.3016,0,Flower Lot,1,Indica,1594,151,17,1,1,0,0,1
+52,Afgoo,Indica,Stress, Pain, Insomnia, Lack of Appetite, Muscle Spasms,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Pine, Earthy, Citrus,12.5149,0,Flower Lot,1,Indica,196,116,795,1,0.9962264,0.0037736,0,0.9962264
+57,Pineapple,Hybrid,,,,,,Happy,Uplifted,Euphoric,Relaxed,Energetic,,,,Earthy,Grape,Berry,14.4689,0,Flower Lot,1,Hybrid,143,93,502,1,0.9960159,0,0.0039841,0.9960159
+59,Jack the Ripper,Hybrid,Stress, Depression, Pain,,,Happy, Energetic, Uplifted, Euphoric, Talkative, Dry Mouth, Paranoid, Anxious,Lemon, Citrus, Earthy,4.008,0,Flower Lot,1,Sativa,158,122,322,1,0.9782609,0.0155279,0.0062112,0.9782609
+60,Grape Ape,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Anxious,,Grape, Sweet, Berry,9.67,0,Flower Lot,1,Indica,39,32,1860,1,0.9978495,0.0021505,0,0.9978495
+62,Harlequin,Hybrid,Stress, Pain, Depression, Inflammation,,Relaxed, Focused, Uplifted, Happy, Energetic, Dry Mouth, Anxious,,Earthy, Sweet,,6.9406,0,Flower Lot,1,Sativa,32,40,1205,2,0.3585062,0.586722,0.0547718,0.586722
+64,Chocolope,Sativa,Stress, Depression, Pain, Lack of Appetite,,Happy, Energetic, Uplifted, Euphoric, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Coffee, Sweet,12.9395,0,Flower Lot,1,Sativa,85,42,682,1,1,0,0,1
+72,Gremlin,Hybrid,,,,,,Euphoric,Relaxed,Uplifted,Aroused,Sleepy,,,,,,,16.20232,0.11,Flower Lot,1,,,,,,,,,
+74,Jack Herer,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Energetic, Uplifted, Creative, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,17.19814,0.02,Flower Lot,1,Sativa,9,9,1489,1,0.9899261,0.0100739,0,0.9899261
+82,AK-47,Hybrid,,,,,,Happy,Relaxed,Uplifted,Euphoric,Energetic,,,,,,,14.50805,0.01,Flower Lot,1,Hybrid,16,15,1646,1,0.9933171,0.0054678,0.0012151,0.9933171
+83,Ace of Spades,Hybrid,Stress, Lack of Appetite, Pain, Depression, Insomnia,Relaxed, Happy, Uplifted, Euphoric, Sleepy, Dry Mouth, Paranoid, Anxious,Earthy, Berry,,9.21006,0.01,Flower Lot,1,Indica,296,120,940,1,0.9787234,0.0148936,0.006383,0.9787234
+86,G-13,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Hungry,,,,Chemical,Sage,Flowery,13.00715,0.01,Flower Lot,1,Indica,56,69,355,1,0.9915493,0.0084507,0,0.9915493
+87,Permafrost,Hybrid,,,,,,Focused,Happy,Relaxed,Talkative,Euphoric,,,,,,,12.82555,0.01,Flower Lot,1,Hybrid,317,126,1076,1,0.9981413,0.0018587,0,0.9981413
+89,Sour Diesel,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Pungent,12.82555,0.01,Flower Lot,1,Sativa,3,2,2377,1,0.9907447,0.0088347,0.0004207,0.9907447
+90,Casey Jones,Hybrid,Depression, Stress, Pain, Inflammation,,Euphoric, Energetic, Uplifted, Happy, Talkative, Dry Mouth, Paranoid, Anxious,Sweet, Earthy,,12.12518,0.01,Flower Lot,1,Sativa,213,114,19,1,1,0,0,1
+91,Purple Urkel,Indica,,,,,,,,,,,,,,Sweet,Earthy,Tropical,16.11082,0.44,Flower Lot,1,Indica,64,43,737,1,0.9932157,0.0067843,0,0.9932157
+93,Agent Orange,Hybrid,,,,,,,,,,,,,,Spicy/Herbal,Sage,Woody,13.01854,0.01,Flower Lot,1,Hybrid,74,52,784,1,0.994898,0.002551,0.002551,0.994898
+96,Querkle,Hybrid,Stress, Pain, Insomnia, Lack of Appetite, Depression,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Sweet, Earthy, Berry,15.63505,0.18,Flower Lot,1,Indica,315,138,244,1,1,0,0,1
+100,Amnesia,Sativa,Stress, Depression, Pain, Lack of Appetite,,Happy, Euphoric, Uplifted, Relaxed, Energetic, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,16.47237,0.01,Flower Lot,1,Sativa,103,60,315,1,0.952381,0.047619,0,0.952381
+101,Cinex,Hybrid,Depression, Stress, Pain,,,Energetic, Uplifted, Happy, Focused, Euphoric, Dry Mouth, Anxious, Paranoid,Citrus, Earthy,,16.8122,0,Flower Lot,1,Sativa,119,71,4017,1,0.9972616,0.0024894,0.0002489,0.9972616
+103,Godzilla,Hybrid,Pain, Inflammation, Stress, Insomnia, Depression,Euphoric, Relaxed, Sleepy, Creative, Happy, Dry Mouth,,,Earthy, Berry,,15.5475,0,Flower Lot,1,Indica,894,145,11,1,1,0,0,1
+105,Blueberry Kush,Indica,Pain, Stress, Insomnia, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Paranoid,,Blueberry, Berry, Sweet,15.17099,0.01,Flower Lot,1,Indica,93,67,476,1,0.9852941,0.0147059,0,0.9852941
+116,Pitbull,Indica,Pain, Stress, Depression, Nausea, Insomnia,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,13.69437,0.01,Flower Lot,1,Indica,607,134,760,1,0.9960526,0.0039474,0,0.9960526
+130,Vortex,Hybrid,Stress, Depression, Pain,,,Uplifted, Euphoric, Relaxed, Happy, Energetic, Dry Mouth, Anxious,,Mango, Earthy, Lemon,11.50748,0.01,Flower Lot,1,Sativa,256,131,136,1,0.9705882,0.0294118,0,0.9705882
+131,Tangerine Dream,Hybrid,,,,,,,,,,,,,,Flowery,Citrus,Pungent,17.43017,0.01,Flower Lot,1,Hybrid,86,57,564,1,0.9893617,0.0070922,0.0035461,0.9893617
+132,Royal Queen,Hybrid,,,,,,,,,,,,,,Sweet,Pine,Woody,14.04233,0.01,Flower Lot,1,,,,,,,,,
+137,Moby Dick,Hybrid,Stress, Depression, Pain,,,Happy, Euphoric, Uplifted, Relaxed, Energetic, Dry Mouth, Paranoid, Anxious,Citrus, Earthy, Sweet,14.0548,0.52,Flower Lot,1,Sativa,101,62,50,1,1,0,0,1
+139,Purple Pineapple,Hybrid,,,,,,,,,,,,,,Sweet,Earthy,Tropical,13.09678,0.01,Flower Lot,1,,,,,,,,,
+158,Blue Magoo,Hybrid,,,,,,,,,,,,,,Tree,Fruit,Sweet,14.88314,0.01,Flower Lot,1,Hybrid,295,113,666,1,1,0,0,1
+159,Critical Mass,Hybrid,Stress, Pain, Depression, Insomnia, Inflammation,Relaxed, Happy, Sleepy, Uplifted, Focused, Dry Mouth, Anxious, Paranoid,Earthy, Sweet,,4.24105,7.87,Flower Lot,2,Indica,70,69,568,1,0.5633803,0.4366197,0,0.5633803
+160,Grape Krush,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Pine,6.13756,7.27,Flower Lot,2,Indica,1304,145,12,2,0.3333333,0.6666667,0,0.6666667
+163,Train Wreck,Hybrid,,,,,,,,,,,,,,Earthy,Berry,Blueberry,16.432,0.01,Flower Lot,1,Hybrid,14,18,871,1,1,0,0,1
+171,Trainwreck,Hybrid,,,,,,Happy,Euphoric,Relaxed,Uplifted,Creative,,,,Woody,Earthy,Citrus,14.2243,0.22,Flower Lot,1,Hybrid,14,18,871,1,1,0,0,1
+173,Afgooey,Indica,Pain, Insomnia, Lack of Appetite, Stress, Muscle Spasms,Relaxed, Happy, Sleepy, Euphoric, Dry Mouth, Paranoid, Anxious,,Earthy, Pine,,18.6693,0.13,Flower Lot,1,Indica,416,129,561,1,0.9946524,0.0053476,0,0.9946524
+177,Bubba Kush,Hybrid,Pain, Stress, Insomnia, Depression, Lack of Appetite,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Anxious, Paranoid,Earthy, Sweet,,12.55218,0.01,Flower Lot,1,Indica,10,13,1316,1,0.9901216,0.0098784,0,0.9901216
+182,Lavender,Indica,Stress, Pain, Depression, Insomnia, Nausea,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid,,Lavender, Sweet,,16.01323,0.01,Flower Lot,1,Indica,151,76,884,1,0.9977376,0.0022624,0,0.9977376
+206,Alice in Wonderland,Hybrid,Lack of Appetite, Stress, Depression, Muscle Spasms,,Relaxed, Happy, Uplifted, Focused, Creative, Dry Mouth, Anxious,,Pine, Earthy, Sweet,11.49111,0.19,Flower Lot,1,Sativa,535,141,177,1,0.9491525,0.039548,0.0112994,0.9491525
+208,Strawberry Cough,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Euphoric, Uplifted, Energetic, Relaxed, Dry Mouth, Anxious, Paranoid,Strawberry, Sweet, Berry,11.73576,0.11,Flower Lot,1,Sativa,28,16,1093,1,0.9990851,0.0009149,0,0.9990851
+214,Dynamite,Hybrid,Stress, Pain, Inflammation, Depression,,Euphoric, Tingly, Talkative, Creative, Horny, Dry Mouth, Anxious,,Earthy, Citrus,,10.81828,0.05,Flower Lot,1,Indica,874,144,134,1,1,0,0,1
+216,Headband,Hybrid,,,,,,Happy,Relaxed,Uplifted,Euphoric,Creative,,,,,,,11.48095,0.11,Flower Lot,1,Hybrid,27,21,1514,1,0.997358,0.001321,0.001321,0.997358
+226,Durban Poison,Sativa,Depression, Stress, Pain, Nausea,,Uplifted, Happy, Energetic, Focused, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Sweet, Pine,13.3673,0.16,Flower Lot,1,Sativa,13,12,1413,1,0.9738146,0.0233546,0.0028309,0.9738146
+230,Skunk #1,Hybrid,,,,,,,,,,,,,,Berry,Lavender,Earthy,9.99144,0.11,Flower Lot,1,Hybrid,58,113,742,1,0.9824798,0.0175202,0,0.9824798
+234,Candy Skunk,Hybrid,,,,,,,,,,,,,,Tropical,Sweet,Tree,10.7132,0.12,Flower Lot,1,,,,,,,,,
+243,Blue God,Hybrid,Pain, Insomnia, Stress, Depression, Lack of Appetite,Relaxed, Sleepy, Euphoric, Hungry, Happy, Dry Mouth, Paranoid,,Berry, Blueberry, Sweet,12.34565,0.09,Flower Lot,1,Indica,426,131,53,1,0.8490566,0.1320755,0.0188679,0.8490566
+244,Space Queen,Hybrid,,,,,,,,,,,,,,Tropical,Sweet,Tree,7.75926,0.04,Flower Lot,1,Hybrid,115,79,520,1,1,0,0,1
+274,Night Train,Hybrid,Insomnia, Pain, Stress, Lack of Appetite,,Relaxed, Sleepy, Tingly, Euphoric, Uplifted,,,,Pepper,,,7.12381,0.09,Flower Lot,1,Indica,1534,151,36,1,1,0,0,1
+64257,Treasure Island,Hybrid,,,,,,,,,,,,,,Tropical,Pungent,Earthy,16.72457,39.11,Hydrocarbon Wax,2,Hybrid,1107,148,24,2,0,0.75,0.25,0.75
+276,Blackberry Kush,Hybrid,Stress, Pain, Insomnia, Depression, Nausea,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Berry, Sweet, Earthy,12.18806,0.21,Flower Lot,1,Indica,46,36,1519,1,0.9953917,0.00395,0.0006583,0.9953917
+285,Big Bud,Hybrid,Stress, Pain, Insomnia, Depression, Muscle Spasms,Relaxed, Sleepy, Hungry, Happy, Euphoric, Dry Mouth, Paranoid,,Earthy,,,10.1693,0.07,Flower Lot,1,Indica,132,119,142,1,1,0,0,1
+286,Blue Cheese,Hybrid,Stress, Insomnia, Pain, Depression,,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Blueberry,,,9.61032,0.06,Flower Lot,1,Indica,23,19,436,1,0.9862385,0.0045872,0.0091743,0.9862385
+294,OG Kush,Hybrid,,,,,,,,,,,,,,Earthy,Skunk,Flowery,12.84859,0.09,Flower Lot,1,Hybrid,5,6,1948,1,0.9922998,0.0077002,0,0.9922998
+296,Shining Silver Haze,Hybrid,Stress,,,,,Talkative, Happy, Focused, Uplifted, Energetic,,,,,,,3.49581,6.45,Flower Lot,2,Sativa,1243,149,41,1,0.9756098,0.0243902,0,0.9756098
+308,Sage,Hybrid,,,,,,Happy,Euphoric,Relaxed,Uplifted,Energetic,,,,,,,11.50892,0.08,Flower Lot,1,Hybrid,393,134,272,1,0.9926471,0,0.0073529,0.9926471
+317,Purple Jolly Rancher,Hybrid,Insomnia, Pain, Nausea, Depression,,Relaxed, Euphoric, Sleepy, Happy, Uplifted, Dry Mouth, Anxious,,Citrus,,,15.77499,0.05,Flower Lot,1,Indica,1332,147,222,1,0.9864865,0.009009,0.0045045,0.9864865
+347,Chocolate Thai,Hybrid,Stress, Depression, Pain, Insomnia, Nausea,Relaxed, Uplifted, Happy, Focused, Sleepy, Dry Mouth, Paranoid, Anxious,Earthy, Coffee,,12.2979,0.02,Flower Lot,1,Sativa,290,141,66,1,1,0,0,1
+352,Obama Kush,Hybrid,Pain, Stress, Depression, Nausea, Muscle Spasms,Relaxed, Uplifted, Euphoric, Happy, Focused, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,7.91846,0.42,Flower Lot,1,Indica,126,65,382,1,0.973822,0.026178,0,0.973822
+358,Purple Kush,Hybrid,Stress, Pain, Insomnia, Depression, Muscle Spasms,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Earthy, Berry, Grape,11.68298,0.03,Flower Lot,1,Indica,21,24,852,1,0.9953052,0.0023474,0.0023474,0.9953052
+360,Schrom,Hybrid,Stress, Depression, Lack of Appetite, Muscle Spasms,,Happy, Relaxed, Uplifted, Energetic, Creative, Dry Mouth,,,Lemon, Citrus, Pine,7.26199,0.01,Flower Lot,1,,,,,,,,,
+471,Chemdawg,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Creative,,,,,,,11.44908,0.04,Flower Lot,1,Hybrid,18,23,852,1,0.9988263,0.0011737,0,0.9988263
+474,UW,Indica,Insomnia, Stress, Pain, Lack of Appetite, Depression,Relaxed, Sleepy, Hungry, Happy, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Berry,,19.3532,0.17,Flower Lot,1,Indica,675,136,585,1,0.9760684,0.0239316,0,0.9760684
+495,Warlock,Hybrid,,,,,,Relaxed,Hungry,Happy,Euphoric,Uplifted,,,,Earthy,Sweet,Woody,11.57913,0.04,Flower Lot,1,Hybrid,601,142,41,1,1,0,0,1
+605,God Bud,Hybrid,Stress, Pain, Depression, Inflammation, Insomnia,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,18.25123,0.01,Flower Lot,1,Indica,137,90,607,1,0.9967051,0.0032949,0,0.9967051
+637,Grape God,Hybrid,,,,,,,,,,,,,,Lavender,Tobacco,Earthy,7.16996,0.01,Flower Lot,1,Hybrid,234,86,129,1,1,0,0,1
+652,Blue Hawaiian,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Pine,15.13804,0.04,Flower Lot,1,Hybrid,453,116,620,1,1,0,0,1
+673,Seattle Cough,Hybrid,Depression, Stress, Inflammation, Nausea,,Happy, Creative, Uplifted, Relaxed, Talkative, Dry Mouth, Paranoid,,Pine, Citrus,,16.48874,0.03,Flower Lot,1,Sativa,1273,146,181,1,1,0,0,1
+707,Freezeland,Indica,Stress, Insomnia, Depression, Lack of Appetite,,Happy, Euphoric, Relaxed, Sleepy, Dry Mouth, Paranoid,,,Pine, Earthy,,13.21651,0.04,Flower Lot,1,Indica,1101,146,7,1,1,0,0,1
+730,Black Cherry OG,Indica,Insomnia, Pain, Stress, Depression,,Relaxed, Uplifted, Happy, Euphoric, Tingly, Dry Mouth, Anxious, Paranoid,Berry, Sweet, Earthy,19.74197,0.08,Flower Lot,1,Indica,555,141,246,1,0.9918699,0.0081301,0,0.9918699
+747,Romulan,Hybrid,Stress, Pain, Insomnia, Muscle Spasms,,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet,,15.05649,0.03,Flower Lot,1,Indica,121,80,642,1,0.9875389,0.0124611,0,0.9875389
+786,Ice,Hybrid,,,,,,Euphoric,Uplifted,Relaxed,Happy,Tingly,,,,,,,14.82863,0.04,Flower Lot,1,Hybrid,230,134,116,1,0.9655172,0.0344828,0,0.9655172
+803,Dirty Girl,Hybrid,Depression, Stress, Pain, Insomnia,,Happy, Uplifted, Euphoric, Creative, Energetic, Dry Mouth, Paranoid, Anxious,Sweet, Pine,,16.54365,0.04,Flower Lot,1,Sativa,433,132,1838,1,0.9929271,0.0043526,0.0027203,0.9929271
+814,B-52,Hybrid,Stress, Insomnia, Lack of Appetite, Depression,,Relaxed, Uplifted, Focused, Euphoric, Creative, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,18.48203,0.28,Flower Lot,1,Indica,996,146,122,1,1,0,0,1
+843,Plushberry,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Anxious,,Berry, Sweet,,16.92814,0.75,Flower Lot,1,Indica,311,124,1036,1,0.988417,0.011583,0,0.988417
+844,Mickey Kush,Sativa,Depression, Stress, Pain, Lack of Appetite,,Happy, Uplifted, Energetic, Euphoric, Talkative, Dry Mouth, Paranoid, Anxious,Earthy, Sweet, Pine,13.90361,0.04,Flower Lot,1,Sativa,957,138,133,1,0.9924812,0.0075188,0,0.9924812
+933,Double Purple,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Pine,10.53676,0.03,Flower Lot,1,Indica,1115,151,52,1,1,0,0,1
+944,Master Kush,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Earthy,,,14.95159,0.099,Flower Lot,1,Indica,31,33,467,1,0.9914347,0.0085653,0,0.9914347
+945,New York Diesel,Sativa,,,,,,,,,,,,,,Citrus,Spicy/Herbal,Sweet,14.49506,0.099,Flower Lot,1,,,,,,,,,
+950,Shiva Skunk,Hybrid,Pain, Stress, Insomnia, Lack of Appetite,,Sleepy, Relaxed, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid,,Skunk, Sweet, Earthy,14.91695,0.223,Flower Lot,1,Indica,318,145,55,1,1,0,0,1
+951,Super Lemon Haze,Hybrid,Stress, Depression, Pain,,,Happy, Uplifted, Euphoric, Energetic, Creative, Dry Mouth, Paranoid, Anxious,Lemon, Citrus, Sweet,12.47531,0.128,Flower Lot,1,Sativa,29,22,2696,1,0.9873887,0.0055638,0.0070475,0.9873887
+977,Godberry,Indica,Insomnia, Pain, Stress, Muscle Spasms, Depression,Relaxed, Sleepy, Happy, Euphoric, Dry Mouth, Paranoid,,,Berry, Blueberry, Sweet,14.032,0,Flower Lot,1,Indica,910,146,29,1,1,0,0,1
+1008,Quantum Kush,Hybrid,Depression, Stress, Lack of Appetite, Pain,,Happy, Energetic, Uplifted, Euphoric, Relaxed, Dry Mouth, Paranoid, Anxious,Sweet, Earthy,,15.36638,0.18,Flower Lot,1,Sativa,226,98,136,1,1,0,0,1
+1018,Maui,Hybrid,Depression, Stress, Lack of Appetite,,,Talkative, Energetic, Happy, Uplifted, Euphoric, Dry Mouth, Anxious,,Citrus, Sweet,,17.53721,0.109,Flower Lot,1,Sativa,479,146,171,1,1,0,0,1
+1041,Orange Kush,Hybrid,Stress, Pain, Depression, Insomnia, Nausea,Relaxed, Happy, Uplifted, Sleepy, Euphoric, Dry Mouth, Paranoid, Anxious,Citrus, Orange, Sweet,21.07542,0.139,Flower Lot,1,Indica,112,77,1250,1,0.9904,0.0096,0,0.9904
+1053,Panama Red,Hybrid,Depression, Stress, Pain,,,Happy, Uplifted, Energetic, Focused, Horny, Dry Mouth, Anxious, Paranoid,Citrus, Pine,,16.19771,0.21,Flower Lot,1,Sativa,269,139,69,1,0.884058,0.115942,0,0.884058
+1065,Sour Tangie,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Uplifted, Euphoric, Relaxed, Energetic, Dry Mouth, Anxious,,Citrus, Orange,,17.25867,0.18,Flower Lot,1,Sativa,123,59,181,1,0.9889503,0.0110497,0,0.9889503
+1074,Timewreck,Hybrid,Depression, Pain, Stress, Lack of Appetite,,Energetic, Uplifted, Talkative, Euphoric, Happy, Anxious, Dry Mouth,,Lemon, Lime,,18.92315,0.24,Flower Lot,1,Sativa,395,141,406,1,0.9458128,0.0492611,0.0049261,0.9458128
+1089,Ogre,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Aroused,,,,,,,23.13832,0.14,Flower Lot,1,Hybrid,246,135,215,1,0.9906977,0.0093023,0,0.9906977
+1090,Black Magic,Hybrid,,,,,,,,,,,,,,Pungent,Earthy,Pine,16.07011,0.087,Flower Lot,1,Indica,1147,143,61,1,1,0,0,1
+1112,O.G. Kush,Sativa,,,,,,,,,,,,,,Butter,Citrus,Cheese,10.83176,0.13,Flower Lot,1,Hybrid,5,6,1948,1,0.9922998,0.0077002,0,0.9922998
+1113,Purple Elephant,Hybrid,Stress, Pain, Insomnia, Lack of Appetite, Depression,Relaxed, Sleepy, Euphoric, Happy, Tingly, Dry Mouth, Paranoid, Anxious,Sweet, Earthy, Grape,14.15736,0.18,Flower Lot,1,Indica,468,141,104,1,1,0,0,1
+1115,The HOG,Hybrid,Stress, Depression, Insomnia, Nausea,,Sleepy, Euphoric, Relaxed, Happy, Tingly, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,11.77641,0.01,Flower Lot,1,Indica,610,147,408,1,1,0,0,1
+1175,Blueberry,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Blueberry, Sweet, Berry,18.09259,0.273,Flower Lot,1,Indica,22,20,2291,1,0.9886512,0.0113488,0,0.9886512
+1177,Sugar Plum,Hybrid,Pain, Stress, Inflammation, Lack of Appetite, Nausea,Euphoric, Happy, Relaxed, Uplifted, Creative, Dry Mouth, Paranoid,,Sweet, Berry,,10.77042,0.136,Flower Lot,1,Sativa,1017,141,270,1,0.9925926,0.0074074,0,0.9925926
+1178,Cherry Pie,Indica,,,,,,,,,,,,,,Pungent,Earthy,Sweet,13.72544,0.065,Flower Lot,1,Hybrid,30,27,1476,1,0.9952574,0.0033875,0.001355,0.9952574
+1184,Cream Caramel,Hybrid,Stress, Insomnia, Depression, Pain,,Relaxed, Happy, Sleepy, Euphoric, Focused, Dry Mouth, Anxious,,Sweet, Honey, Earthy,20.81446,0.184,Flower Lot,1,Indica,355,143,11,1,1,0,0,1
+1192,LA Woman,Hybrid,,,,,,,,,,,,,,Earthy,Berry,Grape,16.10552,0.197,Flower Lot,1,Hybrid,802,148,70,1,1,0,0,1
+1217,Remedy,Indica,Stress, Pain, Depression, Insomnia, Inflammation,Relaxed, Sleepy, Happy, Uplifted, Focused, Dry Mouth,,,Earthy, Citrus,,0.307073,9.36,Flower Lot,3,Indica,354,132,314,2,0.089172,0.5127389,0.3980892,0.5127389
+1243,Elephant,Sativa,,,,,,Happy, Creative, Focused, Relaxed, Euphoric,,,,Sweet, Earthy,,15.14269,0.25,Flower Lot,1,Sativa,787,136,518,1,0.9826255,0.0135135,0.003861,0.9826255
+1259,Blue OG,Hybrid,,,,,,,,,,,,,,Apricot,Earthy,Spicy/Herbal,19.294,0,Flower Lot,1,Hybrid,297,139,187,1,1,0,0,1
+1271,Chernobyl,Hybrid,,,,,,Happy,Euphoric,Relaxed,Energetic,Uplifted,,,,,,,22.355,0.32,Flower Lot,1,Hybrid,118,73,862,1,0.9930394,0,0.0069606,0.9930394
+1276,Kosher Kush,Hybrid,Pain, Stress, Depression, Insomnia, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy,,,15.42574,0,Flower Lot,1,Indica,76,56,310,1,0.9870968,0.0129032,0,0.9870968
+1332,Kali Mist,Hybrid,Stress, Pain, Depression, Lack of Appetite, Muscle Spasms,Energetic, Creative, Happy, Focused, Uplifted, Dry Mouth, Anxious, Paranoid,Earthy, Sweet, Citrus,15.8027,0.164,Flower Lot,1,Sativa,227,117,46,1,1,0,0,1
+1333,Super Skunk,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Happy, Sleepy, Hungry, Euphoric, Dry Mouth, Paranoid, Anxious,Skunk, Earthy, Sweet,12.43757,0.136,Flower Lot,1,Indica,100,103,137,1,0.9854015,0.0145985,0,0.9854015
+1369,Caramelicious,Hybrid,,,,,,Focused,Happy,Relaxed,Euphoric,Creative,,,,,,,15.1767,0,Flower Lot,1,Hybrid,815,146,15,1,1,0,0,1
+1449,AK-48,Hybrid,,,,,,Happy,Energetic,Uplifted,Creative,Relaxed,,,,,,,16.3122,0,Flower Lot,1,Hybrid,270,138,56,1,1,0,0,1
+1453,MK Ultra,Hybrid,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet,,18.39769,0.106,Flower Lot,1,Indica,97,72,303,1,1,0,0,1
+1522,Sweet Cheese,Hybrid,Depression, Stress, Lack of Appetite,,,Euphoric, Uplifted, Happy, Energetic, Relaxed, Dry Mouth, Anxious, Paranoid,Sweet,,,16.17552,0,Flower Lot,1,Sativa,568,142,94,1,1,0,0,1
+1576,The Black,Hybrid,Insomnia, Stress, Pain, Muscle Spasms, Inflammation,Relaxed, Sleepy, Happy, Tingly, Euphoric, Dry Mouth, Anxious, Paranoid,Earthy, Sweet,,16.663,0,Flower Lot,1,Indica,303,144,155,1,1,0,0,1
+1631,Super Silver Haze,Sativa,Stress, Depression, Pain, Lack of Appetite,,Happy, Uplifted, Euphoric, Energetic, Relaxed, Dry Mouth, Paranoid, Anxious,Citrus, Earthy, Sweet,16.2109,0.133,Flower Lot,1,Sativa,25,17,997,1,1,0,0,1
+1736,Charlie Sheen,Hybrid,,,,,,,,,,,,,,Spicy/Herbal,Earthy,Sweet,18.2,0.2,Flower Lot,1,Hybrid,470,132,20,1,0.95,0,0.05,0.95
+1741,Purple OG Kush,Indica,Stress, Insomnia, Depression, Lack of Appetite,,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Anxious, Paranoid,Earthy,,,17.3,0.2,Flower Lot,1,Indica,184,112,77,1,1,0,0,1
+1855,THC Bomb,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Sweet,13.45884,0.082,Flower Lot,1,Hybrid,183,116,228,1,0.9824561,0.0175439,0,0.9824561
+1889,Aurora Indica,Hybrid,Stress, Insomnia, Pain, Muscle Spasms, Inflammation,Relaxed, Happy, Sleepy, Euphoric, Uplifted, Dry Mouth, Paranoid,,Pine, Skunk,,17.7154,0,Flower Lot,1,Indica,396,138,35,1,1,0,0,1
+1908,Chronic,Hybrid,,,,,,Relaxed,Happy,Giggly,Euphoric,Energetic,,,,,,,13.48602,0.15,Flower Lot,1,Hybrid,171,133,46,1,1,0,0,1
+1921,Fruit Punch,Hybrid,Depression, Stress, Pain, Nausea,,Happy, Uplifted, Euphoric, Energetic, Relaxed, Dry Mouth, Anxious, Paranoid,Sweet, Berry,,12.5411,0,Flower Lot,1,Sativa,349,123,75,1,1,0,0,1
+1922,Pot of Gold,Hybrid,Insomnia, Pain, Lack of Appetite, Stress,,Relaxed, Sleepy, Euphoric, Hungry, Uplifted, Paranoid, Anxious, Dry Mouth,Sweet, Grape, Pineapple,19.72214,0.31,Flower Lot,1,Indica,361,136,39,1,1,0,0,1
+1939,Granddaddy Purple,Indica,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Berry, Grape, Sweet,14.37372,0.069,Flower Lot,1,Indica,7,7,2272,1,0.9744718,0.0246479,0.0008803,0.9744718
+1959,Burmese,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Sweet,13.78687,0,Flower Lot,1,Hybrid,378,135,250,1,0.992,0.008,0,0.992
+2009,Buffalo Bill,Sativa,Depression, Stress, Pain, Insomnia,,Euphoric, Relaxed, Uplifted, Tingly, Happy, Dry Mouth, Anxious,,Pine, Earthy,,19.1,0.2,Flower Lot,1,Sativa,1621,148,143,1,1,0,0,1
+2022,Alaskan Thunder Fuck,Sativa,Stress, Depression, Lack of Appetite, Pain,,Happy, Euphoric, Uplifted, Energetic, Relaxed, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,14.15644,0,Flower Lot,1,Sativa,33,39,1376,1,0.9898256,0.005814,0.0043605,0.9898256
+2023,Deadwood,Indica,Stress, Muscle Spasms, Pain,,,Relaxed, Sleepy, Creative, Focused, Happy,,,,Berry, Lavender, Earthy,13.52564,0,Flower Lot,1,Indica,1631,146,10,1,1,0,0,1
+2044,Green Crack,Hybrid,Stress, Depression, Pain,,,Energetic, Happy, Uplifted, Focused, Euphoric, Dry Mouth, Anxious, Paranoid,Citrus, Sweet, Earthy,23.03949,0.13,Flower Lot,1,Sativa,6,4,2711,1,0.9977868,0.0022132,0,0.9977868
+2119,Blackberry Trainwreck,Hybrid,,,,,,,,,,,,,,Earthy,Tropical,Flowery,13.7558,0,Flower Lot,1,Hybrid,1445,151,132,1,0.969697,0.030303,0,0.969697
+2122,Skywalker,Hybrid,Stress, Pain, Depression, Insomnia,,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,20.8787,0.19,Flower Lot,1,Indica,43,67,204,1,0.9803922,0.0196078,0,0.9803922
+2140,Blue Mystic,Hybrid,Stress, Depression, Nausea,,,Relaxed, Happy, Uplifted, Sleepy, Dry Mouth, Paranoid, Anxious,,Blueberry, Earthy, Sweet,7.00583,0,Flower Lot,1,Indica,376,142,52,1,1,0,0,1
+2179,Berry White,Hybrid,Stress, Pain, Depression, Insomnia,,Relaxed, Happy, Euphoric, Uplifted, Sleepy, Dry Mouth, Paranoid, Anxious,Berry, Sweet, Blueberry,3.083684,0.001,Flower Lot,1,Indica,102,49,459,1,0.9891068,0.0108932,0,0.9891068
+2211,Purple Diesel,Hybrid,,,,,,,,,,,,,,Grape,Rose,Honey,8.23027,0.086,Flower Lot,1,Hybrid,192,115,639,1,0.9906103,0.0093897,0,0.9906103
+2222,Blue City Diesel,Hybrid,,,,,,,,,,,,,,Lime,Grapefruit,Tropical,17.6646,0.2,Flower Lot,1,Hybrid,128,99,375,1,0.9946667,0.0053333,0,0.9946667
+2268,Straight Jacket,Hybrid,,,,,,,,,,,,,,Citrus,Grapefruit,Earthy,23.6363,0.23,Flower Lot,1,,,,,,,,,
+2280,Cinderella 99,Sativa,,,,,,,,,,,,,,Earthy,Spicy/Herbal,Sweet,11.14455,0.05,Flower Lot,1,Hybrid,69,82,449,1,1,0,0,1
+2343,Royal Haze,Hybrid,Depression, Stress, Pain,,,Uplifted, Relaxed, Talkative, Happy, Euphoric, Dry Mouth,,,Skunk, Citrus, Earthy,16.13724,0.224,Flower Lot,1,Sativa,925,150,5,1,1,0,0,1
+2350,Strawberry Kush,Hybrid,,,,,,,,,,,,,,Sweet,Berry,Flowery,19.1797,0.27,Flower Lot,1,Hybrid,150,111,48,1,1,0,0,1
+2358,Jack Frost,Hybrid,,,,,,,,,,,,,,Earthy,Citrus,Sweet,16.21862,0.34,Flower Lot,1,Hybrid,142,98,142,1,0.9929578,0.0070423,0,0.9929578
+2563,X Factor,Hybrid,,,,,,,,,,,,,,Sweet,Woody,Earthy,19.4063,0.4,Flower Lot,1,,,,,,,,,
+2626,Papaya,Hybrid,Stress, Pain, Insomnia, Inflammation,,Relaxed, Sleepy, Happy, Uplifted, Hungry, Dry Mouth, Paranoid, Anxious,Sweet,,,19.65047,0.2,Flower Lot,1,Indica,432,136,101,1,1,0,0,1
+2629,Acapulco Gold,Sativa,Depression, Stress, Pain, Lack of Appetite,,Happy, Euphoric, Uplifted, Relaxed, Creative, Dry Mouth, Paranoid, Anxious,Earthy, Citrus,,16.13337,0.283,Flower Lot,1,Sativa,108,84,656,1,0.9954268,0.0045732,0,0.9954268
+2688,LSD,Hybrid,,,,,,Happy,Relaxed,Euphoric,Uplifted,Creative,,,,Citrus,Pepper,Grapefruit,15.9,0.3,Flower Lot,1,Hybrid,51,47,302,1,0.9966887,0.0033113,0,0.9966887
+2748,Oregon Diesel,Hybrid,Depression, Stress, Insomnia, Pain,,Relaxed, Happy, Euphoric, Uplifted, Tingly, Dry Mouth, Paranoid, Anxious,Earthy,,,13.52147,0.78,Flower Lot,1,Indica,665,136,131,1,1,0,0,1
+2764,Critical Kush,Indica,Depression, Stress, Pain, Lack of Appetite, Insomnia,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Anxious, Paranoid,Earthy,,,16.60826,0.159,Flower Lot,1,Indica,68,51,477,1,0.9874214,0.0125786,0,0.9874214
+2772,Vanilla Kush,Indica,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Anxious,,Vanilla, Sweet,,21.39759,0.185,Flower Lot,1,Indica,179,87,156,1,1,0,0,1
+2945,White Rhino,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Happy, Uplifted, Euphoric, Sleepy, Dry Mouth, Paranoid,,Earthy, Sweet,,15.70154,0.094,Flower Lot,1,Indica,54,67,493,1,1,0,0,1
+2946,White Lavender,Hybrid,,,,,,,,,,,,,,Strawberry,Sweet,Flowery,15.90138,0.079,Flower Lot,1,Hybrid,963,143,63,1,1,0,0,1
+2949,Thai,Sativa,Stress, Depression, Pain,,,Happy, Relaxed, Uplifted, Euphoric, Energetic, Dry Mouth, Anxious,,Earthy, Sweet,,17.81722,0.199,Flower Lot,1,Sativa,147,137,82,1,1,0,0,1
+2993,Bubblicious,Hybrid,,,,,,Happy,Relaxed,Talkative,Giggly,Uplifted,,,,Sweet,Tropical,Citrus,13.94938,0.079,Flower Lot,1,Hybrid,517,142,101,1,1,0,0,1
+2996,Shark Attack,Hybrid,Pain, Stress, Insomnia, Inflammation,,Happy, Focused, Hungry, Horny, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Skunk,,17.16335,0.139,Flower Lot,1,Indica,1618,151,10,1,1,0,0,1
+3052,Blackberry,Hybrid,,,,,,Relaxed,Euphoric,Happy,Uplifted,Sleepy,,,,,,,9.66561,0.07,Flower Lot,1,Hybrid,156,101,444,1,0.9324324,0.0675676,0,0.9324324
+3280,Purple Haze,Hybrid,Depression, Stress, Pain,,,Euphoric, Happy, Uplifted, Relaxed, Creative, Dry Mouth, Paranoid,,Earthy, Sweet, Berry,10.73201,0.135,Flower Lot,1,Sativa,36,49,283,1,1,0,0,1
+3348,Everlast,Indica,Stress, Insomnia, Pain, Depression, Inflammation,Relaxed, Sleepy, Happy, Tingly, Euphoric, Dry Mouth,,,Earthy, Skunk,,24.74766,0.35,Flower Lot,1,,,,,,,,,
+3388,Northern Lights x Blueberry,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Skunk,15.3844,0.7,Flower Lot,1,,,,,,,,,
+3439,Alien Dawg,Indica,Stress, Pain, Insomnia, Nausea,,Relaxed, Euphoric, Happy, Sleepy, Uplifted, Dry Mouth, Anxious,,Earthy,,,11.32856,0.156,Flower Lot,1,Indica,293,128,120,1,0.9833333,0.0166667,0,0.9833333
+3510,Blood Wreck,Hybrid,,,,,,,,,,,,,,Sweet,Earthy,Flowery,9.6,0.2,Flower Lot,1,,,,,,,,,
+3523,Flo,Hybrid,,,,,,Happy,Uplifted,Relaxed,Creative,Focused,,,,,,,13.6,0.4,Flower Lot,1,Hybrid,148,83,38,1,1,0,0,1
+3528,Maui Wowie,Sativa,Stress, Depression, Pain,,,Happy, Uplifted, Euphoric, Energetic, Creative, Dry Mouth, Paranoid, Anxious,Sweet, Pineapple,,6.9,0,Flower Lot,1,Sativa,60,49,835,1,0.9772455,0.0215569,0.0011976,0.9772455
+3560,Sensi Star,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet,,13.39741,0.76,Flower Lot,1,Indica,139,94,293,1,0.9829351,0.0170648,0,0.9829351
+3574,Blueberry Skunk,Hybrid,Stress, Pain, Muscle Spasms, Nausea,,Euphoric, Relaxed, Happy, Uplifted, Tingly, Dry Mouth, Anxious, Paranoid,Blueberry, Berry, Skunk,6.967445,0.017,Flower Lot,1,Indica,672,147,54,1,1,0,0,1
+3581,Snow Leopard,Hybrid,Stress, Pain, Insomnia, Depression, Inflammation,Euphoric, Relaxed, Sleepy, Happy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet,,18.70933,0.201,Flower Lot,1,Indica,1149,142,227,1,1,0,0,1
+3586,Cheese,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Hungry,,,,,,,16.0014,0.05,Flower Lot,1,Hybrid,34,39,776,1,0.9935567,0.0051546,0.0012887,0.9935567
+3592,Hindu Kush,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Hungry, Dry Mouth, Anxious, Paranoid,Earthy, Sweet,,13.06919,0,Flower Lot,1,Indica,59,55,473,1,0.9978858,0.0021142,0,0.9978858
+3605,Dutch Dream,Hybrid,,,,,,,,,,,,,,Lavender,Ammonia,Sweet,19.1,0.2,Flower Lot,1,Hybrid,104,55,4529,1,0.9971296,0.0028704,0,0.9971296
+3608,Deep Purple,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Euphoric, Sleepy, Happy, Tingly, Dry Mouth, Anxious,,Grape, Earthy, Sweet,20.07429,0.01,Flower Lot,1,Indica,600,147,95,1,1,0,0,1
+3620,Rosetta Stone,Hybrid,,,,,,,,,,,,,,Citrus,Orange,Sweet,16.286,0.7,Flower Lot,1,,,,,,,,,
+3707,Skunk,Hybrid,,,,,,,,,,,,,,Spicy/Herbal,Pepper,Earthy,22.42349,0.01,Flower Lot,1,Hybrid,58,113,742,1,0.9824798,0.0175202,0,0.9824798
+3818,Pez,Indica,Pain, Inflammation, Stress, Insomnia, Depression,Euphoric, Happy, Energetic, Talkative, Relaxed, Dry Mouth, Paranoid,,Sweet, Citrus,,7.492102,0,Flower Lot,1,Indica,1213,151,79,1,1,0,0,1
+3847,Phantom Cookies,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Sweet,19.84341,0.17,Flower Lot,1,Hybrid,309,109,368,1,1,0,0,1
+3903,Purple Urkle,Hybrid,Pain, Insomnia, Stress, Depression, Inflammation,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Anxious,,Sweet, Grape, Berry,13.30398,0,Flower Lot,1,Indica,64,43,737,1,0.9932157,0.0067843,0,0.9932157
+3908,Death Star,Hybrid,Stress, Pain, Depression, Insomnia, Nausea,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious, Paranoid,Earthy,,,20,0.3,Flower Lot,1,Indica,55,41,403,1,0.9652606,0.0347395,0,0.9652606
+3934,Cheeseburger,Hybrid,,,,,,Tingly,Uplifted,Relaxed,Aroused,Creative,,,,,,,17.67935,0,Flower Lot,1,Hybrid,1536,150,19,1,1,0,0,1
+4064,Chocolate Chunk,Hybrid,Insomnia, Pain, Stress, Depression, Nausea,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Anxious,,Earthy, Sweet,,10.37897,0.105,Flower Lot,1,Indica,472,141,386,1,0.9948186,0.0051813,0,0.9948186
+4066,Cherry Kush,Organi,,,,,,,,,,,,,,Lemon,Pine,Earthy,14.05582,0.173,Flower Lot,1,Hybrid,241,128,159,1,0.9937107,0.0062893,0,0.9937107
+4073,Amnesia Haze,Hybrid,Stress, Depression, Pain,,,Happy, Uplifted, Euphoric, Energetic, Creative, Dry Mouth, Paranoid, Anxious,Citrus, Lemon, Earthy,15.70653,0.18,Flower Lot,1,Sativa,26,30,331,1,0.9939577,0.0060423,0,0.9939577
+4208,Green Love Potion,Hybrid,Pain, Muscle Spasms, Insomnia, Lack of Appetite, Stress,Relaxed, Horny, Tingly, Euphoric, Sleepy, Dry Mouth,,,Pine,,,10.68508,0.09,Flower Lot,1,Indica,1002,150,76,1,1,0,0,1
+4272,Enigma,Hybrid,Insomnia, Depression, Pain, Nausea, Inflammation,Relaxed, Happy, Sleepy, Euphoric, Dry Mouth,,,,Citrus,,,4.4,10,Flower Lot,2,Indica,1577,149,18,1,0.7222222,0.2777778,0,0.7222222
+4320,Super Blue Dream,Hybrid,,,,,,,,,,,,,,Citrus,Orange,Tropical,19,0.2,Flower Lot,1,Hybrid,360,134,91,1,1,0,0,1
+4334,XXX OG,Indica,Stress, Pain, Insomnia, Depression, Lack of Appetite,Sleepy, Relaxed, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid,,Earthy, Pine,,10.5609,0.4,Flower Lot,1,Indica,127,127,54,1,0.9444444,0.0555556,0,0.9444444
+4374,Omega,Hybrid,,,,,,Euphoric,Happy,Tingly,Relaxed,Uplifted,,,,Tropical,Sweet,Citrus,12.9166,0.151,Flower Lot,1,Hybrid,1514,150,65,1,1,0,0,1
+4397,CBD Critical Mass,Hybrid,Pain, Inflammation, Depression, Muscle Spasms,,Relaxed, Happy, Euphoric, Tingly, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy,,,3.423396,7.627,Flower Lot,2,Indica,70,69,568,1,0.5633803,0.4366197,0,0.5633803
+4472,Bay 11,Hybrid,Depression, Insomnia, Stress, Pain,,Happy, Uplifted, Energetic, Relaxed, Creative, Anxious, Dry Mouth,,Sweet, Skunk,,16.7507,0,Flower Lot,1,Sativa,454,134,120,1,0.9833333,0.0166667,0,0.9833333
+4526,Critical Sensi Star,Hybrid,Stress, Pain, Depression, Muscle Spasms, Insomnia,Relaxed, Happy, Sleepy, Uplifted, Tingly, Dry Mouth, Paranoid,,Citrus, Sweet,,10.62154,0.237,Flower Lot,1,Indica,836,144,64,1,1,0,0,1
+4539,Supergirl,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Relaxed, Sleepy, Euphoric, Dry Mouth, Paranoid,,,Earthy,,,22.3004,1.3,Flower Lot,1,Indica,1491,146,435,1,0.9448276,0.0505747,0.0045977,0.9448276
+4551,Strawberry,Sativa,Stress, Depression, Pain,,,Happy, Uplifted, Energetic, Talkative, Euphoric, Dry Mouth, Paranoid,,Strawberry, Sweet, Berry,15.986,0.2,Flower Lot,1,Sativa,244,127,107,1,0.9813084,0.0186916,0,0.9813084
+4556,Moonshine Haze,Sativa,Stress, Depression, Muscle Spasms,,,Uplifted, Happy, Euphoric, Talkative, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Citrus,,15.29426,0.161,Flower Lot,1,Sativa,410,134,29,1,1,0,0,1
+4679,God,Hybrid,,,,,,,,,,,,,,Sweet,Skunk,Tropical,16.6839,0.278,Flower Lot,1,,,,,,,,,
+4693,Chem Valley Kush,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Pungent,19.92971,0,Flower Lot,1,Hybrid,735,146,16,1,1,0,0,1
+4862,LA Confidential,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Happy, Sleepy, Euphoric, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine, Sweet,14.01456,0.462,Flower Lot,1,Indica,65,58,385,1,0.9688312,0.0311688,0,0.9688312
+4877,Dance World,Hybrid,Stress, Depression, Pain, Inflammation, Lack of Appetite,Relaxed, Happy, Uplifted, Euphoric, Talkative, Dry Mouth,,,Citrus, Earthy,,8.427882,14.223,Flower Lot,2,Sativa,630,150,66,2,0.3636364,0.6363636,0,0.6363636
+4880,Jack Cheddar,Hybrid,,,,,,,,,,,,,,Menthol,Spicy/Herbal,Pepper,20.83582,0.864,Flower Lot,1,,,,,,,,,
+5070,Cotton Candy,Hybrid,,,,,,,,,,,,,,Citrus,Tropical,Chemical,13.8058,0.4,Flower Lot,1,Hybrid,94,63,925,1,0.9902703,0.0010811,0.0086486,0.9902703
+5079,Purple Mr. Nice,Indica,Insomnia, Pain, Depression, Stress, Nausea,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Anxious,,Earthy, Grape, Sweet,18.7924,0.1,Flower Lot,1,Indica,549,143,17,1,0.9411765,0.0588235,0,0.9411765
+5136,Big Bang,Hybrid,Pain, Stress, Insomnia, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Paranoid, Anxious,Earthy,,,11.54476,1.531,Flower Lot,1,Indica,812,148,43,1,1,0,0,1
+5184,Island Sweet Skunk,Sativa,Stress, Pain, Depression,,,Happy, Uplifted, Energetic, Euphoric, Creative, Dry Mouth, Paranoid,,Sweet, Skunk,,13.8,0.2,Flower Lot,1,Sativa,114,65,50,1,1,0,0,1
+5185,Hash Plant,Indica,Stress, Pain, Insomnia, Depression,,Relaxed, Sleepy, Happy, Hungry, Euphoric, Dry Mouth, Paranoid,,Earthy,,,17.9,0.2,Flower Lot,1,Indica,140,102,305,1,1,0,0,1
+5192,Lemon Haze,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Uplifted, Euphoric, Energetic, Relaxed, Dry Mouth, Anxious, Paranoid,Lemon, Citrus, Sweet,15.46502,0.131,Flower Lot,1,Sativa,17,14,98,1,0.9795918,0.0204082,0,0.9795918
+5220,Abusive OG,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Hungry, Dry Mouth, Anxious,,Earthy, Citrus,,17.4,0.2,Flower Lot,1,Indica,419,140,60,1,1,0,0,1
+5229,Raspberry Kush,Hybrid,Stress, Insomnia, Pain, Lack of Appetite, Muscle Spasms,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Berry, Sweet,,14.67525,0.192,Flower Lot,1,Indica,231,118,357,1,1,0,0,1
+5233,Critical Hog,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Relaxed, Happy, Hungry, Sleepy, Euphoric, Dry Mouth, Paranoid,,Earthy,,,10.44974,0.261,Flower Lot,1,Indica,883,143,24,1,1,0,0,1
+5268,Double Bubble,Hybrid,,,,,,,,,,,,,,Pineapple,Tropical,Sweet,9.947473,0.083,Flower Lot,1,,,,,,,,,
+5440,Pink Champagne,Indica,Stress, Depression, Insomnia,,,Relaxed, Euphoric, Happy, Uplifted, Dry Mouth, Anxious,,,Berry, Sweet, Rose,17.9,0.3,Flower Lot,1,Indica,359,136,22,1,0.9090909,0.0909091,0,0.9090909
+5670,Red Headed Stranger,Sativa,Depression, Stress, Pain, Lack of Appetite,,Focused, Happy, Energetic, Uplifted, Creative, Dry Mouth, Paranoid, Anxious,Citrus, Earthy,,17.2,0.2,Flower Lot,1,Sativa,415,121,110,1,1,0,0,1
+5715,CheeseWreck,Hybrid,,,,,,Happy,Relaxed,Uplifted,Creative,Euphoric,,,,Sweet,Pungent,Citrus,24.0298,0,Flower Lot,1,Hybrid,981,145,64,1,1,0,0,1
+5744,Sugar Black Rose,Hybrid,Stress, Insomnia, Muscle Spasms, Lack of Appetite,,Relaxed, Happy, Euphoric, Uplifted, Sleepy, Dry Mouth, Anxious,,Sweet, Rose, Earthy,18.87301,0.07,Flower Lot,1,Indica,263,122,76,1,1,0,0,1
+5782,Jock Horror,Hybrid,Depression, Stress, Lack of Appetite, Insomnia,,Euphoric, Happy, Creative, Hungry, Relaxed, Dry Mouth, Anxious,,Sweet, Berry, Earthy,15.95218,0.076,Flower Lot,1,Sativa,730,148,25,1,1,0,0,1
+5825,Brainwreck,Hybrid,,,,,,Creative,Focused,Uplifted,Happy,Euphoric,,,,Earthy,Pungent,Woody,18.4,0.2,Flower Lot,1,Hybrid,711,143,30,1,1,0,0,1
+5880,Galactic Jack,Hybrid,Depression, Stress, Pain,,,Energetic, Focused, Happy, Uplifted, Euphoric, Dry Mouth, Anxious,,Citrus, Sweet,,22.19281,0,Flower Lot,1,Sativa,508,136,123,1,1,0,0,1
+5884,Marionberry Kush,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Woody,20.85287,0,Flower Lot,1,Hybrid,439,133,429,1,0.990676,0.009324,0,0.990676
+5885,Pennywise,Hybrid,Stress, Pain, Depression, Insomnia, Inflammation,Relaxed, Happy, Sleepy, Uplifted, Euphoric, Dry Mouth, Anxious, Paranoid,Earthy,,,9.55786,11.83,Flower Lot,2,Indica,172,104,265,2,0.2301887,0.7660378,0.0037736,0.7660378
+5921,WSU,Indica,Pain, Stress, Depression, Insomnia, Lack of Appetite,Relaxed, Euphoric, Hungry, Happy, Talkative, Dry Mouth,,,Pine, Earthy, Berry,6.539448,0,Flower Lot,1,Indica,1810,150,212,1,1,0,0,1
+5930,American Kush,Hybrid,Pain, Muscle Spasms, Stress, Insomnia,,Relaxed, Happy, Tingly, Sleepy, Uplifted, Dry Mouth, Anxious,,Sweet, Lemon, Lime,8.841914,0,Flower Lot,1,,,,,,,,,
+5941,Cali Orange,Hybrid,,,,,,,,,,,,,,Woody,Earthy,Pine,11.47993,0,Flower Lot,1,Hybrid,1854,151,11,1,1,0,0,1
+5974,Pre-98 Bubba Kush,Indica,Pain, Stress, Insomnia, Inflammation, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Anxious,,Earthy, Coffee, Pine,8.522264,0,Flower Lot,1,Indica,164,93,319,1,0.9968652,0.0031348,0,0.9968652
+5985,Sweet Tooth,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Uplifted, Tingly, Dry Mouth, Paranoid,,Sweet, Berry,,11.98333,0,Flower Lot,1,Indica,144,116,119,1,1,0,0,1
+5990,Purple Afghani,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Anxious,,Sweet, Grape,,12.34883,0,Flower Lot,1,Indica,401,141,168,1,0.9583333,0.0416667,0,0.9583333
+6068,DJ Short Blueberry,Indica,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Uplifted, Creative, Dry Mouth, Anxious,,Blueberry, Sweet, Berry,17.9154,0.1,Flower Lot,1,Indica,319,127,728,1,0.989011,0.010989,0,0.989011
+6118,Purple Wreck,Hybrid,Stress, Pain, Depression, Inflammation,,Relaxed, Sleepy, Happy, Uplifted, Dry Mouth, Paranoid, Anxious,,Grape, Sweet, Berry,6.8606,0.13,Flower Lot,1,Indica,629,133,27,1,1,0,0,1
+6120,Chocolate Kush,Hybrid,Stress, Pain, Insomnia, Lack of Appetite,,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Earthy, Coffee, Sweet,12.6111,0.27,Flower Lot,1,Indica,201,135,109,1,1,0,0,1
+6125,Pure Kush,Indica,Pain, Insomnia, Stress, Nausea,,Relaxed, Sleepy, Euphoric, Happy, Hungry, Dry Mouth, Paranoid,,Earthy, Skunk,,9.5946,0.21,Flower Lot,1,Indica,155,124,48,1,1,0,0,1
+6285,XJ-13,Hybrid,,,,,,Happy,Euphoric,Relaxed,Uplifted,Creative,,,,,,,12.8026,0.6,Flower Lot,1,Hybrid,110,64,782,1,1,0,0,1
+6439,Violator Kush,Indica,Depression, Stress, Insomnia, Pain,,Relaxed, Sleepy, Euphoric, Happy, Focused, Dry Mouth, Paranoid, Anxious,Earthy,,,18.96427,0.368,Flower Lot,1,Indica,229,114,11,1,0.9090909,0.0909091,0,0.9090909
+6533,G13,Indica,Stress, Pain, Depression, Insomnia, Inflammation,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Earthy, Sweet,,8.4315,0.34,Flower Lot,1,Indica,56,69,355,1,0.9915493,0.0084507,0,0.9915493
+6600,Cannalope Haze,Hybrid,Depression, Stress, Pain, Nausea,,Happy, Relaxed, Focused, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Sweet, Lime,,17,0,Flower Lot,1,Sativa,299,126,74,1,1,0,0,1
+6611,Tangerine,Hybrid,,,,,,Happy,Uplifted,Energetic,Relaxed,Creative,,,,,,,21.877,0,Flower Lot,1,Hybrid,291,128,68,1,1,0,0,1
+6615,Super Sour Diesel,Hybrid,Stress, Depression, Pain,,,Euphoric, Uplifted, Energetic, Happy, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Sweet,,22.048,0,Flower Lot,1,Sativa,149,95,147,1,1,0,0,1
+6622,Blue Venom,Hybrid,,,,,,,,,,,,,,Earthy,Pine,Lemon,13.0296,0.34,Flower Lot,1,Hybrid,823,143,125,1,1,0,0,1
+6639,Gigabud,Hybrid,Pain, Stress, Lack of Appetite, Insomnia, Nausea,Hungry, Relaxed, Sleepy, Happy, Focused, Dry Mouth, Anxious,,Sweet, Pine,,39.22202,0.646,Flower Lot,1,Indica,1021,149,28,1,1,0,0,1
+6640,Jamaican Dream,Hybrid,Stress, Depression, Nausea, Muscle Spasms, Pain,Happy, Euphoric, Uplifted, Relaxed, Talkative, Dry Mouth, Paranoid,,Earthy, Lime,,16.18665,0.277,Flower Lot,1,Sativa,661,144,44,1,0.9545454,0.0454545,0,0.9545454
+6698,Mr. Nice,Hybrid,Stress, Pain, Depression, Insomnia,,Relaxed, Happy, Hungry, Sleepy, Dry Mouth, Anxious,,,Sweet, Earthy,,15.89328,0.28,Flower Lot,1,Indica,62,75,322,1,0.9968944,0.0031056,0,0.9968944
+6823,Afghooey,Indica,Pain, Stress, Insomnia, Depression, Muscle Spasms,Uplifted, Sleepy, Euphoric, Relaxed, Talkative, Dry Mouth, Paranoid,,Earthy, Sweet,,18.54,0,Flower Lot,1,Indica,1204,147,78,1,0.974359,0.025641,0,0.974359
+6831,Cookie Monster,Hybrid,Stress, Pain, Insomnia, Lack of Appetite, Muscle Spasms,Relaxed, Euphoric, Happy, Sleepy, Dry Mouth, Anxious,,,Grape,,,20.171,0,Flower Lot,1,Indica,450,136,98,1,0.9591837,0,0.0408163,0.9591837
+6832,Sweet Baby Jane,Indica,Muscle Spasms, Stress, Pain, Inflammation, Insomnia,Relaxed, Happy, Sleepy, Tingly, Dry Mouth,,,,Citrus, Sweet,,18.663,0,Flower Lot,1,Indica,1305,144,17,1,1,0,0,1
+6848,Dairy Queen,Hybrid,,,,,,,,,,,,,,Earthy,Diesel,Citrus,15.909,0,Flower Lot,1,Hybrid,372,120,165,1,0.9939394,0.0060606,0,0.9939394
+6856,Sweet and Sour Widow,Indica,Pain, Stress, Depression, Insomnia,,Relaxed, Happy, Uplifted, Euphoric, Tingly, Dry Mouth, Paranoid,,Earthy, Sweet,,6.45328,0,Flower Lot,1,Indica,573,150,132,2,0.1666667,0.8333333,0,0.8333333
+6866,Early Girl,Indica,Stress, Pain, Depression, Muscle Spasms, Lack of Appetite,Relaxed, Happy, Uplifted, Euphoric, Hungry, Dry Mouth, Anxious, Paranoid,Citrus, Earthy, Sweet,18.0007,0,Flower Lot,1,Indica,757,150,14,1,1,0,0,1
+6875,Nuken,Hybrid,Depression, Lack of Appetite, Pain,,,Relaxed, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid,,,Citrus, Earthy,,16.47958,0,Flower Lot,1,Indica,283,118,103,1,0.9902912,0.0097087,0,0.9902912
+6939,Kilimanjaro,Sativa,Depression, Stress, Pain, Muscle Spasms,,Energetic, Happy, Talkative, Creative, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,14.06845,0,Flower Lot,1,Sativa,858,137,1,1,1,0,0,1
+6941,Wild Thailand,Hybrid,Depression, Pain, Stress,,,Horny, Euphoric, Talkative, Creative, Energetic, Dry Mouth, Anxious,,Sweet, Berry,,13.1062,0,Flower Lot,1,Sativa,1459,151,43,1,0.9534883,0.0465116,0,0.9534883
+6999,Great White Shark,Sativa,Stress, Pain, Depression,,,Relaxed, Happy, Uplifted, Euphoric, Energetic, Dry Mouth, Anxious,,Earthy, Citrus,,10.15345,0.531,Flower Lot,1,Sativa,159,103,210,1,0.9809524,0.0190476,0,0.9809524
+7004,Haze Mist,Hybrid,Nausea, Stress,,,,Energetic, Focused, Happy, Hungry,,,,,,,,6.262763,0.65,Flower Lot,1,Sativa,1636,152,1,1,1,0,0,1
+7019,Kalashnikova,Hybrid,,,,,,Relaxed,Happy,Energetic,Hungry,Sleepy,,,,,,,8.677074,0.235,Flower Lot,1,Hybrid,840,143,3,1,1,0,0,1
+7036,Super Critical,Hybrid,,,,,,,,,,,,,,Sage,Pungent,Diesel,12.33255,0.926,Flower Lot,1,,,,,,,,,
+7052,The Doctor,Hybrid,Insomnia, Pain, Stress, Inflammation, Depression,Relaxed, Euphoric, Happy, Sleepy, Dry Mouth, Anxious,,,Earthy, Citrus,,13.15114,0.346,Flower Lot,1,Indica,768,148,6,1,1,0,0,1
+7409,Jamaican Lion,Hybrid,Pain, Stress, Muscle Spasms, Depression,,Uplifted, Relaxed, Happy, Energetic, Talkative, Dry Mouth, Paranoid,,Earthy, Lime,,23.8913,0.8,Flower Lot,1,Sativa,811,148,22,2,0.3181818,0.6818182,0,0.6818182
+7416,Jedi Kush,Hybrid,Stress, Pain, Depression, Insomnia,,Relaxed, Euphoric, Happy, Uplifted, Sleepy, Dry Mouth, Anxious,,Earthy, Sweet,,16.032,0,Flower Lot,1,Indica,251,110,94,1,1,0,0,1
+7428,Redwood Kush,Hybrid,Insomnia, Pain, Stress, Depression, Muscle Spasms,Euphoric, Relaxed, Uplifted, Happy, Focused, Dry Mouth, Paranoid,,Pine, Earthy,,11.19282,0.14,Flower Lot,1,Indica,505,135,5,1,1,0,0,1
+7454,Jesus OG,Hybrid,Stress, Depression, Pain,,,Happy, Euphoric, Uplifted, Focused, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Citrus, Lemon,18.54,1,Flower Lot,1,Sativa,188,108,636,1,1,0,0,1
+7457,ACDC,Sativa,,,,,,Relaxed,Happy,Uplifted,Focused,Euphoric,,,,,,,4.50607,9.03,Flower Lot,2,Hybrid,77,62,1126,3,0.0586146,0.312611,0.6287744,0.6287744
+7474,Orange Creamsicle,Hybrid,,,,,,,,,,,,,,Diesel,Earthy,Pungent,16.14124,0.15,Flower Lot,1,Hybrid,408,129,72,1,1,0,0,1
+7475,Original Blueberry,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Flowery,14.132,0,Flower Lot,1,,,,,,,,,
+7514,Shark Shock,Hybrid,Pain, Stress, Inflammation, Depression, Muscle Spasms,Relaxed, Euphoric, Focused, Happy, Sleepy, Dry Mouth, Anxious,,Earthy, Sweet,,3.91142,0.18,Flower Lot,1,Indica,382,137,140,1,0.5714286,0.4285714,0,0.5714286
+7515,SnowLAnd,Hybrid,,,,,,Relaxed,Sleepy,Talkative,Creative,Focused,,,,,,,14.37997,0,Flower Lot,1,Hybrid,861,150,161,1,1,0,0,1
+7785,Humboldt,Hybrid,,,,,,Relaxed,Sleepy,Euphoric,Happy,Uplifted,,,,Diesel,Flowery,Earthy,12.79479,0,Flower Lot,1,Hybrid,609,116,38,1,1,0,0,1
+7821,Grapefruit,Hybrid,Stress, Depression, Pain,,,Happy, Energetic, Euphoric, Relaxed, Uplifted, Dry Mouth, Paranoid,,Citrus, Sweet,,21.01425,0.74,Flower Lot,1,Sativa,154,89,600,1,0.9966667,0.0033333,0,0.9966667
+7824,NightFire OG,Hybrid,Stress, Depression,,,,Talkative, Energetic, Happy, Euphoric, Creative, Dry Mouth, Anxious,,Earthy, Citrus,,20.31682,0.794,Flower Lot,1,Sativa,1302,151,119,1,1,0,0,1
+7855,Fucking Incredible,Hybrid,Pain, Stress, Depression, Insomnia,,Relaxed, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid, Anxious,,Skunk, Earthy,,18.59481,0.23,Flower Lot,1,Indica,351,106,484,1,0.9504132,0.0495868,0,0.9504132
+7892,Afghan Skunk,Hybrid,Stress, Insomnia, Depression, Nausea, Muscle Spasms,Relaxed, Happy, Sleepy, Uplifted, Creative, Dry Mouth, Anxious,,Earthy,,,23.14938,0.26,Flower Lot,1,Indica,725,146,17,1,1,0,0,1
+7911,Monster Cookies,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid,,Earthy, Grape, Sweet,17.42981,0.296,Flower Lot,1,Indica,217,101,34,1,1,0,0,1
+7955,Green Dragon,Hybrid,Pain, Stress, Nausea, Depression,,Relaxed, Euphoric, Uplifted, Sleepy, Happy, Dry Mouth, Paranoid, Anxious,Sweet, Earthy,,19.00591,0.689,Flower Lot,1,Indica,520,140,22,1,1,0,0,1
+8022,Purple Bubba,Indica,Lack of Appetite, Muscle Spasms, Inflammation, Pain, Stress,Relaxed, Sleepy, Hungry, Happy, Tingly, Dry Mouth,,,Grape, Berry, Sweet,23.048,0,Flower Lot,1,Indica,579,149,17,1,0.8823529,0.1176471,0,0.8823529
+8085,Tropicali,Hybrid,,,,,,Euphoric,Uplifted,Relaxed,Energetic,Happy,,,,,,,18.6808,0.24,Flower Lot,1,Hybrid,1229,151,19,1,1,0,0,1
+8151,Huckleberry,Hybrid,,,,,,Happy,Relaxed,Talkative,Uplifted,Euphoric,,,,,,,19.3,0.2,Flower Lot,1,Hybrid,409,128,98,1,0.9081632,0.0714286,0.0204082,0.9081632
+8349,Yummy,Hybrid,,,,,,Uplifted,Relaxed,Happy,Energetic,Euphoric,,,,,,,3.64185,0.21,Flower Lot,1,Hybrid,1143,151,85,3,0.0117647,0.1764706,0.8117647,0.8117647
+8363,Pineapple Euphoria,Hybrid,,,,,,,,,,,,,,Skunk,Pungent,Earthy,17.8069,0.2,Flower Lot,1,,,,,,,,,
+8597,Chronic Thunder,Indica,Insomnia, Pain, Muscle Spasms, Stress, Lack of Appetite,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Earthy,,,13.5796,0.36,Flower Lot,1,Indica,726,140,11,1,1,0,0,1
+8766,Jacky White,Hybrid,Stress, Nausea, Depression, Pain,,Energetic, Relaxed, Happy, Focused, Euphoric, Dry Mouth, Anxious, Paranoid,Citrus,,,17.0876,1.9,Flower Lot,1,Sativa,723,141,80,1,1,0,0,1
+8773,Hawaiian,Hybrid,Stress, Depression, Pain, Lack of Appetite, Nausea,Happy, Uplifted, Relaxed, Creative, Talkative, Dry Mouth, Paranoid, Anxious,Sweet, Citrus,,13.6,0,Flower Lot,1,Sativa,204,139,183,1,0.9234973,0.0765027,0,0.9234973
+8873,Emerald Jack,Hybrid,Stress, Depression, Pain, Insomnia,,Happy, Uplifted, Creative, Horny, Euphoric, Dry Mouth, Anxious, Paranoid,Pine, Earthy, Citrus,17.663,1,Flower Lot,1,Sativa,960,142,98,1,1,0,0,1
+8966,K2,Hybrid,,,,,,Relaxed,Happy,Giggly,Hungry,Sleepy,,,,,,,21.02989,0,Flower Lot,1,Hybrid,624,146,4,1,1,0,0,1
+8985,Cannalope Kush,Hybrid,,,,,,,,,,,,,,Citrus,Lime,Lemon,10.0216,0.2,Flower Lot,1,Hybrid,527,142,699,1,1,0,0,1
+8991,Lemon Sour Diesel,Hybrid,,,,,,,,,,,,,,Vanilla,Sweet,Coffee,12.91126,0.1,Flower Lot,1,Hybrid,124,83,236,1,0.9830508,0.0169492,0,0.9830508
+9028,Apple Jack,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Citrus,24.55675,0.5,Flower Lot,1,Hybrid,481,136,89,1,1,0,0,1
+9048,Northern Berry,Hybrid,Stress, Pain, Insomnia, Depression, Inflammation,Relaxed, Sleepy, Happy, Euphoric, Tingly, Dry Mouth, Paranoid,,Berry, Sweet, Earthy,13.4257,0.13,Flower Lot,1,Indica,789,145,9,1,1,0,0,1
+9187,Northern Lights #5,Hybrid,Pain, Stress, Insomnia, Inflammation, Nausea,Relaxed, Euphoric, Happy, Focused, Uplifted, Dry Mouth, Paranoid,,Sweet, Pine, Citrus,16.8,0,Flower Lot,1,Indica,310,135,187,1,1,0,0,1
+9228,Medusa,Hybrid,,,,,,Relaxed,Happy,Euphoric,Creative,Uplifted,,,,,,,15.24991,0.09,Flower Lot,1,Hybrid,774,143,101,1,0.990099,0.009901,0,0.990099
+9237,Black Russian,Hybrid,Stress, Insomnia, Lack of Appetite, Nausea,,Relaxed, Euphoric, Uplifted, Happy, Sleepy, Dry Mouth, Paranoid,,Citrus, Earthy, Lemon,13.7158,0.2,Flower Lot,1,Indica,611,136,207,1,1,0,0,1
+9494,Golden Pineapple,Hybrid,,,,,,,,,,,,,,Woody,Spicy/Herbal,Sweet,23.2651,0.4,Flower Lot,1,Hybrid,278,107,1648,1,0.9987864,0.0012136,0,0.9987864
+9532,9 Pound Hammer,Hybrid,Stress, Pain, Insomnia, Depression, Muscle Spasms,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Anxious,,Earthy, Sweet, Berry,19.30561,0.21,Flower Lot,1,Indica,106,54,1069,1,0.9953227,0.0046773,0,0.9953227
+9751,Jazz,Hybrid,,,,,,Uplifted,Relaxed,Euphoric,Energetic,Happy,,,,,,,9.387722,0,Flower Lot,1,Hybrid,1301,146,11,1,1,0,0,1
+9759,Blue Lights,Indica,Stress, Depression, Insomnia, Nausea, Pain,Euphoric, Relaxed, Energetic, Talkative, Dry Mouth, Paranoid,,,Blueberry, Sweet,,15.3721,0.2,Flower Lot,1,Indica,831,150,2,1,1,0,0,1
+9774,Frankenstein,Hybrid,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Sleepy, Creative, Tingly, Focused, Dry Mouth, Anxious,,Earthy, Skunk,,14.74181,0,Flower Lot,1,Indica,1056,150,104,1,1,0,0,1
+9880,Supernatural,Hybrid,Stress, Lack of Appetite,,,,Euphoric, Relaxed, Happy, Energetic, Horny, Dry Mouth,,,Citrus, Earthy,,18.0746,0.19,Flower Lot,1,Sativa,1495,151,126,1,1,0,0,1
+9894,Canna-Tsu,Hybrid,,,,,,Relaxed,Happy,Focused,Uplifted,Creative,,,,,,,3.58538,11.9,Flower Lot,2,Hybrid,377,130,41,2,0.0731707,0.6585366,0.2682927,0.6585366
+9901,Platinum Bubba Kush,Indica,Pain, Stress, Insomnia, Depression, Inflammation,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid,,Earthy,,,8.04006,0.12,Flower Lot,1,Indica,162,103,109,1,1,0,0,1
+9905,Swiss Gold,Hybrid,Pain, Stress, Depression, Inflammation,,Relaxed, Happy, Focused, Uplifted, Hungry, Dry Mouth, Paranoid, Anxious,Citrus, Berry,,2.44218,4.11,Flower Lot,2,Sativa,1183,152,10,2,0,1,0,1
+9954,Blue Power,Hybrid,Stress, Insomnia, Depression, Lack of Appetite, Nausea,Relaxed, Happy, Sleepy, Hungry, Uplifted, Dry Mouth, Paranoid,,Berry, Earthy,,19.24,0.34,Flower Lot,1,Indica,594,142,117,1,1,0,0,1
+9990,Jillybean,Hybrid,,,,,,Happy,Uplifted,Euphoric,Relaxed,Creative,,,,,,,17.786,0,Flower Lot,1,Hybrid,116,68,571,1,1,0,0,1
+10502,Power Plant,Hybrid,Pain, Stress, Depression, Inflammation,,Happy, Uplifted, Relaxed, Euphoric, Energetic, Dry Mouth, Paranoid,,Earthy,,,16.3637,0.29,Flower Lot,1,Sativa,166,115,10,1,1,0,0,1
+10503,Opium,Hybrid,,,,,,Happy,Relaxed,Euphoric,Uplifted,Giggly,,,,,,,13.56901,0,Flower Lot,1,Hybrid,1179,149,3,1,1,0,0,1
+10504,Skunk 47,Indica,Pain, Depression, Stress, Nausea,,Relaxed, Happy, Uplifted, Euphoric, Sleepy, Dry Mouth,,,Earthy, Skunk,,20.0202,0.33,Flower Lot,1,Indica,1322,150,230,1,1,0,0,1
+10527,C4,Hybrid,,,,,,Relaxed,Happy,Euphoric,Creative,Uplifted,,,,,,,22.048,0,Flower Lot,1,Hybrid,509,148,6,1,1,0,0,1
+10764,NYPD,Sativa,Stress, Depression, Pain,,,Uplifted, Relaxed, Happy, Energetic, Euphoric, Anxious, Dry Mouth, Paranoid,Earthy,,,17.8015,0.1,Flower Lot,1,Sativa,826,147,105,1,1,0,0,1
+10983,QuickSilver,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Citrus,15.3721,0.6,Flower Lot,1,,,,,,,,,
+10997,Space Jill,Sativa,Pain, Stress, Depression, Nausea,,Creative, Focused, Energetic, Uplifted, Euphoric, Dry Mouth, Paranoid,,,,,16.909,0,Flower Lot,1,Sativa,1675,152,12,1,1,0,0,1
+11047,White Kush,Hybrid,Insomnia, Pain, Stress, Depression, Lack of Appetite,Sleepy, Relaxed, Hungry, Horny, Happy, Dry Mouth, Paranoid, Anxious,Berry, Sweet,,26.0961,0.8,Flower Lot,1,Indica,634,145,5,1,1,0,0,1
+11111,Goo,Hybrid,Pain, Stress, Insomnia, Lack of Appetite, Muscle Spasms,Sleepy, Relaxed, Hungry, Euphoric, Happy, Dry Mouth, Paranoid,,Berry, Sweet, Blueberry,17.663,0.2,Flower Lot,1,Indica,374,140,46,1,0.9782609,0.0217391,0,0.9782609
+11113,Chemo,Hybrid,Insomnia, Pain, Stress, Lack of Appetite, Depression,Relaxed, Sleepy, Happy, Hungry, Euphoric, Dry Mouth, Paranoid,,Earthy, Sweet,,14.6197,0.3,Flower Lot,1,Indica,243,95,31,1,1,0,0,1
+11118,True OG,Indica,Stress, Insomnia, Pain, Depression,,Relaxed, Euphoric, Sleepy, Happy, Focused, Dry Mouth, Anxious,,Earthy, Pine,,23.869,0.17,Flower Lot,1,Indica,131,102,107,1,0.9813084,0.0186916,0,0.9813084
+11209,Deep Sleep,Indica,Pain, Insomnia, Depression, Lack of Appetite, Nausea,Relaxed, Sleepy, Euphoric, Happy, Tingly, Dry Mouth, Anxious,,Earthy, Sweet, Pine,25.33722,0,Flower Lot,1,Indica,816,138,9,1,1,0,0,1
+11633,Matanuska Thunder,Hybrid,,,,,,,,,,,,,,Sweet,Blueberry,Berry,15.9013,0.19,Flower Lot,1,Sativa,329,133,71,1,1,0,0,1
+11644,Hawaiian Delight,Indica,Pain, Stress, Nausea, Depression,,Happy, Relaxed, Horny, Uplifted, Euphoric, Dry Mouth, Paranoid,,Sweet,,,19.4432,0.9,Flower Lot,1,,,,,,,,,
+11656,Purple Nepal,Hybrid,Stress, Insomnia, Pain, Depression,,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid,,Grape, Berry,,19.38698,0,Flower Lot,1,Indica,949,148,55,1,1,0,0,1
+11745,Dream Berry,Hybrid,Pain, Depression, Stress, Insomnia, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Dry Mouth,,,,Berry, Citrus,,14.3,0,Flower Lot,1,Indica,1165,152,20,1,0.9,0.1,0,0.9
+11770,Gorilla Glue,Hybrid,,,,,,,,,,,,,,Berry,Sweet,Earthy,18.1477,0.19,Flower Lot,1,Hybrid,15,33,1603,1,0.9943855,0.0056145,0,0.9943855
+11786,Blue Moonshine,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Happy, Euphoric, Uplifted, Energetic, Dry Mouth, Paranoid,,Berry, Earthy, Pine,13.5919,1.1,Flower Lot,1,Indica,626,146,27,1,1,0,0,1
+11867,EWOK,Hybrid,,,,,,Relaxed,Happy,Euphoric,Creative,Uplifted,,,,,,,18.9431,0,Flower Lot,1,Hybrid,566,128,895,1,0.9932961,0.0044693,0.0022346,0.9932961
+11884,Bay Dream,Hybrid,Depression, Stress, Lack of Appetite, Pain,,Happy, Euphoric, Hungry, Uplifted, Focused, Dry Mouth, Paranoid, Anxious,Citrus,,,19.0232,0.17,Flower Lot,1,Sativa,617,142,553,1,0.9349005,0.0271248,0.0379747,0.9349005
+11886,Hawaiian Dream,Sativa,Depression, Pain, Inflammation, Stress,,Happy, Relaxed, Focused, Euphoric, Energetic, Dry Mouth, Anxious, Paranoid,Sweet, Pineapple,,19.70849,0.17,Flower Lot,1,Sativa,526,136,110,2,0.1454545,0.8545455,0,0.8545455
+11896,Presidential OG,Hybrid,Insomnia, Stress, Pain, Lack of Appetite, Depression,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Anxious,,Earthy, Pine,,14.59804,0.17,Flower Lot,1,Indica,207,97,1744,1,1,0,0,1
+11964,Grape Skunk,Hybrid,Nausea, Stress, Pain, Depression, Insomnia,Happy, Uplifted, Talkative, Energetic, Relaxed, Dry Mouth,,,Skunk, Earthy, Grape,18.8039,0.19,Flower Lot,1,Indica,1181,150,52,1,1,0,0,1
+12031,Laughing Buddha,Sativa,Depression, Stress, Pain, Lack of Appetite,,Happy, Euphoric, Uplifted, Energetic, Dry Mouth, Paranoid, Anxious,,Citrus, Sweet,,22.60591,0,Flower Lot,1,Sativa,224,123,76,1,1,0,0,1
+12090,MILF,Hybrid,,,,,,Happy,Euphoric,Uplifted,Giggly,Relaxed,,,,,,,16.28231,0.16,Flower Lot,1,Hybrid,667,152,33,1,1,0,0,1
+12284,Northern Wreck,Hybrid,Depression, Stress, Pain, Nausea,,Euphoric, Happy, Relaxed, Creative, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,19.5,0.2,Flower Lot,1,Indica,1043,144,6,1,1,0,0,1
+12426,Blue Dynamite,Hybrid,Pain, Stress, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Citrus, Lemon, Earthy,4.508,12,Flower Lot,2,Indica,962,150,48,2,0.1458333,0.6666667,0.1875,0.6666667
+12611,Guard Dawg,Hybrid,Muscle Spasms,,,,,Euphoric, Happy, Relaxed,,,,,,Sweet, Earthy,,65.75629,1.18,CO2 Hash Oil,1,Indica,1733,150,2,1,1,0,0,1
+12637,Cotton Candy Kush,Hybrid,,,,,,,,,,,,,,Sweet,Earthy,Flowery,18.8916,0.48,Flower Lot,1,Hybrid,94,63,925,1,0.9902703,0.0010811,0.0086486,0.9902703
+12641,Tutankhamon,Sativa,Depression, Stress, Nausea, Pain, Insomnia,Uplifted, Focused, Happy, Energetic, Euphoric, Dry Mouth, Anxious, Paranoid,Skunk,,,88.42986,2.64,CO2 Hash Oil,1,Sativa,206,108,98,1,1,0,0,1
+12827,Champagne,Hybrid,,,,,,,,,,,,,,Cheese,Earthy,Pungent,12.6887,0.13,Flower Lot,1,,,,,,,,,
+12836,Blue Afghani,Hybrid,Lack of Appetite, Stress, Insomnia, Depression,,Relaxed, Euphoric, Hungry, Creative, Happy, Dry Mouth, Paranoid,,Blueberry,,,26.556,0,Flower Lot,1,Indica,950,146,68,1,1,0,0,1
+12997,Lavender Haze,Sativa,Stress, Depression, Pain, Inflammation, Lack of Appetite,Happy, Focused, Relaxed, Euphoric, Uplifted, Dry Mouth, Anxious, Paranoid,Lavender, Earthy,,25.556,0,Flower Lot,1,Sativa,1257,146,9,1,1,0,0,1
+13108,Aliens On Moonshine,Indica,Inflammation, Stress,,,,Relaxed, Happy, Tingly, Focused,,,,,Vanilla,,,17.155,0,Flower Lot,1,Indica,911,143,260,2,0.1076923,0.8923077,0,0.8923077
+13369,Snowcap,Hybrid,,,,,,Happy,Euphoric,Uplifted,Focused,Creative,,,,,,,20.7,0.1,Flower Lot,1,Hybrid,191,108,88,1,0.9886364,0.0113636,0,0.9886364
+13404,Flowerbomb Kush,Hybrid,Stress, Pain, Lack of Appetite, Muscle Spasms,,Relaxed, Hungry, Sleepy, Tingly, Happy, Dry Mouth, Anxious, Paranoid,Earthy, Citrus,,16.6222,0.13,Flower Lot,1,Indica,775,148,16,1,1,0,0,1
+13525,Blue Knight,Indica,Stress, Pain, Depression, Lack of Appetite,,Relaxed, Uplifted, Happy, Sleepy, Euphoric, Dry Mouth, Paranoid, Anxious,Berry, Sweet, Blueberry,16.5,0.3,Flower Lot,1,Indica,507,142,27,1,1,0,0,1
+13531,Super Silver Sour Diesel Haze,Hybrid,,,,,,,,,,,,,,Cheese,Pepper,Tea,15.6452,0.37,Flower Lot,1,,,,,,,,,
+13701,Platinum Kush,Hybrid,Stress, Insomnia, Lack of Appetite, Pain, Depression,Relaxed, Happy, Hungry, Euphoric, Sleepy, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,15.7329,0.16,Flower Lot,1,Indica,72,64,192,1,1,0,0,1
+13817,Matanuska Thunder Fuck,Sativa,Depression, Stress, Pain, Inflammation,,Euphoric, Happy, Relaxed, Creative, Energetic, Dry Mouth, Anxious, Paranoid,Earthy, Pine,,41.93075,0.26,Bubble Hash,1,Sativa,329,133,71,1,1,0,0,1
+13845,Afghani,Indica,Stress, Insomnia, Pain, Lack of Appetite, Depression,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet, Pine,12.8526,0.63,Flower Lot,1,Indica,83,99,166,1,0.939759,0.060241,0,0.939759
+14053,Bubbleberry,Hybrid,,,,,,Happy,Relaxed,Focused,Uplifted,Hungry,,,,,,,12.9765,0.06,Flower Lot,1,Hybrid,490,141,221,1,1,0,0,1
+14223,Hammerhead,Hybrid,Insomnia, Pain, Stress, Lack of Appetite,,Sleepy, Horny, Tingly, Relaxed, Euphoric, Dry Mouth,,,Berry, Earthy,,3.14683,6.36,Flower Lot,2,Indica,824,147,80,1,0.6375,0.3625,0,0.6375
+14253,Vader OG,Hybrid,Pain, Stress, Depression, Insomnia,,Relaxed, Happy, Talkative, Creative, Anxious,,,,Earthy, Sweet,,19.9063,0.3,Flower Lot,1,Indica,1119,142,10,1,1,0,0,1
+14283,Key Lime Pie,Hybrid,,,,,,,,,,,,,,Menthol,Spicy/Herbal,Sweet,17.2,0.4,Flower Lot,1,Hybrid,198,120,152,1,1,0,0,1
+14472,Blue Alien,Hybrid,Pain, Stress, Insomnia, Inflammation,,Relaxed, Euphoric, Sleepy, Hungry, Happy, Dry Mouth, Paranoid, Anxious,Blueberry, Grape, Citrus,16.933,0.12,Flower Lot,1,Indica,830,145,91,1,1,0,0,1
+14538,Dark Star,Indica,Pain, Stress, Insomnia, Depression,,Relaxed, Happy, Sleepy, Euphoric, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,18.7977,0.22,Flower Lot,1,Indica,237,115,154,1,1,0,0,1
+14714,Strawberry Mango Haze,Sativa,Stress, Depression, Pain,,,Happy, Euphoric, Uplifted, Focused, Dry Mouth, Paranoid, Anxious,,Mango, Strawberry, Sweet,47.9,1.3,CO2 Hash Oil,1,Sativa,666,145,256,1,1,0,0,1
+14801,Nordle,Hybrid,Stress, Pain, Depression, Inflammation, Muscle Spasms,Relaxed, Happy, Sleepy, Focused, Dry Mouth, Paranoid, Anxious,,Pine,,,7.90557,11.7,Flower Lot,2,Indica,920,140,90,2,0.2444444,0.7555556,0,0.7555556
+15126,Pineapple Super Silver Haze,Sativa,Stress, Depression, Lack of Appetite, Pain,,Happy, Uplifted, Euphoric, Creative, Energetic, Dry Mouth, Anxious, Paranoid,Pineapple, Citrus, Sweet,15.89568,0.13,Flower Lot,1,Sativa,1081,144,203,1,1,0,0,1
+15206,Trinity,Hybrid,Depression, Pain, Stress, Muscle Spasms,,Happy, Uplifted, Euphoric, Relaxed, Horny, Dry Mouth, Anxious, Paranoid,Earthy, Skunk,,18.8,0.2,Flower Lot,1,Sativa,344,135,159,1,0.9622642,0.0314465,0.0062893,0.9622642
+15590,Ancient OG,Hybrid,Stress, Insomnia, Depression, Pain, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Hungry, Dry Mouth, Paranoid,,Earthy, Pine,,16.04183,0.18,Flower Lot,1,Indica,683,139,1,1,1,0,0,1
+15780,Shishkaberry,Indica,Stress, Depression, Insomnia, Pain,,Relaxed, Happy, Uplifted, Euphoric, Sleepy, Dry Mouth, Paranoid,,Berry, Sweet, Earthy,18.0854,0.18,Flower Lot,1,Indica,255,118,139,1,1,0,0,1
+15792,Purple Pinecone,Hybrid,,,,,,Euphoric, Focused, Happy, Relaxed, Uplifted,,,,,,,17,0,Flower Lot,1,Indica,1461,150,33,1,1,0,0,1
+15993,Wappa,Hybrid,,,,,,Happy,Giggly,Relaxed,Hungry,Uplifted,,,,,,,23.8551,0.22,Flower Lot,1,Hybrid,512,134,82,1,1,0,0,1
+16381,Purple Dragon,Indica,Stress, Insomnia, Depression, Pain,,Relaxed, Euphoric, Uplifted, Happy, Dry Mouth, Paranoid, Anxious,,Grape, Earthy, Sweet,8.71241,0.06,Flower Lot,1,Indica,483,149,84,1,1,0,0,1
+16451,Candyland,Sativa,Stress, Depression, Pain,,,Happy, Uplifted, Euphoric, Energetic, Relaxed, Dry Mouth, Anxious,,Sweet, Earthy,,24.802,0,Flower Lot,1,Sativa,50,38,419,1,0.9880669,0.0119332,0,0.9880669
+16453,3X Crazy,Indica,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Happy, Uplifted, Euphoric, Creative, Dry Mouth, Anxious, Paranoid,Earthy, Grape, Sweet,16.786,0,Flower Lot,1,Indica,264,137,13,1,1,0,0,1
+16543,Mazar Kush,Indica,Pain, Insomnia, Inflammation, Stress, Nausea,Relaxed, Sleepy, Happy, Hungry, Dry Mouth, Anxious,,,Earthy,,,14.13505,0.12,Flower Lot,1,Indica,860,141,12,1,1,0,0,1
+16594,Bianca,Hybrid,,,,,,Relaxed,Sleepy,Euphoric,Focused,Creative,,,,,,,48.73,0.12,Hydrocarbon Wax,1,Hybrid,1366,149,45,1,1,0,0,1
+16698,Sin Diesel,Hybrid,,,,,,,,,,,,,,Cheese,Woody,Pungent,23.96481,0.66,Flower Lot,1,Hybrid,1742,150,7,1,1,0,0,1
+16819,Ghost OG Moonshine,Indica,Depression, Lack of Appetite, Pain, Stress, Insomnia,Euphoric, Happy, Hungry, Relaxed, Sleepy, Dry Mouth,,,Earthy, Skunk,,20.0509,0.13,Flower Lot,1,Indica,1465,149,30,1,1,0,0,1
+16975,Platinum OG,Indica,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Hungry, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,19.5363,0.15,Flower Lot,1,Indica,71,65,188,1,1,0,0,1
+17000,Blue Train,Hybrid,,,,,,,,,,,,,,Citrus,Earthy,Sweet,6.68103,0.02,Flower Lot,1,Hybrid,753,150,2,1,1,0,0,1
+17211,Dancehall,Hybrid,,,,,,Happy,Relaxed,Uplifted,Energetic,Creative,,,,,,,0.63743,16.4,Flower Lot,3,Hybrid,797,138,59,3,0.0508475,0.2033898,0.7457627,0.7457627
+17429,Strawberry Ice,Sativa,Depression, Stress, Pain,,,Euphoric, Uplifted, Focused, Energetic, Happy, Dry Mouth, Paranoid,,Strawberry, Sweet, Berry,63.1916,0,Hydrocarbon Wax,1,Sativa,889,147,53,1,1,0,0,1
+17708,ReCON,Hybrid,Stress, Insomnia, Nausea, Pain, Lack of Appetite,Relaxed, Hungry, Sleepy, Happy, Euphoric, Dry Mouth, Anxious, Paranoid,Sweet,,,19.2678,0.1,Flower Lot,1,Indica,762,142,10,1,1,0,0,1
+17750,P-51,Indica,Pain, Insomnia, Nausea, Stress,,Happy, Tingly, Uplifted, Relaxed, Dry Mouth, Paranoid,,,Earthy, Sweet,,24.90322,0.22,Flower Lot,1,Indica,1673,151,117,1,1,0,0,1
+17932,Conspiracy Kush,Hybrid,Pain, Lack of Appetite, Stress, Insomnia, Inflammation,Relaxed, Happy, Euphoric, Sleepy, Creative, Dry Mouth, Anxious,,Earthy, Sweet, Berry,21.26,0.45,Flower Lot,1,Indica,655,129,95,1,1,0,0,1
+17962,Silver Haze,Hybrid,Stress, Depression, Lack of Appetite, Pain, Insomnia,Euphoric, Happy, Energetic, Uplifted, Relaxed, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,16.2736,0.33,Flower Lot,1,Sativa,90,82,141,1,1,0,0,1
+18075,Mad Scientist,Hybrid,Insomnia, Pain, Stress, Depression, Muscle Spasms,Relaxed, Euphoric, Uplifted, Focused, Sleepy, Dry Mouth, Paranoid,,Earthy, Pine,,20.36405,0,Flower Lot,1,Indica,1067,152,10,1,1,0,0,1
+18265,Space Candy,Hybrid,,,,,,,,,,,,,,Citrus,Sweet,Pine,21.72,0.11,Flower Lot,1,Hybrid,425,138,174,1,1,0,0,1
+18335,Lemonberry,Hybrid,,,,,,Euphoric,Energetic,Giggly,Happy,Creative,,,,,,,15.1913,0.24,Flower Lot,1,Hybrid,651,145,73,1,1,0,0,1
+18787,Stephen Hawking Kush,Hybrid,Stress, Pain, Nausea, Depression,,Relaxed, Happy, Euphoric, Focused, Uplifted, Dry Mouth, Paranoid,,Earthy, Pine,,21.31,0.14,Flower Lot,1,Indica,548,147,122,2,0.2213115,0.7786885,0,0.7786885
+18789,Purple Punch,Hybrid,Stress, Depression, Pain, Inflammation, Muscle Spasms,Relaxed, Happy, Euphoric, Uplifted, Sleepy, Dry Mouth,,,Sweet, Berry, Grape,4.2,15.03,Flower Lot,2,Indica,228,109,25,1,0.96,0.04,0,0.96
+18822,Webster,Hybrid,Pain, Stress, Inflammation,,,Relaxed, Sleepy, Talkative, Uplifted, Happy,,,,Citrus, Sweet,,24.3,0.5,Flower Lot,1,Sativa,1743,151,1,1,1,0,0,1
+18903,Purple Champagne,Hybrid,Stress, Pain, Depression,,,Uplifted, Focused, Creative, Euphoric, Happy, Dry Mouth,,,Grape, Earthy,,25.75,0.38,Flower Lot,1,Sativa,927,139,164,1,1,0,0,1
+19057,Tang,Hybrid,,,,,,,,,,,,,,Citrus,Orange,Sweet,17.5584,0.42,Flower Lot,1,,,,,,,,,
+19170,Strawberry Blue,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Energetic, Uplifted, Euphoric, Dry Mouth,,,,Strawberry, Sweet, Berry,15.1613,0.12,Flower Lot,1,Sativa,748,145,105,1,0.9809524,0,0.0190476,0.9809524
+19386,Snow Monster,Indica,Pain, Insomnia, Stress, Lack of Appetite,,Relaxed, Happy, Hungry, Uplifted, Euphoric, Dry Mouth,,,Sweet, Earthy, Skunk,13.0534,0.07,Flower Lot,1,Indica,1287,146,46,1,1,0,0,1
+19832,Locktite,Hybrid,,,,,,Relaxed,Happy,Uplifted,Tingly,Euphoric,,,,Sweet,Citrus,Earthy,22.2527,0.12,Flower Lot,1,Hybrid,625,132,356,1,0.988764,0.005618,0.005618,0.988764
+19970,Allen Wrench,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Energetic, Happy, Focused, Uplifted, Creative, Dry Mouth, Anxious,,Earthy, Pine, Citrus,15.4,0.2,Flower Lot,1,Sativa,380,123,551,1,0.9981851,0.0018149,0,0.9981851
+20108,Tangerine Kush,Hybrid,Insomnia, Stress, Pain, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid, Anxious,Citrus, Orange, Sweet,17.7992,0.15,Flower Lot,1,Indica,267,113,37,1,1,0,0,1
+20497,Hawaiian Punch,Hybrid,Pain, Stress,,,,Happy, Uplifted, Relaxed, Euphoric, Tingly, Anxious, Dry Mouth, Paranoid,Citrus, Sweet,,19.98,0.69,Flower Lot,1,Sativa,784,145,239,1,0.9958159,0.0041841,0,0.9958159
+20552,Gobbstopper,Hybrid,Depression, Nausea, Stress, Insomnia,,Happy, Relaxed, Euphoric, Horny, Sleepy, Dry Mouth,,,Sweet, Berry,,15.8906,0.12,Flower Lot,1,Indica,1567,151,118,1,1,0,0,1
+20634,Mendo Purps,Hybrid,,,,,,,,,,,,,,Earthy,Pine,Woody,14.582,0.15,Flower Lot,1,Hybrid,160,123,281,1,0.9893239,0.0035587,0.0071174,0.9893239
+20818,Training Day,Hybrid,Insomnia, Pain, Stress, Depression, Muscle Spasms,Relaxed, Euphoric, Sleepy, Happy, Hungry, Dry Mouth, Anxious,,Earthy, Pine,,17.4,0.3,Flower Lot,1,Indica,773,142,380,1,1,0,0,1
+21220,Hog's Breath,Hybrid,,,,,,,,,,,,,,Earthy,Lemon,Flowery,18.2,0.4,Flower Lot,1,Indica,664,140,42,1,1,0,0,1
+21440,Sour Amnesia,Hybrid,Stress, Depression, Pain, Inflammation,,Happy, Uplifted, Euphoric, Energetic, Relaxed, Dry Mouth, Anxious, Paranoid,Sweet, Earthy,,24.8,0.2,Flower Lot,1,Sativa,603,137,35,1,0.8857143,0,0.1142857,0.8857143
+21726,Hindu Skunk,Hybrid,Stress, Pain, Insomnia, Depression, Nausea,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Paranoid,,Skunk, Earthy, Sweet,16.27461,0,Flower Lot,1,Indica,843,148,19,1,1,0,0,1
+21729,Kryptonite,Hybrid,Pain, Stress, Insomnia, Depression,,Relaxed, Happy, Tingly, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Sweet, Earthy, Pine,18.30326,0.09,Flower Lot,1,Indica,240,115,114,1,0.877193,0.122807,0,0.877193
+21733,Kush Dream,Hybrid,,,,,,,,,,,,,,Flowery,Sweet,Citrus,15.1651,0.07,Flower Lot,1,,,,,,,,,
+21738,Mango,Hybrid,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Euphoric, Happy, Sleepy, Hungry, Dry Mouth, Paranoid, Anxious,Mango, Sweet,,19.21224,0.16,Flower Lot,1,Indica,173,119,223,1,1,0,0,1
+21777,Grapefruit Haze,Hybrid,Stress, Depression, Pain, Muscle Spasms,,Uplifted, Happy, Euphoric, Relaxed, Talkative, Dry Mouth, Paranoid, Anxious,Lemon, Citrus,,20.6,0.2,Flower Lot,1,Sativa,900,141,6,1,1,0,0,1
+22467,Dog Walker,Hybrid,,,,,,,,,,,,,,Tropical,Orange,Sweet,21.65539,0.19,Flower Lot,1,Hybrid,279,123,102,1,1,0,0,1
+22562,Grape Crush,Indica,Stress, Pain, Depression, Muscle Spasms, Insomnia,Relaxed, Euphoric, Happy, Uplifted, Creative, Dry Mouth,,,Grape, Sweet, Berry,22.24,0.06,Flower Lot,1,Hybrid,770,146,4,1,1,0,0,1
+22618,Solace,Hybrid,,,,,,,,,,,,,,Berry,Earthy,Sweet,15.5967,0.5,Flower Lot,1,,,,,,,,,
+22651,Woody Kush,Hybrid,Insomnia, Stress, Depression, Pain, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Paranoid,,Pine, Earthy,,23.2373,4.9,Flower Lot,2,Indica,982,147,18,1,0.9444444,0.0555556,0,0.9444444
+23046,Bubblegum Kush,Hybrid,Pain, Stress, Inflammation, Lack of Appetite, Muscle Spasms,Relaxed, Happy, Focused, Euphoric, Uplifted, Dry Mouth, Anxious, Paranoid,Sweet, Earthy, Citrus,15.0828,0.3,Flower Lot,1,Indica,163,113,64,1,1,0,0,1
+23526,Ice Bomb,Hybrid,,,,,,,,,,,,,,Sweet,Earthy,Pungent,16.7614,0.5,Flower Lot,1,,,,,,,,,
+23751,SFV OG Kush,Indica,Pain, Muscle Spasms, Inflammation, Insomnia, Depression,Relaxed, Happy, Hungry, Sleepy, Uplifted, Dry Mouth, Paranoid,,Earthy, Citrus, Sweet,22.16,0.06,Flower Lot,1,Indica,212,137,24,1,1,0,0,1
+23936,Sage N Sour,Sativa,Depression, Stress, Pain,,,Happy, Focused, Relaxed, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy,,,16.3268,0,Flower Lot,1,Sativa,423,134,147,1,0.9659864,0.0136054,0.0204082,0.9659864
+24168,Heisenberg Kush,Sativa,Depression, Stress, Pain,,,Happy, Euphoric, Energetic, Uplifted, Creative, Dry Mouth,,,Berry, Sweet, Grape,15.6544,0.08,Flower Lot,1,Sativa,886,149,25,1,1,0,0,1
+24307,Swiss Tsunami,Sativa,Pain, Depression, Inflammation, Stress,,Relaxed, Happy, Uplifted, Focused, Sleepy, Dry Mouth,,,Citrus, Orange, Earthy,1,16.58,Flower Lot,3,Sativa,1185,146,16,3,0.3125,0.1875,0.5,0.5
+24383,Jack Diesel,Hybrid,Depression, Inflammation, Stress, Pain,,Happy, Energetic, Creative, Uplifted, Dry Mouth, Paranoid,,,Sweet, Citrus,,15.532,0.6,Flower Lot,1,Sativa,997,147,113,1,1,0,0,1
+25091,Cat Piss,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Energetic, Creative, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Ammonia, Earthy,,14.2812,0.5,Flower Lot,1,Sativa,200,120,4,1,1,0,0,1
+25246,U2 Kush,Hybrid,Depression, Insomnia, Stress, Pain,,Relaxed, Sleepy, Happy, Hungry, Uplifted, Dry Mouth, Anxious,,Sweet,,,23.65,0.1,Flower Lot,1,Indica,1444,149,30,1,1,0,0,1
+25636,Blue Ox,Hybrid,Depression, Lack of Appetite, Pain,,,Sleepy, Relaxed, Talkative, Uplifted, Euphoric,,,,Berry, Blueberry,,23.59879,0.09,Flower Lot,1,Indica,1609,152,29,1,0.9310345,0.0689655,0,0.9310345
+25768,White Berry,Hybrid,Insomnia, Stress, Depression, Pain,,Horny, Euphoric, Happy, Creative, Focused, Paranoid, Anxious, Dry Mouth,Berry, Sweet, Earthy,21.86,0.41,Flower Lot,1,Indica,346,135,31,1,1,0,0,1
+25769,StarDawg,Hybrid,,,,,,Happy,Relaxed,Uplifted,Euphoric,Talkative,,,,,,,23.16,0.29,Flower Lot,1,Hybrid,75,70,302,1,1,0,0,1
+25896,OG-18,Indica,,,,,,Relaxed,Sleepy,Happy,Hungry,Euphoric,,,,,,,23.0143,0.1,Flower Lot,1,Hybrid,174,103,31,1,1,0,0,1
+26056,Money Maker,Hybrid,Pain, Insomnia, Muscle Spasms, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Hungry, Uplifted, Dry Mouth, Paranoid,,Earthy, Berry, Skunk,18.1539,0,Flower Lot,1,Indica,467,148,1,1,1,0,0,1
+26505,Harle-Tsu,Hybrid,,,,,,Relaxed,Happy,Uplifted,Focused,Euphoric,,,,Earthy,Citrus,Sweet,5.27628,10,Flower Lot,2,Hybrid,219,103,186,3,0.2043011,0.3602151,0.4354839,0.4354839
+26528,Willy Wonka,Hybrid,Stress, Depression, Pain,,,Happy, Talkative, Energetic, Euphoric, Uplifted, Dry Mouth, Paranoid,,Sweet, Mint, Pine,15.1582,0.1,Flower Lot,1,Sativa,798,147,21,1,1,0,0,1
+27013,Somango,Indica,Pain, Stress, Insomnia, Lack of Appetite, Depression,Relaxed, Happy, Uplifted, Focused, Sleepy, Dry Mouth, Paranoid,,Mango, Earthy, Sweet,15.75092,2.41,Flower Lot,1,Indica,417,130,27,1,1,0,0,1
+27139,Danky Doodle,Indica,Stress, Pain, Depression, Insomnia, Nausea,Euphoric, Happy, Uplifted, Horny, Energetic, Dry Mouth, Paranoid,,Sweet, Skunk,,13.2427,0,Flower Lot,1,,,,,,,,,
+27563,Dr. Grinspoon,Sativa,Depression, Stress, Pain,,,Energetic, Euphoric, Uplifted, Happy, Creative, Dry Mouth, Paranoid,,Citrus, Earthy,,26.16,0.07,Flower Lot,1,Sativa,420,149,2,1,1,0,0,1
+27657,Purple Dream,Hybrid,,,,,,,,,,,,,,Earthy,Blueberry,Pungent,16.17969,0,Flower Lot,1,Hybrid,272,116,23,1,1,0,0,1
+27756,Mango Haze,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Uplifted, Relaxed, Euphoric, Energetic, Dry Mouth, Anxious,,Mango, Sweet,,23.25,0.07,Flower Lot,1,Sativa,197,110,177,1,0.9152542,0.0847458,0,0.9152542
+28464,Kona Gold,Hybrid,Depression, Stress, Nausea, Pain,,Happy, Energetic, Uplifted, Creative, Euphoric, Dry Mouth, Anxious, Paranoid,Sweet, Honey,,23.34,0.17,Flower Lot,1,Sativa,972,150,29,1,1,0,0,1
+28926,Sour Dream,Hybrid,,,,,,,,,,,,,,Sweet,Flowery,Pepper,17.36364,0,Flower Lot,1,Hybrid,430,142,18,1,1,0,0,1
+29270,Silver Kush,Hybrid,Stress, Depression, Pain, Lack of Appetite, Muscle Spasms,Relaxed, Happy, Uplifted, Creative, Talkative, Dry Mouth, Paranoid,,Earthy, Citrus,,48.1764,0.18,Hydrocarbon Wax,1,Sativa,389,137,31,1,1,0,0,1
+29544,Strawberry Banana,Hybrid,,,,,,,,,,,,,,Woody,Earthy,Grapefruit,16.0752,0.12,Flower Lot,1,Hybrid,130,99,193,1,1,0,0,1
+29685,Hurricane,Sativa,Stress, Pain, Nausea, Depression,,Euphoric, Happy, Relaxed, Energetic, Uplifted, Dry Mouth, Anxious,,Sweet, Grape,,18.3677,0.15,Flower Lot,1,Sativa,1155,145,29,1,1,0,0,1
+29911,Ghost OG,Hybrid,,,,,,,,,,,,,,Sweet,Citrus,Orange,23.3,0.3,Flower Lot,1,Hybrid,95,96,191,1,0.9790576,0.0209424,0,0.9790576
+30026,Sour Alien,Hybrid,,,,,,,,,,,,,,Earthy,Citrus,Flowery,19.42,0.16,Flower Lot,1,Hybrid,620,134,6,1,1,0,0,1
+30211,Walrus Kush,Hybrid,,,,,,,,,,,,,,Earthy,Flowery,Lime,17.41,0.34,Flower Lot,1,Hybrid,1889,152,2,1,1,0,0,1
+30260,Honey Boo Boo,Indica,Pain, Stress, Depression, Lack of Appetite,,Relaxed, Sleepy, Euphoric, Tingly, Uplifted, Dry Mouth, Anxious,,Honey, Citrus, Lemon,18.06,0.17,Flower Lot,1,Indica,796,149,21,1,1,0,0,1
+30261,J1,Hybrid,,,,,,Euphoric,Happy,Creative,Uplifted,Energetic,,,,,,,20.9325,0.27,Flower Lot,1,Hybrid,152,93,167,1,1,0,0,1
+30434,Strawberry Frost,Indica,Depression, Stress, Lack of Appetite,,,Happy, Horny, Relaxed, Hungry, Dry Mouth,,,,Sweet, Strawberry, Earthy,17.8154,0.2,Flower Lot,1,Indica,956,148,52,1,1,0,0,1
+32660,California Hash Plant,Indica,Stress,,,,,Sleepy, Hungry, Relaxed,,,,,,Citrus,,,8.2807,0,Flower Lot,1,Indica,1447,150,17,1,1,0,0,1
+32694,MediHaze,Sativa,Pain, Stress, Depression, Inflammation, Nausea,Happy, Focused, Uplifted, Relaxed, Energetic, Anxious, Dry Mouth, Paranoid,Pine, Earthy, Citrus,9.25187,11.96,Flower Lot,2,Sativa,456,119,91,2,0.0659341,0.9120879,0.021978,0.9120879
+32756,Yoda OG,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Sleepy, Euphoric, Hungry, Happy, Anxious, Dry Mouth,,Earthy,,,20.19,0.4,Flower Lot,1,Indica,249,114,33,1,1,0,0,1
+33071,Atomic,Hybrid,,,,,,Happy,Relaxed,Talkative,Creative,Euphoric,,,,,,,22.6,0.4,Flower Lot,1,,,,,,,,,
+34012,Dutch Haze,Hybrid,,,,,,Energetic, Creative, Happy, Horny, Uplifted,,,,Citrus, Earthy,,16.22878,0.28,Flower Lot,1,Sativa,1083,149,64,1,1,0,0,1
+34039,Crystal,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Pungent,16.7605,0.08,Flower Lot,1,,,,,,,,,
+34240,Mindbender,Hybrid,,,,,,,,,,,,,,Earthy,Sweet,Sage,14.9366,0.18,Flower Lot,1,,,,,,,,,
+34382,Euphoria,Hybrid,,,,,,Euphoric,Happy,Energetic,Creative,Relaxed,,,,,,,7.98129,0.14,Flower Lot,1,Sativa,368,140,20,1,0.8,0.2,0,0.8
+34420,Phantom OG,Indica,Depression, Pain, Insomnia, Lack of Appetite,,Euphoric, Relaxed, Hungry, Happy, Focused, Dry Mouth, Paranoid, Anxious,Earthy, Lemon,,26.64,0.01,Flower Lot,1,Indica,469,142,33,1,1,0,0,1
+34579,Lemon Thai,Hybrid,Stress, Pain, Depression, Lack of Appetite,,Happy, Talkative, Relaxed, Sleepy, Uplifted, Dry Mouth, Anxious, Paranoid,Lemon, Sweet,,81.49474,0.57,CO2 Hash Oil,1,Sativa,405,142,7,1,1,0,0,1
+34612,91 Krypt,Indica,Stress, Depression, Lack of Appetite, Nausea,,Relaxed, Tingly, Happy, Hungry, Talkative, Dry Mouth,,,Earthy, Sweet,,12.1641,0.2,Flower Lot,1,Indica,1216,151,55,1,1,0,0,1
+34788,Full Moon,Hybrid,Depression, Stress, Lack of Appetite,,,Happy, Energetic, Uplifted, Horny, Creative,,,,Ammonia,,,21.1464,0.3,Flower Lot,1,Sativa,791,150,30,1,1,0,0,1
+34850,Caramelo,Hybrid,Stress, Pain, Depression, Lack of Appetite,,Happy, Euphoric, Energetic, Focused, Uplifted, Dry Mouth,,,Sweet, Lavender,,18.513,0.12,Flower Lot,1,Sativa,1086,150,14,1,1,0,0,1
+35041,Northern Light,Hybrid,,,,,,,,,,,,,,Lemon,Citrus,Pungent,14.5582,1.4,Flower Lot,1,Indica,11,11,1389,1,0.987761,0.0115191,0.0007199,0.987761
+35413,Afghani Bullrider,Hybrid,Stress, Depression, Insomnia, Pain,,Uplifted, Relaxed, Happy, Euphoric, Dry Mouth, Paranoid,,,Sweet, Pine, Earthy,20.417,0,Flower Lot,1,Indica,585,139,18,1,1,0,0,1
+35424,Memory Loss,Hybrid,Stress, Depression, Pain, Nausea,,Uplifted, Happy, Talkative, Focused, Creative, Dry Mouth, Anxious,,Earthy, Sweet,,21.25,0.3,Flower Lot,1,Sativa,671,144,123,1,0.9593496,0.0406504,0,0.9593496
+35885,Sour Cookies,Hybrid,,,,,,,,,,,,,,Sweet,Berry,Blueberry,20.4525,0.11,Flower Lot,1,Hybrid,300,130,62,1,1,0,0,1
+36105,Trash,Hybrid,,,,,,Relaxed,Happy,Uplifted,Euphoric,Focused,,,,,,,24.1667,0.2,Flower Lot,1,Hybrid,1287,149,147,1,1,0,0,1
+36132,Punky Lion,Hybrid,Stress, Depression, Muscle Spasms, Pain,,Relaxed, Sleepy, Hungry, Euphoric, Tingly, Paranoid, Dry Mouth,,Earthy, Sweet,,19.81,0.09,Flower Lot,1,,,,,,,,,
+36199,Dinachem,Hybrid,,,,,,Talkative,Relaxed,Happy,Energetic,Giggly,,,,,,,24.89,0.09,Flower Lot,1,Hybrid,1337,147,25,1,1,0,0,1
+36429,Sweet Black Angel,Hybrid,Depression, Stress, Pain, Insomnia,,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth,,,Sweet, Berry, Pine,17.7,0.2,Flower Lot,1,Indica,1030,144,33,1,1,0,0,1
+36432,Fruity Chronic Juice,Hybrid,Lack of Appetite, Pain, Stress, Depression,,Relaxed, Euphoric, Happy, Talkative, Creative, Dry Mouth, Anxious,,Citrus, Sweet,,18,0.3,Flower Lot,1,Indica,901,150,45,1,1,0,0,1
+36459,Chocolate Fondue,Hybrid,Depression, Stress, Nausea, Lack of Appetite,,Relaxed, Uplifted, Happy, Talkative, Euphoric, Dry Mouth, Anxious,,Sweet, Earthy,,19.4,0.2,Flower Lot,1,Sativa,1009,146,1,1,1,0,0,1
+36493,Buddha Tahoe,Hybrid,Insomnia, Pain, Stress, Depression,,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Earthy,,,19.8,0.2,Flower Lot,1,Indica,584,142,89,1,1,0,0,1
+36598,Destroyer,Hybrid,Depression, Stress, Insomnia,,,Energetic, Uplifted, Euphoric, Happy,,,,,Lavender, Ammonia, Sweet,15.5944,0.32,Flower Lot,1,Sativa,737,141,10,1,1,0,0,1
+36700,Citrix,Hybrid,,,,,,Happy,Euphoric,Uplifted,Relaxed,Energetic,,,,,,,21.56,0.04,Flower Lot,1,Hybrid,743,144,13,1,1,0,0,1
+37410,Nebula,Hybrid,,,,,,Uplifted,Happy,Euphoric,Energetic,Creative,,,,,,,14,0.1,Flower Lot,1,Hybrid,292,130,1,1,1,0,0,1
+37608,Sunset Sherbet,Sativa,,,,,,,,,,,,,,Sweet,Flowery,Citrus,17.8269,0.11,Flower Lot,1,Hybrid,24,28,814,1,1,0,0,1
+37761,Church OG,Hybrid,Stress, Depression, Pain, Insomnia,,Relaxed, Happy, Uplifted, Creative, Horny, Dry Mouth, Paranoid,,Earthy, Citrus,,64.3658,0.39,Hydrocarbon Wax,1,Indica,574,145,44,1,1,0,0,1
+37798,Hawaiian Snow,Hybrid,Depression, Pain, Stress,,,Happy, Relaxed, Uplifted, Euphoric, Creative, Dry Mouth, Anxious, Paranoid,,,,19.1893,0.09,Flower Lot,1,Sativa,313,135,24,1,1,0,0,1
+38005,Star Killer,Hybrid,Pain, Stress, Insomnia, Depression, Nausea,Relaxed, Euphoric, Sleepy, Happy, Hungry, Dry Mouth, Paranoid, Anxious,Lemon, Earthy,,19.88261,0.13,Flower Lot,1,Indica,287,105,28,1,1,0,0,1
+38103,Enemy of the State,Indica,Stress, Depression, Insomnia, Lack of Appetite,,Relaxed, Focused, Sleepy, Horny, Euphoric, Anxious, Dry Mouth, Paranoid,Sweet, Berry,,19.694,0.2,Flower Lot,1,Indica,1026,142,82,1,1,0,0,1
+38144,Dawgfather,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Spicy/Herbal,10.26967,0,Flower Lot,1,Hybrid,1804,152,35,1,1,0,0,1
+38927,Dutch Queen,Hybrid,,,,,,,,,,,,,,Earthy,Citrus,Flowery,26.99,0.07,Flower Lot,1,Hybrid,1734,150,46,1,1,0,0,1
+39015,Future,Hybrid,,,,,,Relaxed,Euphoric,Uplifted,Sleepy,Happy,,,,0,,,22.53,0.15,Flower Lot,1,Hybrid,977,141,37,1,1,0,0,1
+40325,Cornbread,Hybrid,Stress, Lack of Appetite, Pain, Insomnia,,Relaxed, Hungry, Happy, Sleepy, Euphoric, Dry Mouth, Paranoid,,Earthy, Citrus,,15.90814,0.13,Flower Lot,1,Indica,531,121,34,1,1,0,0,1
+40351,Durban Cookies,Hybrid,Pain, Stress, Depression, Inflammation,,Happy, Relaxed, Uplifted, Talkative, Energetic, Dry Mouth, Paranoid, Anxious,Sweet, Earthy,,18.95,0.1,Flower Lot,1,Sativa,799,133,76,1,1,0,0,1
+40446,Swiss Tsu 2,Hybrid,,,,,,,,,,,,,,Lemon,Sweet,Blueberry,3.94,73.05,Food Grade Solvent Extract,3,,,,,,,,,
+40703,Magnum,Hybrid,,,,,,Energetic,Happy,Creative,Uplifted,Euphoric,,,,,,,10.7978,0.05,Flower Lot,1,Hybrid,859,148,12,1,1,0,0,1
+40760,White Nightmare,Hybrid,Stress, Pain, Depression, Lack of Appetite, Inflammation,Uplifted, Euphoric, Happy, Creative, Energetic, Dry Mouth, Anxious, Paranoid,Earthy, Sweet, Citrus,15.786,0.61,Flower Lot,1,Sativa,539,141,144,1,1,0,0,1
+40827,Willie Nelson,Hybrid,Stress, Depression, Pain, Nausea,,Happy, Euphoric, Creative, Energetic, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,7.8,0.1,Flower Lot,1,Sativa,358,136,96,1,1,0,0,1
+40877,Mataro Blue,Hybrid,Pain, Stress, Depression, Insomnia, Muscle Spasms,Relaxed, Euphoric, Hungry, Happy, Tingly, Dry Mouth,,,Berry, Earthy, Sweet,20.29,0.06,Flower Lot,1,Indica,819,141,7,1,0.7142857,0.2857143,0,0.7142857
+40917,Hades Haze,Indica,Insomnia, Depression, Lack of Appetite, Pain,,Relaxed, Sleepy, Talkative, Euphoric,,,,,Citrus, Earthy,,11.6748,0.05,Flower Lot,1,Indica,1749,149,112,1,1,0,0,1
+41093,Purple Star,Hybrid,Pain, Insomnia, Depression, Muscle Spasms,,Tingly, Sleepy, Hungry, Relaxed, Uplifted, Dry Mouth, Anxious,,Berry, Citrus, Pine,17.9569,0.65,Flower Lot,1,Indica,1242,149,22,1,1,0,0,1
+42509,PowerNap,Hybrid,,,,,,,,,,,,,,Diesel,Citrus,Woody,20.6132,0.11,Flower Lot,1,,,,,,,,,
+42515,Tangie,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Happy, Uplifted, Energetic, Euphoric, Relaxed, Dry Mouth, Anxious, Paranoid,Citrus, Orange, Sweet,72.4905,0.61,Hydrocarbon Wax,1,Sativa,38,34,759,1,0.9947299,0.002635,0.002635,0.9947299
+42522,Cherries Jubilee,Indica,Stress, Depression, Pain, Nausea,,Euphoric, Relaxed, Uplifted, Happy, Horny, Dry Mouth,,,Berry, Sweet,,69,4.9,CO2 Hash Oil,1,Indica,1607,150,551,1,0.9836661,0.0108893,0.0054446,0.9836661
+43710,Monolith,Indica,Insomnia, Lack of Appetite, Pain, Stress, Depression,Relaxed, Sleepy, Tingly, Euphoric, Focused,,,,Earthy, Pine,,24.93,0.04,Flower Lot,1,Indica,1844,148,68,1,1,0,0,1
+43955,Black Domina,Hybrid,Stress, Depression, Pain, Insomnia, Lack of Appetite,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid,,Pine, Pepper,,15.74873,0,Flower Lot,1,Indica,176,121,108,1,0.962963,0.037037,0,0.962963
+44186,Starfighter,Hybrid,,,,,,Euphoric,Relaxed,Happy,Uplifted,Creative,,,,,,,77.28,0.38,Hydrocarbon Wax,1,Hybrid,399,148,45,1,1,0,0,1
+45542,Blue Diamond,Hybrid,Stress, Depression, Pain,,,Euphoric, Relaxed, Happy, Uplifted, Sleepy, Paranoid, Dry Mouth, Anxious,Sweet, Earthy,,21.9157,0.11,Flower Lot,1,Indica,428,143,13,1,1,0,0,1
+45871,Lime Skunk,Hybrid,Depression, Stress, Pain, Muscle Spasms,,Uplifted, Creative, Relaxed, Happy, Euphoric, Dry Mouth, Anxious,,Lime, Citrus, Lemon,24.6789,0.25,Flower Lot,1,Sativa,716,125,62,1,1,0,0,1
+46201,Night Nurse,Hybrid,Pain, Insomnia, Stress, Muscle Spasms,,Relaxed, Sleepy, Happy, Tingly, Hungry, Dry Mouth,,,Sweet, Earthy,,19.5678,0,Flower Lot,1,Indica,809,146,200,1,0.98,0.02,0,0.98
+46225,Ortega,Hybrid,Depression, Pain,,,,Relaxed, Uplifted, Euphoric, Sleepy, Dry Mouth,,,,Pepper, Earthy,,17.2753,0.1,Flower Lot,1,,,,,,,,,
+46391,Blockhead,Hybrid,,,,,,Relaxed,Happy,Hungry,Uplifted,Euphoric,,,,,,,20.3,0.18,Flower Lot,1,Hybrid,907,151,49,1,1,0,0,1
+46491,Amethyst,Hybrid,,,,,,Energetic,Creative,Giggly,Hungry,Happy,,,,,,,17.39,0.14,Flower Lot,1,Hybrid,1335,152,26,1,1,0,0,1
+47637,Quin-N-Tonic,Indica,Stress, Pain, Depression, Nausea, Lack of Appetite,Relaxed, Happy, Focused, Hungry, Sleepy, Dry Mouth,,,Sweet, Blueberry,,21.0533,0.1,Flower Lot,1,Indica,1652,151,43,1,0.8604651,0.1395349,0,0.8604651
+47756,Bubba OG,Hybrid,Stress, Pain, Depression, Insomnia, Nausea,Relaxed, Happy, Sleepy, Uplifted, Euphoric, Dry Mouth, Paranoid,,Earthy, Sweet,,22.65,0.1,Flower Lot,1,Indica,186,112,5,1,1,0,0,1
+47814,Firehouse,Hybrid,,,,,,,,,,,,,,Diesel,Pungent,Earthy,19.86079,0,Flower Lot,1,,,,,,,,,
+47895,Primus,Hybrid,Stress, Lack of Appetite, Pain, Insomnia, Depression,Relaxed, Happy, Euphoric, Uplifted, Creative, Dry Mouth, Anxious, Paranoid,Sweet, Earthy, Citrus,25.2699,0,Flower Lot,1,Indica,704,132,486,1,0.9958848,0.0041152,0,0.9958848
+48108,Cascadia Kush,Indica,Depression, Pain, Stress, Insomnia,,Relaxed, Euphoric, Tingly, Sleepy, Happy, Dry Mouth,,,Earthy, Sweet,,21.59608,0.09,Flower Lot,1,Indica,1805,151,114,1,1,0,0,1
+48647,Sour Urkle,Hybrid,,,,,,,,,,,,,,Earthy,Pine,Diesel,15.47328,0,Flower Lot,1,Hybrid,1150,146,25,1,1,0,0,1
+48722,Cactus,Indica,Pain, Stress, Nausea,,,Relaxed, Happy, Euphoric, Uplifted, Talkative, Dry Mouth, Paranoid,,Citrus, Earthy,,24.81,0.36,Flower Lot,1,Indica,690,121,260,1,1,0,0,1
+49064,Nigerian Nightmare,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Spicy/Herbal,12.8588,0.09,Flower Lot,1,,,,,,,,,
+49068,Skunkberry,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Creative,,,,,,,12.9372,0.11,Flower Lot,1,Hybrid,577,124,130,1,1,0,0,1
+49156,Dark Side of the Moon,Hybrid,Stress, Insomnia, Depression, Pain,,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Berry, Sweet,19.4332,0.13,Flower Lot,1,Indica,979,141,72,1,1,0,0,1
+49400,Haze,Hybrid,Stress, Depression, Pain,,,Euphoric, Uplifted, Happy, Energetic, Creative, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,51.5,2.4,CO2 Hash Oil,1,Sativa,73,111,59,1,0.9661017,0.0338983,0,0.9661017
+49418,White Buffalo,Sativa,Stress, Depression, Pain,,,Happy, Uplifted, Euphoric, Relaxed, Energetic, Dry Mouth, Anxious,,Sweet, Berry,,22.5,0.3,Flower Lot,1,Sativa,340,127,24,1,1,0,0,1
+50287,Bandana,Hybrid,,,,,,Euphoric,Happy,Relaxed,Talkative,Creative,,,,,,,17.7223,0,Flower Lot,1,Hybrid,1252,148,100,1,0.95,0.05,0,0.95
+50861,Strawberry Lemonade,Sativa,Stress, Depression, Pain,,,Happy, Euphoric, Energetic, Creative, Uplifted, Dry Mouth, Anxious, Paranoid,Lemon, Strawberry, Sweet,16.22001,0.25,Flower Lot,1,Sativa,343,112,172,1,0.9883721,0.0116279,0,0.9883721
+51221,Kraken,Indica,Stress, Insomnia, Muscle Spasms,,,Relaxed, Sleepy, Happy, Talkative, Euphoric, Paranoid, Dry Mouth,,Earthy,,,20.79,0.08,Flower Lot,1,Indica,1159,149,76,1,1,0,0,1
+51249,Black Bubba,Indica,Stress, Insomnia, Pain, Seizures, Depression,Happy, Relaxed, Sleepy, Tingly, Euphoric, Dry Mouth, Paranoid,,Earthy, Pine,,21.86,0.1,Flower Lot,1,Indica,1261,151,44,1,1,0,0,1
+51392,Cuvee,Indica,Stress, Pain, Depression, Insomnia,,Euphoric, Relaxed, Uplifted, Happy, Anxious, Dry Mouth,,,Sweet, Citrus,,14.9636,0.13,Flower Lot,1,Indica,657,146,82,1,0.9756098,0.0243902,0,0.9756098
+51398,Sonic Screwdriver,Hybrid,Stress, Pain, Depression,,,Happy, Euphoric, Uplifted, Creative, Dry Mouth,,,,Earthy, Citrus,,12.1672,0.49,Flower Lot,1,Sativa,896,139,84,1,1,0,0,1
+51463,Alien Rift,Hybrid,Stress, Insomnia, Depression, Pain,,Relaxed, Happy, Euphoric, Hungry, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Citrus,,20.08,0.09,Flower Lot,1,Indica,818,142,154,1,1,0,0,1
+52517,Green Lantern,Hybrid,Stress, Depression, Pain,,,Uplifted, Euphoric, Happy, Hungry, Talkative, Dry Mouth, Anxious, Paranoid,Citrus, Earthy, Pine,21,0.1,Flower Lot,1,Sativa,895,150,1,1,1,0,0,1
+52901,Super Green Crack,Hybrid,Depression, Stress, Lack of Appetite, Pain,,Energetic, Uplifted, Happy, Focused, Euphoric, Dry Mouth, Anxious,,Earthy, Citrus,,11.9,0.1,Flower Lot,1,Sativa,463,141,3,1,1,0,0,1
+53969,Black Diamond,Hybrid,Stress, Pain, Insomnia, Depression, Inflammation,Relaxed, Happy, Euphoric, Hungry, Uplifted, Dry Mouth, Anxious, Paranoid,Earthy, Berry, Sweet,21.6234,0.3,Flower Lot,1,Indica,199,118,61,1,1,0,0,1
+54021,Kushage,Hybrid,,,,,,Relaxed,Happy,Euphoric,Hungry,Tingly,,,,,,,20.97747,0.04,Flower Lot,1,Hybrid,1399,148,70,1,0.9857143,0.0142857,0,0.9857143
+54211,Power Kush,Hybrid,Stress, Pain, Depression, Muscle Spasms,,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Paranoid, Dry Mouth, Anxious,Sweet, Skunk, Lime,15.8306,0.09,Flower Lot,1,Indica,654,146,71,1,1,0,0,1
+54396,DJ Andy Williams,Sativa,,,,,,Creative, Energetic,,,,,,,,,,22.4512,0,Flower Lot,1,Sativa,1613,150,19,1,1,0,0,1
+55204,Murkle,Indica,,,,,,Giggly,,,,,,,,,,,20.96,0.03,Flower Lot,1,Hybrid,865,140,86,1,0.627907,0.372093,0,0.627907
+55650,Grape OX,Hybrid,Stress, Depression, Insomnia, Pain,,Hungry, Sleepy, Relaxed, Tingly, Uplifted, Dry Mouth, Paranoid,,Grape, Sweet,,16.7999,0.1,Flower Lot,1,Indica,1344,143,140,1,1,0,0,1
+55683,Herojuana,Hybrid,,,,,,Relaxed,Sleepy,Happy,Hungry,Euphoric,,,,,,,19.0432,0.2,Flower Lot,1,Indica,223,97,7,1,1,0,0,1
+55784,White Strawberry Skunk,Hybrid,,,,,,,,,,,,,,Citrus,Pine,Sweet,18.2408,0.22,Flower Lot,1,Hybrid,1420,151,7,1,1,0,0,1
+56060,Triangle Kush,Indica,Depression, Pain, Stress, Insomnia,,Relaxed, Euphoric, Uplifted, Happy, Sleepy, Dry Mouth, Paranoid,,Earthy, Skunk,,52.5,1.1,CO2 Hash Oil,1,Indica,275,137,37,1,1,0,0,1
+56398,Stella Blue,Sativa,Depression, Stress, Nausea, Pain,,Energetic, Uplifted, Happy, Focused, Relaxed, Dry Mouth, Paranoid,,Sweet, Berry,,21.31,0.04,Flower Lot,1,Sativa,1364,150,3,1,1,0,0,1
+56738,Alaskan Ice,Hybrid,Depression, Stress, Pain,,,Euphoric, Happy, Relaxed, Uplifted, Hungry, Dry Mouth, Paranoid,,Sweet, Earthy,,18.4739,0.13,Flower Lot,1,Sativa,547,140,57,1,1,0,0,1
+56870,Hawaiian Haze,Hybrid,Stress, Pain, Depression, Nausea, Insomnia,Uplifted, Happy, Talkative, Hungry, Dry Mouth, Paranoid, Anxious,,Skunk,,,5.85836,0,Flower Lot,1,Sativa,496,141,21,1,0.9047619,0.0952381,0,0.9047619
+57367,The OX,Hybrid,Pain, Stress, Inflammation, Depression, Muscle Spasms,Relaxed, Happy, Uplifted, Tingly, Dry Mouth, Paranoid,,,Sweet, Citrus, Coffee,19.1332,0.21,Flower Lot,1,Indica,1232,147,3,1,1,0,0,1
+57678,Tora Bora,Hybrid,Pain, Stress, Insomnia, Inflammation, Muscle Spasms,Relaxed, Tingly, Sleepy, Happy, Euphoric, Dry Mouth, Paranoid,,Earthy, Pine,,23.35,0.05,Flower Lot,1,Indica,673,134,28,1,0.8571429,0.1428571,0,0.8571429
+58327,Super Cheese,Hybrid,Insomnia, Pain, Stress, Depression,,Euphoric, Relaxed, Happy, Sleepy, Energetic, Dry Mouth,,,Earthy,,,10.24272,0,Flower Lot,1,Indica,898,147,36,1,1,0,0,1
+58334,Satori,Hybrid,,,,,,Creative,Euphoric,Uplifted,Happy,Energetic,,,,,,,5.09981,7.06,Flower Lot,2,Hybrid,682,147,18,1,0.8888889,0.1111111,0,0.8888889
+58338,Kaboom,Hybrid,Depression, Stress, Pain, Nausea,,Happy, Uplifted, Energetic, Creative, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,16.03552,0,Flower Lot,1,Sativa,1012,136,102,1,1,0,0,1
+59056,Watermelon,Indica,Stress, Insomnia, Pain, Depression, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Hungry, Dry Mouth, Anxious,,Sweet, Berry, Grape,18.2662,0.1,Flower Lot,1,Indica,276,115,9,1,0.7777778,0.2222222,0,0.7777778
+59191,Blackberry Diesel,Hybrid,Stress, Depression, Lack of Appetite,,,Happy, Energetic, Relaxed, Euphoric, Talkative, Dry Mouth, Anxious,,,,,15.3344,0.13,Flower Lot,1,Sativa,1117,150,39,1,1,0,0,1
+59311,Devil Fruit,Hybrid,Stress, Depression, Insomnia, Pain,,Relaxed, Happy, Euphoric, Focused, Hungry, Dry Mouth, Anxious, Paranoid,Pepper, Sweet,,21.68,0.03,Flower Lot,1,Indica,636,150,1,1,1,0,0,1
+59474,Kushberry,Indica,Stress, Insomnia, Pain, Depression,,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Berry, Sweet, Earthy,14.5474,0.35,Flower Lot,1,Indica,387,136,24,1,1,0,0,1
+59724,Super Slutty Hayes,Hybrid,,,,,,,,,,,,,,Earthy,,,18.0523,0.12,Flower Lot,1,,,,,,,,,
+59916,Casper OG,Hybrid,Insomnia, Stress, Depression,,,Relaxed, Uplifted, Happy, Sleepy,,,,,Earthy, Pine, Sweet,20.6964,0.17,Flower Lot,1,Indica,1184,145,30,1,1,0,0,1
+61283,Temple Haze,Hybrid,,,,,,,,,,,,,,Earthy,Skunk,Sweet,9.7839,0,Flower Lot,1,,,,,,,,,
+61294,Outlaw,Hybrid,Depression, Pain, Stress,,,Euphoric, Energetic, Uplifted, Creative, Horny,,,,Earthy,,,9.76251,0,Marijuana Mix,1,Sativa,1281,150,48,1,1,0,0,1
+61926,Green Kush,Hybrid,Stress, Pain, Depression, Nausea, Insomnia,Euphoric, Hungry, Energetic, Sleepy, Relaxed, Dry Mouth, Paranoid,,Citrus, Sweet, Earthy,19.5,0.1,Flower Lot,1,Indica,803,145,39,1,1,0,0,1
+62066,Hurkle,Hybrid,,,,,,Relaxed,Happy,Hungry,Focused,Sleepy,,,,,,,14.2066,0.06,Flower Lot,1,Hybrid,865,140,86,1,0.627907,0.372093,0,0.627907
+62919,Sour Haze,Hybrid,Stress, Depression, Pain,,,Uplifted, Euphoric, Focused, Happy, Energetic, Dry Mouth, Paranoid, Anxious,Citrus, Skunk, Sweet,77.15,1.42,Hydrocarbon Wax,1,Sativa,721,146,50,1,1,0,0,1
+63119,Mendo Breath,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,15.1844,0.32,Flower Lot,1,Indica,153,103,43,1,1,0,0,1
+63315,Rockstar,Hybrid,Stress, Depression, Pain, Insomnia, Inflammation,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Anxious, Paranoid,Earthy,,,13.81719,0.11,Flower Lot,1,Indica,181,94,32,1,1,0,0,1
+63701,CBD Mango Haze,Hybrid,Stress, Pain, Inflammation, Depression,,Focused, Uplifted, Energetic, Relaxed, Happy, Paranoid, Dry Mouth,,Pepper, Mango,,2.4025,6.96,Flower Lot,2,Sativa,366,148,11,2,0.4545455,0.5454546,0,0.5454546
+63709,Grimace OG,Hybrid,Depression, Insomnia, Lack of Appetite,,,Sleepy, Euphoric, Relaxed, Horny, Happy, Dry Mouth,,,,,,13.575,0.12,Flower Lot,1,Indica,1537,152,28,1,1,0,0,1
+64241,Harlesin,Hybrid,,,,,,,,,,,,,,Pungent,Skunk,Diesel,19.01275,43.86,Hydrocarbon Wax,2,Sativa,32,40,1205,2,0.3585062,0.586722,0.0547718,0.586722
+64899,Dutch Dragon,Hybrid,Depression, Inflammation, Stress, Pain,,Euphoric, Creative, Relaxed, Focused, Happy, Anxious, Paranoid,,Citrus, Sweet,,23.69,0,Flower Lot,1,Sativa,687,141,37,1,1,0,0,1
+65036,Purple Power,Hybrid,Lack of Appetite, Stress, Depression,,,Happy, Relaxed, Uplifted, Talkative, Energetic, Dry Mouth,,,Earthy, Sweet,,17.46,0.05,Flower Lot,1,Sativa,838,149,45,1,1,0,0,1
+66062,Purple Widow,Hybrid,,,,,,,,,,,,,,Citrus,Lemon,Grapefruit,15.2267,0.17,Flower Lot,1,Hybrid,752,144,15,1,1,0,0,1
+66103,Sugar Mama,Indica,Stress, Depression, Pain, Insomnia,,Euphoric, Relaxed, Happy, Uplifted, Horny, Dry Mouth,,,Sweet, Citrus,,14.1366,0.2,Flower Lot,1,Indica,827,147,32,1,1,0,0,1
+66585,Stone Free,Hybrid,,,,,,,,,,,,,,Earthy,Honey,Pungent,22.8335,0.14,Flower Lot,1,,,,,,,,,
+67065,Cambodian,Sativa,,,,,,Energetic, Talkative, Happy, Relaxed, Uplifted,,,,Earthy,,,20.33,0.13,Flower Lot,1,Sativa,1320,152,1,1,1,0,0,1
+68297,Purple Goo,Hybrid,Stress, Pain, Depression,,,Relaxed, Euphoric, Happy, Talkative, Hungry, Dry Mouth, Paranoid,,Lavender, Pine,,16.59,0.09,Flower Lot,1,Indica,869,150,74,1,0.9324324,0.0675676,0,0.9324324
+68452,Vanilluna,Hybrid,,,,,,Sleepy,Happy,Relaxed,,,,,,,,,14.82,0,Flower Lot,1,Hybrid,1702,151,3,1,1,0,0,1
+68538,Sunshine Daydream,Hybrid,Inflammation, Pain, Depression, Nausea, Insomnia,Relaxed, Euphoric, Happy, Hungry, Uplifted, Dry Mouth, Anxious,,Sweet, Citrus, Blueberry,21.76,0,Flower Lot,1,Indica,534,145,20,1,1,0,0,1
+68629,The One,Hybrid,,,,,,,,,,,,,,Diesel,Earthy,Citrus,67.9421,0.23,CO2 Hash Oil,1,Hybrid,1195,150,2,1,1,0,0,1
+68705,Raspberry Cough,Hybrid,Stress, Depression, Pain, Nausea,,Happy, Uplifted, Focused, Euphoric, Relaxed, Dry Mouth, Anxious,,Berry, Sweet, Earthy,20.9172,0.14,Flower Lot,1,Sativa,465,138,16,1,1,0,0,1
+68729,Sugar Kush,Hybrid,Insomnia, Stress, Lack of Appetite, Pain,,Relaxed, Sleepy, Hungry, Happy, Tingly, Dry Mouth,,,Sweet, Earthy,,16.2852,0.58,Flower Lot,1,Indica,669,142,8,1,1,0,0,1
+69016,Blue Blood,Hybrid,Stress, Inflammation, Muscle Spasms, Pain, Depression,Relaxed, Euphoric, Sleepy, Creative, Happy, Dry Mouth,,,Blueberry, Earthy, Sweet,3.9,11.6,Flower Lot,2,Indica,1353,148,4,1,0.5,0.5,0,0.5
+69290,5th Element,Hybrid,Pain, Stress, Depression, Lack of Appetite,,Relaxed, Happy, Euphoric, Creative, Tingly,,,,Earthy, Sweet,,24.4005,0.17,Flower Lot,1,Indica,822,152,25,1,1,0,0,1
+69708,StarBud,Hybrid,Insomnia, Stress, Pain, Lack of Appetite, Muscle Spasms,Relaxed, Euphoric, Happy, Sleepy, Hungry, Dry Mouth, Anxious,,Earthy,,,16.0721,0.1,Flower Lot,1,Indica,1104,142,14,1,1,0,0,1
+69780,Incredible Hulk,Sativa,Pain, Lack of Appetite, Insomnia, Stress, Depression,Happy, Uplifted, Focused, Euphoric, Creative, Dry Mouth, Paranoid,,Sweet, Earthy, Citrus,18.47,0.05,Flower Lot,1,Sativa,262,130,3,1,1,0,0,1
+69972,Malawi,Sativa,Stress, Depression, Nausea,,,Energetic, Focused, Uplifted, Relaxed, Happy, Dry Mouth, Paranoid, Anxious,Earthy,,,27.7747,1.1,Flower Lot,1,Sativa,473,148,20,1,0.9,0,0.1,0.9
+70329,Blueberry Blast,Hybrid,Depression, Stress, Pain, Lack of Appetite,,Happy, Relaxed, Euphoric, Uplifted, Energetic, Dry Mouth, Paranoid,,Blueberry, Berry, Sweet,20,0.1,Flower Lot,1,Sativa,989,143,69,1,1,0,0,1
+70981,White Durban,Sativa,Stress, Depression, Pain,,,Energetic, Focused, Creative, Uplifted, Euphoric, Paranoid, Dry Mouth, Anxious,Earthy,,,24.73,0.12,Flower Lot,1,Sativa,958,135,116,1,1,0,0,1
+71040,White Dragon,Hybrid,Pain, Stress, Insomnia, Depression,,Relaxed, Happy, Talkative, Hungry, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,24.6175,0.21,Flower Lot,1,Indica,1589,152,18,1,1,0,0,1
+71778,P-91,Hybrid,,,,,,Euphoric,Happy,Relaxed,Creative,Energetic,,,,,,,28.1763,0.4,Flower Lot,1,Hybrid,914,143,698,1,0.9971347,0.0028653,0,0.9971347
+71934,Sin City Kush,Hybrid,Insomnia, Stress, Depression, Muscle Spasms,,Euphoric, Relaxed, Uplifted, Happy, Dry Mouth, Paranoid,,,Grape, Pine,,12.1541,0.05,Flower Lot,1,Indica,1046,152,99,1,1,0,0,1
+72002,Blackwater,Indica,Pain, Stress, Depression, Insomnia, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Berry, Earthy,,18.39668,0.15,Flower Lot,1,Indica,190,95,138,1,1,0,0,1
+72100,Apollo 13,Hybrid,,,,,,,,,,,,,,Earthy,Citrus,Lemon,20.4079,0.8,Flower Lot,1,Hybrid,460,137,43,1,1,0,0,1
+72243,Brazil Amazonia,Hybrid,Depression, Stress,,,,Relaxed, Uplifted, Euphoric, Focused, Happy,,,,Berry, Earthy,,23.0974,0.47,Flower Lot,1,Sativa,1559,152,32,1,1,0,0,1
+72248,Sour Bubba,Hybrid,Stress, Insomnia, Pain, Depression,,Happy, Euphoric, Uplifted, Energetic, Talkative, Dry Mouth,,,Pine,,,25.0706,0.15,Flower Lot,1,Indica,878,145,91,1,1,0,0,1
+72959,Pineapple OG,Hybrid,Pain, Depression, Stress, Inflammation,,Happy, Euphoric, Relaxed, Focused, Uplifted, Dry Mouth, Anxious,,Pineapple, Lemon, Earthy,18.5293,0.1,Flower Lot,1,Sativa,449,134,21,1,1,0,0,1
+73155,Green Poison,Hybrid,Stress, Lack of Appetite, Muscle Spasms, Insomnia, Pain,Relaxed, Happy, Hungry, Euphoric, Sleepy, Dry Mouth, Paranoid,,Sweet, Citrus,,21.6,0.1,Flower Lot,1,Indica,337,128,20,1,1,0,0,1
+73924,Big Wreck,Hybrid,Stress, Insomnia, Depression, Lack of Appetite, Muscle Spasms,Euphoric, Relaxed, Uplifted, Tingly, Happy, Dry Mouth, Paranoid,,Earthy,,,24.6828,0.67,Flower Lot,1,Indica,1467,149,69,1,1,0,0,1
+74380,Pineapple Fields,Hybrid,Inflammation, Stress, Pain,,,Happy, Relaxed, Uplifted, Creative, Euphoric, Dry Mouth, Paranoid, Anxious,Sweet, Pineapple, Citrus,16.6999,0.3,Flower Lot,1,Sativa,963,134,24,1,1,0,0,1
+74607,Lee Roy,Hybrid,Pain, Depression, Stress, Insomnia,,Relaxed, Sleepy, Happy, Euphoric, Creative, Dry Mouth, Paranoid,,Lime, Earthy,,14.9382,0.09,Flower Lot,1,Indica,783,137,14,1,1,0,0,1
+75728,Space Dawg,Indica,Pain, Nausea, Stress, Muscle Spasms,,Relaxed, Euphoric, Uplifted, Talkative, Dry Mouth, Anxious,,,Sweet, Earthy, Berry,22.5,0.1,Flower Lot,1,Indica,1145,148,13,1,1,0,0,1
+75875,Berry Wreck,Hybrid,,,,,,,,,,,,,,None,,,22.7642,0.73,Flower Lot,1,,,,,,,,,
+76231,G Force,Hybrid,,,,,,,,,,,,,,Pine,Pungent,Woody,14.77355,0.2,Flower Lot,1,Indica,1593,152,48,1,1,0,0,1
+76513,Critical Kali Mist,Sativa,Depression, Stress, Muscle Spasms,,,Creative, Focused, Uplifted, Happy, Euphoric, Paranoid, Dry Mouth,,Pine, Sweet, Earthy,8.21616,0,Flower Lot,1,Sativa,1439,151,57,1,1,0,0,1
+76620,Pineapple Punch,Hybrid,Depression, Stress, Lack of Appetite, Insomnia,,Energetic, Uplifted, Creative, Horny, Happy, Dry Mouth,,,Pineapple,,,20.1517,0.07,Flower Lot,1,Sativa,968,150,18,1,1,0,0,1
+77882,Blue Steel,Hybrid,Pain, Stress,,,,Uplifted, Creative, Euphoric, Relaxed,,,,,Blueberry,,,21.33982,0.02,Flower Lot,1,Indica,1291,151,16,1,1,0,0,1
+77935,A-Train,Hybrid,,,,,,Creative,Euphoric,Relaxed,Happy,Hungry,,,,,,,19.31042,0.02,Flower Lot,1,Hybrid,947,146,156,1,1,0,0,1
+80723,Fat Purple,Hybrid,Pain, Stress, Insomnia,,,Happy, Horny, Euphoric, Relaxed,,,,,Berry, Grape, Sweet,12.8726,0.05,Flower Lot,1,Indica,1412,149,31,1,1,0,0,1
+80912,Fighting Buddha,Hybrid,,,,,,,,,,,,,,Pungent,Woody,Flowery,22.3496,0.2,Flower Lot,1,Sativa,1456,152,3,1,1,0,0,1
+82164,Super Bud,Hybrid,Insomnia, Lack of Appetite, Pain, Stress,,Relaxed, Sleepy, Happy, Creative, Dry Mouth, Anxious,,,Citrus, Mint,,14.3743,0.1,Flower Lot,1,Indica,1034,152,5,1,1,0,0,1
+83581,Gelato,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Creative,,,,,,,24.0343,0.17,Flower Lot,1,Hybrid,20,29,162,1,1,0,0,1
+86090,Pineapple Purps,Sativa,Inflammation, Depression,,,,Relaxed, Creative, Uplifted, Happy, Talkative, Dry Mouth, Anxious,,Pineapple, Sweet, Earthy,21.38951,0.18,Flower Lot,1,Sativa,764,152,8,1,1,0,0,1
+86806,Grizzly Purple Kush,Hybrid,,,,,,,,,,,,,,Skunk,Berry,Blueberry,73.2,0.4,Hydrocarbon Wax,1,,,,,,,,,
+87070,Strawberry Cheesecake,Hybrid,Depression, Pain, Lack of Appetite, Stress,,Relaxed, Uplifted, Happy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Strawberry, Sweet,,23.402,1,Flower Lot,1,Indica,332,133,25,1,1,0,0,1
+87118,Super Jack,Hybrid,Depression, Stress, Lack of Appetite, Pain,,Energetic, Happy, Uplifted, Focused, Creative, Dry Mouth, Anxious, Paranoid,Sweet, Earthy,,73.1477,1.6,Hydrocarbon Wax,1,Sativa,365,127,84,1,1,0,0,1
+87670,Whitaker Blues,Hybrid,Stress, Insomnia, Depression, Pain,,Relaxed, Sleepy, Happy, Uplifted, Euphoric, Dry Mouth,,,Sweet, Apple,,14.3074,0,Flower Lot,1,Indica,1522,150,6,2,0.3333333,0.6666667,0,0.6666667
+87824,Big Skunk,Hybrid,,,,,,,,,,,,,,Earthy,Pungent,Woody,12.5256,0.22,Flower Lot,1,Hybrid,478,139,133,1,1,0,0,1
+88764,Tangilope,Hybrid,Depression, Stress, Pain, Lack of Appetite,,Happy, Uplifted, Creative, Euphoric, Talkative, Dry Mouth, Paranoid,,Citrus, Sweet,,16.1,0.1,Flower Lot,1,Sativa,571,136,107,1,1,0,0,1
+89165,Cookies Kush,Indica,Stress, Lack of Appetite, Insomnia, Depression, Pain,Relaxed, Happy, Hungry, Euphoric, Sleepy, Dry Mouth, Paranoid, Anxious,Sweet, Earthy,,23.3635,1.1,Flower Lot,1,Indica,109,115,432,1,0.9907407,0.0092593,0,0.9907407
+89444,Purple Berry,Hybrid,Pain, Nausea, Stress, Insomnia,,Relaxed, Euphoric, Sleepy, Tingly, Uplifted, Dry Mouth, Paranoid, Anxious,Berry, Blueberry, Sweet,14.732,0.1,Flower Lot,1,Indica,586,145,93,1,1,0,0,1
+90186,Hawaiian Diesel,Hybrid,Stress, Lack of Appetite, Pain, Depression,,Happy, Relaxed, Uplifted, Creative, Horny, Dry Mouth, Anxious,,Citrus,,,76.9,0.3,Hydrocarbon Wax,1,Sativa,1221,148,55,1,1,0,0,1
+91262,Magnum PI,Sativa,Depression, Stress,,,,Uplifted, Focused, Energetic, Euphoric, Creative,,,,Citrus, Pine,,21.4557,1,Flower Lot,1,Sativa,1656,149,15,1,1,0,0,1
+92044,Superstar,Hybrid,,,,,,Relaxed,Focused,Euphoric,Uplifted,Happy,,,,,,,25.8052,1,Flower Lot,1,Hybrid,1481,151,82,1,1,0,0,1
+92049,Blue Fire,Hybrid,,,,,,,,,,,,,,Earthy,Sage,Spicy/Herbal,66.13848,0.14,Hash,1,,,,,,,,,
+92788,Purple People Eater,Hybrid,Depression, Stress,,,,Uplifted, Creative, Euphoric, Focused, Relaxed,,,,Grape,,,72.7,0.2,Hydrocarbon Wax,1,,,,,,,,,
+93188,Kandahar,Hybrid,Insomnia, Depression, Pain, Stress,,Relaxed, Sleepy, Uplifted, Euphoric,,,,,Earthy,,,11.8471,0.07,Flower Lot,1,,,,,,,,,
+93696,Pineapple Jack,Hybrid,Stress, Depression, Lack of Appetite,,,Relaxed, Energetic, Uplifted, Happy, Focused, Dry Mouth, Paranoid,,Pineapple, Citrus, Sweet,81.5,0.2,CO2 Hash Oil,1,Sativa,447,143,2,1,1,0,0,1
+94251,Commerce City Kush,Hybrid,Insomnia, Pain, Stress, Depression,,Euphoric, Happy, Relaxed, Sleepy, Talkative, Dry Mouth,,,Sweet,,,27.7085,0.19,Flower Lot,1,,,,,,,,,
+94579,Wonder,Hybrid,,,,,,,,,,,,,,None,,,15.7367,0,Flower Lot,1,,,,,,,,,
+95375,Dreamweaver,Hybrid,,,,,,,,,,,,,,Earthy,Spicy/Herbal,Woody,18.5823,0,Flower Lot,1,Sativa,998,148,133,1,1,0,0,1
+95613,King Louis XIII,Hybrid,Stress, Insomnia, Pain, Depression, Muscle Spasms,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,20.0631,0.2,Flower Lot,1,Indica,89,56,11,1,1,0,0,1
+96132,Mother Tongue,Sativa,Lack of Appetite, Stress, Pain, Inflammation,,Euphoric, Happy, Relaxed, Hungry, Sleepy, Paranoid, Anxious, Dry Mouth,Earthy,,,15.0213,0.2,Flower Lot,1,Sativa,1227,148,43,1,1,0,0,1
+96660,Strawberry Fields,Hybrid,Stress, Pain, Muscle Spasms, Depression, Insomnia,Relaxed, Euphoric, Happy, Uplifted, Hungry, Dry Mouth, Paranoid,,Strawberry, Berry, Sweet,16.15659,0.03,Flower Lot,1,Indica,438,131,162,1,1,0,0,1
+96701,LA Ultra,Indica,Insomnia, Stress, Pain,,,Relaxed, Euphoric, Happy, Sleepy, Tingly, Dry Mouth, Paranoid,,Lemon,,,84.20747,0.86,Hydrocarbon Wax,1,Indica,1685,152,4,1,1,0,0,1
+96811,Pakistan Valley Kush,Indica,Insomnia, Stress, Depression, Pain, Lack of Appetite,Relaxed, Happy, Sleepy, Euphoric, Uplifted, Dry Mouth,,,Pine, Sweet, Earthy,69.7221,0.22,Hydrocarbon Wax,1,Indica,812,144,23,1,1,0,0,1
+97199,Incredible Bulk,Indica,Stress, Muscle Spasms, Insomnia, Pain, Lack of Appetite,Relaxed, Happy, Tingly, Sleepy, Dry Mouth, Paranoid, Anxious,,Earthy, Citrus,,16.3091,1.69,Flower Lot,1,Indica,266,129,86,1,0.9302326,0.0697674,0,0.9302326
+97294,Blackberry Cream,Hybrid,Depression, Stress, Insomnia, Muscle Spasms, Pain,Relaxed, Happy, Euphoric, Uplifted, Sleepy, Dry Mouth,,,Berry, Sweet,,13.2279,2.67,Flower Lot,2,Indica,1097,150,56,1,0.9642857,0.0357143,0,0.9642857
+98036,Sour Pebbles,Hybrid,Stress, Depression, Pain, Nausea,,Happy, Euphoric, Hungry, Creative, Dry Mouth,,,,Sweet, Berry,,21.21934,0.04877,Flower Lot,1,Sativa,1392,150,16,1,1,0,0,1
+98985,Aloha,Hybrid,Depression, Stress, Pain,,,Energetic, Uplifted, Happy, Creative, Focused, Dry Mouth, Anxious,,Sweet, Citrus,,18.8,0.1,Flower Lot,1,Sativa,1028,143,63,1,0.968254,0.031746,0,0.968254
+99233,Sour Jack,Hybrid,Depression, Stress, Pain,,,Energetic, Happy, Creative, Uplifted, Euphoric, Dry Mouth, Anxious, Paranoid,Citrus,,,19.0293,0,Flower Lot,1,Sativa,314,123,29,1,1,0,0,1
+99532,CBD Shark,Indica,Pain, Stress, Inflammation, Depression,,Relaxed, Happy, Sleepy, Focused, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,4.7,8.8,Flower Lot,2,Indica,330,131,8,2,0.25,0.75,0,0.75
+99682,Blue Dot,Sativa,Stress, Pain, Depression, Nausea,,Uplifted, Energetic, Relaxed, Happy, Focused, Dry Mouth, Paranoid, Anxious,Earthy, Berry,,27.4438,0.17,Flower Lot,1,Sativa,1122,149,41,1,1,0,0,1
+99696,Lemon G,Hybrid,Pain, Stress, Depression, Inflammation, Nausea,Focused, Happy, Relaxed, Uplifted, Creative, Dry Mouth, Paranoid,,Lemon, Citrus, Sweet,76.03442,0.16,Hydrocarbon Wax,1,Sativa,466,135,28,1,1,0,0,1
+101457,Very Berry Haze,Hybrid,Pain, Inflammation, Muscle Spasms,,,Happy, Focused, Uplifted, Euphoric, Hungry, Dry Mouth, Anxious, Paranoid,Berry, Sweet,,27.1654,0.21,Flower Lot,1,Sativa,887,145,93,1,1,0,0,1
+102248,Twizzler,Hybrid,,,,,,,,,,,,,,Mango,Earthy,Pine,20.3801,0.11,Flower Lot,1,,,,,,,,,
+102271,Extreme OG,Hybrid,Pain, Stress, Muscle Spasms, Lack of Appetite, Nausea,Relaxed, Sleepy, Hungry, Happy, Horny, Dry Mouth,,,Lime, Earthy, Citrus,15.6467,0.1,Flower Lot,1,Indica,790,149,17,1,1,0,0,1
+102276,Colombian Gold,Hybrid,Depression, Stress, Pain, Lack of Appetite, Inflammation,Euphoric, Happy, Uplifted, Energetic, Relaxed, Dry Mouth, Paranoid,,Earthy, Sweet,,19.6963,0.14,Flower Lot,1,Sativa,185,125,252,1,0.8928571,0.1071429,0,0.8928571
+103783,Tangie Ghost Train,Sativa,Depression, Lack of Appetite, Stress,,,Uplifted, Energetic, Euphoric, Focused, Happy,,,,Sweet, Citrus,,16.7999,0.3,Flower Lot,1,,,,,,,,,
+104469,Himalayan Blackberry,Indica,Insomnia, Stress, Depression, Lack of Appetite,,Sleepy, Happy, Tingly, Euphoric, Relaxed, Dry Mouth,,,Berry, Blueberry,,17.9,0,Flower Lot,1,Indica,1541,143,95,1,1,0,0,1
+104662,Narnia,Sativa,Stress, Depression, Pain, Lack of Appetite,,Creative, Energetic, Focused, Uplifted, Happy, Dry Mouth, Paranoid, Anxious,Sweet, Earthy, Citrus,23.1,0.1,Flower Lot,1,Sativa,506,133,299,1,1,0,0,1
+104663,Appalachian Power,Sativa,,,,,,Euphoric, Creative, Focused, Talkative, Uplifted,,,,Grape, Sweet,,21,0.1,Flower Lot,1,Sativa,1694,150,122,1,1,0,0,1
+105062,Pacific Blue,Indica,Stress, Insomnia, Pain, Depression,,Happy, Tingly, Relaxed, Sleepy, Euphoric, Dry Mouth,,,Blueberry, Berry,,21.79399,0.19,Flower Lot,1,Indica,1511,142,48,1,1,0,0,1
+105659,Sour Bubble,Indica,Pain, Depression, Nausea, Insomnia, Stress,Relaxed, Sleepy, Happy, Creative, Dry Mouth, Anxious,,,Sweet, Earthy,,12.5803,0.05,Flower Lot,1,Indica,751,146,23,1,1,0,0,1
+106004,Blueberry Dream,Hybrid,Stress, Depression, Pain, Insomnia,,Relaxed, Euphoric, Happy, Focused, Creative, Dry Mouth,,,Blueberry, Berry, Earthy,20.6356,0.17,Flower Lot,1,Sativa,674,134,40,1,1,0,0,1
+106037,Lucy,Hybrid,,,,,,Relaxed,Sleepy,Uplifted,Happy,Hungry,,,,,,,32.05062,33.8,Hydrocarbon Wax,2,Hybrid,902,148,2,2,0,1,0,1
+106437,Clementine,Hybrid,Stress, Pain, Depression, Nausea,,Happy, Energetic, Euphoric, Relaxed, Uplifted, Dry Mouth, Anxious,,Citrus, Orange, Sweet,24.4774,0.6,Flower Lot,1,Sativa,232,102,49,1,1,0,0,1
+106695,Bogglegum,Hybrid,,,,,,,,,,,,,,Sweet,Earthy,Berry,15.8229,0.15,Flower Lot,1,Hybrid,1523,151,182,1,1,0,0,1
+106801,Hempstar,Sativa,Stress, Depression, Nausea, Pain, Lack of Appetite,Happy, Focused, Relaxed, Euphoric, Uplifted, Dry Mouth, Paranoid,,Earthy,,,22.905,0.18,Flower Lot,1,Sativa,476,139,22,1,1,0,0,1
+107413,Poochie Love,Hybrid,,,,,,Euphoric, Focused, Creative, Happy, Energetic,,,,Earthy, Skunk,,27.13294,0.15,Flower Lot,1,Sativa,1738,150,15,1,1,0,0,1
+107828,Light of Jah,Hybrid,Stress, Depression, Pain,,,Happy, Uplifted, Energetic, Euphoric, Focused, Dry Mouth,,,Earthy,,,17.7384,0,Flower Lot,1,Sativa,856,147,14,1,1,0,0,1
+107930,8 Ball Kush,Indica,Depression, Pain, Insomnia, Inflammation,,Relaxed, Happy, Hungry, Creative, Euphoric, Dry Mouth, Paranoid,,Earthy, Pine,,19.83545,0.15,Flower Lot,1,Indica,660,146,8,1,1,0,0,1
+109072,Super G,Hybrid,,,,,,Creative, Tingly, Uplifted, Energetic, Happy,,,,Earthy, Pine,,19.83,0.07,Flower Lot,1,Sativa,1528,149,73,1,1,0,0,1
+109333,Opal OG Kush,Indica,Stress, Insomnia, Muscle Spasms, Depression, Lack of Appetite,Relaxed, Euphoric, Horny, Happy, Focused, Dry Mouth, Paranoid,,Earthy, Lavender, Strawberry,16.30953,0.03,Flower Lot,1,Indica,1727,152,19,1,1,0,0,1
+112354,Twisted Citrus,Sativa,Depression, Stress, Inflammation, Lack of Appetite,,Energetic, Uplifted, Talkative, Creative, Happy, Dry Mouth, Anxious,,Citrus, Orange, Lemon,20.7094,0.30278,Flower Lot,1,Sativa,1436,150,18,1,1,0,0,1
+112565,Strawberry Amnesia,Sativa,Stress, Depression, Lack of Appetite,,,Euphoric, Uplifted, Relaxed, Energetic, Focused, Dry Mouth, Anxious,,Strawberry, Sweet,,11.9272,0,Flower Lot,1,Sativa,599,135,12,1,1,0,0,1
+112879,Platinum Purple Kush,Indica,Insomnia, Stress, Pain, Depression, Lack of Appetite,Relaxed, Euphoric, Happy, Hungry, Uplifted, Dry Mouth, Paranoid, Anxious,Sweet, Berry, Earthy,15.809,0,Flower Lot,1,Indica,369,132,9,1,1,0,0,1
+114220,Extreme Cream,Hybrid,Pain, Stress, Depression, Muscle Spasms, Inflammation,Relaxed, Euphoric, Happy, Uplifted, Hungry, Dry Mouth, Paranoid,,Earthy, Sweet,,23.92034,0.08262,Flower Lot,1,Indica,699,138,31,1,1,0,0,1
+114492,Mammoth,Hybrid,,,,,,Happy,Relaxed,Focused,Uplifted,Creative,,,,,,,13.0673,0,Flower Lot,1,Hybrid,797,142,19,1,1,0,0,1
+115248,Do-Si-Dos,Indica,Stress, Pain, Depression, Insomnia, Lack of Appetite,Relaxed, Euphoric, Happy, Sleepy, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Sweet,,19.7132,0.14909,Flower Lot,1,Indica,98,100,43,1,1,0,0,1
+115315,Face Off OG,Indica,Pain, Stress, Insomnia, Lack of Appetite, Depression,Relaxed, Sleepy, Hungry, Euphoric, Happy, Dry Mouth,,,Earthy, Citrus, Pine,21.7295,0.16663,Flower Lot,1,Indica,282,139,56,1,1,0,0,1
+116223,Dream Beaver,Hybrid,Muscle Spasms, Pain, Seizures,,,Uplifted, Talkative, Energetic, Creative, Focused, Dry Mouth, Anxious,,Pineapple, Earthy,,16.8552,0.23679,Flower Lot,1,Sativa,998,148,133,1,1,0,0,1
+116229,Hulkamania,Indica,Depression, Inflammation, Insomnia, Lack of Appetite,,Horny, Tingly, Uplifted, Euphoric, Happy,,,,Sweet, Berry,,16.3206,0.13155,Flower Lot,1,Indica,1245,151,3,1,1,0,0,1
+117882,Lemon Meringue,Hybrid,Depression, Stress, Pain,,,Uplifted, Happy, Creative, Energetic, Talkative, Anxious,,,Lemon, Citrus, Sweet,17.839,0.11401,Flower Lot,1,Sativa,545,139,139,1,1,0,0,1
+119729,East Coast Sour Diesel,Sativa,Muscle Spasms, Stress, Pain, Depression, Inflammation,Happy, Focused, Energetic, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Citrus, Lemon,,18.7493,0.11401,Flower Lot,1,Sativa,334,129,31,1,1,0,0,1
+121080,Brandywine,Indica,,,,,,Sleepy, Talkative, Tingly, Uplifted, Euphoric,,,,,,,22.94,0.1,Flower Lot,1,Indica,1691,149,64,1,1,0,0,1
+122150,Frida,Indica,Pain, Inflammation, Stress, Muscle Spasms, Depression,Relaxed, Happy, Creative, Horny, Uplifted, Anxious,,,Lemon, Earthy, Pine,7.71,12.81,Flower Lot,2,Indica,1638,142,31,2,0,1,0,1
+124043,Elphinstone,Hybrid,Depression, Pain, Stress,,,Happy, Uplifted, Creative, Focused, Relaxed, Anxious,,,Citrus, Pine,,18.4308,0.4354,Flower Lot,1,Sativa,1625,152,32,1,1,0,0,1
+124559,Rocklock,Hybrid,Stress, Depression, Muscle Spasms, Inflammation,,Relaxed, Uplifted, Happy, Euphoric, Sleepy, Dry Mouth, Paranoid,,Earthy,,,17.5761,0.12278,Flower Lot,1,Indica,1140,149,8,1,1,0,0,1
+125073,Ambrosia,Hybrid,,,,,,Uplifted,Euphoric,Relaxed,Creative,Focused,,,,,,,29.0394,0,Flower Lot,1,Hybrid,868,147,11,1,1,0,0,1
+125348,Bangi Haze,Hybrid,Inflammation, Stress,,,,Horny, Uplifted, Euphoric, Hungry,,,,,Berry,,,65.4157,0,Hash,1,,,,,,,,,
+127113,Outer Space,Hybrid,Stress, Pain, Depression, Lack of Appetite,,Uplifted, Energetic, Happy, Creative, Euphoric, Dry Mouth, Anxious, Paranoid,Citrus, Sweet, Pine,68.2863,0.3508,Hydrocarbon Wax,1,Sativa,718,134,4,1,1,0,0,1
+127118,Herijuana,Hybrid,Stress, Pain, Insomnia, Depression,,Relaxed, Sleepy, Happy, Uplifted, Euphoric, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,69.4083,0.39465,Hydrocarbon Wax,1,Indica,223,97,7,1,1,0,0,1
+127591,Pineapple Haze,Hybrid,Depression, Stress, Lack of Appetite,,,Relaxed, Euphoric, Happy, Uplifted, Focused, Dry Mouth, Paranoid,,Pineapple, Citrus,,12.2949,0.06139,Flower Lot,1,Sativa,443,136,10,1,1,0,0,1
+128978,Lemon Jack,Hybrid,Stress, Depression, Pain,,,Energetic, Happy, Relaxed, Euphoric, Dry Mouth, Anxious, Paranoid,,Lemon, Citrus, Earthy,19.0647,0.20171,Flower Lot,1,Sativa,362,134,36,1,1,0,0,1
+128992,Jack Smack,Sativa,Depression, Stress, Lack of Appetite,,,Energetic, Uplifted, Focused, Happy, Creative, Dry Mouth,,,Blueberry, Earthy,,16.5614,0,Flower Lot,1,Sativa,1634,148,3,1,1,0,0,1
+129525,Blueberry Pie,Hybrid,,,,,,,,,,,,,,Sweet,Chemical,Citrus,19.7,0.1,Flower Lot,1,Hybrid,702,110,17,1,1,0,0,1
+130954,Pamelina,Indica,Depression, Insomnia, Lack of Appetite, Nausea, Stress,Euphoric, Relaxed, Sleepy, Uplifted, Creative, Dry Mouth,,,,,,24.0513,0.16663,Flower Lot,1,,,,,,,,,
+131541,Green Haze,Sativa,Pain, Stress, Nausea, Depression, Lack of Appetite,Happy, Talkative, Creative, Euphoric, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy,,,65.29,1.66,Hydrocarbon Wax,1,,,,,,,,,
+133258,CBD Critical Cure,Indica,Pain, Stress, Inflammation, Muscle Spasms, Depression,Relaxed, Uplifted, Happy, Hungry, Focused, Dry Mouth, Anxious,,Earthy, Sweet,,8.3529,13.3,Flower Lot,2,Indica,503,127,42,2,0.1666667,0.8333333,0,0.8333333
+133817,Yumboldt,Hybrid,Insomnia, Pain, Stress, Depression, Muscle Spasms,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid,,Citrus, Earthy, Sweet,21.51255,0,Flower Lot,1,Indica,1061,145,12,1,0.8333333,0.1666667,0,0.8333333
+134088,ASH,Hybrid,,,,,,Relaxed,Happy,Uplifted,Euphoric,Sleepy,,,,,,,21.9988,0,Flower Lot,1,,,,,,,,,
+135894,Blue Bastard,Indica,Stress, Insomnia, Pain, Depression, Muscle Spasms,Euphoric, Happy, Sleepy, Uplifted, Creative, Dry Mouth, Paranoid,,Berry, Pine,,22.4512,0,Flower Lot,1,Indica,1642,151,29,1,1,0,0,1
+136333,Dr. Funk,Hybrid,Stress, Insomnia, Lack of Appetite, Pain, Depression,Euphoric, Relaxed, Happy, Uplifted, Tingly, Dry Mouth,,,Earthy, Berry, Blueberry,71.33,1.34,Hydrocarbon Wax,1,Indica,1082,149,11,1,1,0,0,1
+136914,Electric Lemon G,Hybrid,Stress, Depression, Pain, Lack of Appetite,,Euphoric, Focused, Energetic, Happy, Uplifted, Dry Mouth, Paranoid, Anxious,Lemon, Citrus, Lime,10.3655,0.07893,Flower Lot,1,Sativa,926,135,45,1,1,0,0,1
+141355,Sugar Momma,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Citrus,23.5496,0,Flower Lot,1,Indica,827,147,32,1,1,0,0,1
+141454,Crouching Tiger Hidden Alien,Indica,Stress, Inflammation, Muscle Spasms, Nausea, Pain,Relaxed, Happy, Euphoric, Tingly, Uplifted, Dry Mouth,,,Earthy, Pine,,16.5,0.59,Flower Lot,1,Indica,1478,147,5,1,1,0,0,1
+141726,Pakistani Chitral Kush,Indica,Stress, Insomnia, Pain, Muscle Spasms, Lack of Appetite,Relaxed, Happy, Hungry, Tingly, Uplifted, Dry Mouth,,,Earthy, Sweet, Berry,20.2448,0,Flower Lot,1,Indica,596,145,19,1,1,0,0,1
+147701,Tesla Tower,Sativa,Depression, Pain, Stress,,,Tingly, Uplifted, Relaxed, Creative, Energetic,,,,Pepper, Sweet, Berry,19.6086,0.19294,Flower Lot,1,Sativa,1371,148,12,1,1,0,0,1
+148794,Emerald OG,Hybrid,Stress, Depression, Insomnia, Nausea,,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Anxious,,Citrus,,,14.7051,0.12278,Flower Lot,1,Indica,561,146,31,1,1,0,0,1
+149424,Sonoma Coma,Hybrid,Depression, Stress, Pain, Lack of Appetite, Nausea,Euphoric, Happy, Uplifted, Relaxed, Energetic, Dry Mouth, Paranoid,,Citrus,,,25.0437,0,Flower Lot,1,Sativa,1033,149,4,1,1,0,0,1
+149520,Flo OG,Indica,Pain, Stress, Inflammation, Insomnia,,Happy, Relaxed, Euphoric, Focused, Creative, Dry Mouth,,,Sweet, Berry,,14.9911,0.07893,Flower Lot,1,Indica,967,144,226,1,1,0,0,1
+150992,VCDC,Hybrid,,,,,,Relaxed,Happy,Euphoric,Focused,Uplifted,,,,,,,10.5069,12.201,Flower Lot,2,Hybrid,756,142,2,2,0,1,0,1
+151161,Hubbabubbasmelloscope,Hybrid,,,,,,,,,,,,,,Sweet,Pungent,Flowery,63.86186,0.21925,CO2 Hash Oil,1,,,,,,,,,
+151952,Tesla,Hybrid,,,,,,Uplifted,Relaxed,Happy,Euphoric,Giggly,,,,,,,4.16019,7.31894,Flower Lot,2,Hybrid,1508,149,11,2,0,1,0,1
+154875,Hashberry,Hybrid,Pain, Insomnia, Lack of Appetite, Muscle Spasms,,Relaxed, Happy, Euphoric, Uplifted, Tingly, Dry Mouth, Paranoid, Anxious,Berry, Sweet,,22.1,0.45,Flower Lot,1,Indica,653,139,7,1,1,0,0,1
+155079,Trix,Hybrid,Stress, Depression,,,,Happy, Talkative, Uplifted, Energetic, Anxious,,,,Sweet, Berry, Grape,74.84,0.28,Hydrocarbon Wax,1,Sativa,1540,150,2,1,1,0,0,1
+155135,Sirius Black,Indica,Stress, Pain, Depression, Muscle Spasms,,Relaxed, Uplifted, Happy, Euphoric, Sleepy, Dry Mouth,,,Sweet, Grape,,8.52412,0.06139,Flower Lot,1,Indica,556,128,4,1,1,0,0,1
+155504,Locomotion,Hybrid,Stress, Pain, Depression, Nausea,,Euphoric, Relaxed, Happy, Talkative, Dry Mouth, Paranoid, Anxious,,Earthy,,,26.4191,0,Flower Lot,1,Indica,769,143,10,1,1,0,0,1
+156996,Rocky Mountain Blueberry,Indica,Stress, Depression, Pain,,,Euphoric, Uplifted, Relaxed, Energetic, Talkative, Dry Mouth, Paranoid,,Blueberry, Berry, Sweet,22.2742,0,Flower Lot,1,Indica,1264,150,9,1,1,0,0,1
+157092,Gummo,Hybrid,,,,,,Euphoric,Uplifted,Happy,Relaxed,Aroused,,,,,,,74.9568,0,Hydrocarbon Wax,1,Indica,1191,148,3,1,1,0,0,1
+157180,Funfetti,Hybrid,,,,,,Happy,Relaxed,Euphoric,Energetic,Uplifted,,,,,,,13.99692,0,Flower Lot,1,Hybrid,1608,151,3,1,1,0,0,1
+160624,Dark Matter,Hybrid,,,,,,,,,,,,,,Citrus,Blueberry,Strawberry,14.5228,0.09647,Flower Lot,1,,,,,,,,,
+162165,Anesthesia,Indica,Pain, Stress, Insomnia, Lack of Appetite,,Hungry, Sleepy, Happy, Euphoric, Creative, Paranoid, Anxious,,Earthy,,,13.9504,0.36524,Flower Lot,1,Indica,1196,151,4,1,1,0,0,1
+162166,Sinai,Sativa,Lack of Appetite, Stress,,,,Euphoric, Uplifted, Relaxed, Talkative, Happy,,,,Pepper,,,10.6509,0.51064,Flower Lot,1,,,,,,,,,
+164979,Purple Candy,Hybrid,Insomnia, Stress, Pain, Depression, Muscle Spasms,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Paranoid,,Sweet, Grape, Earthy,13.364,0.11401,Flower Lot,1,Indica,211,99,14,1,1,0,0,1
+168294,Tardis,Hybrid,Depression, Stress, Nausea, Pain,,Talkative, Energetic, Happy, Creative, Uplifted, Dry Mouth,,,Sweet, Earthy,,23.52991,0.0877,Flower Lot,1,Sativa,1374,148,2,1,1,0,0,1
+169149,Purple Panty Dropper,Hybrid,Stress, Pain, Muscle Spasms, Insomnia, Depression,Relaxed, Uplifted, Euphoric, Horny, Happy, Dry Mouth, Anxious, Paranoid,Berry, Grape, Earthy,7.83883,0.33326,Flower Lot,1,Indica,442,136,2,1,1,0,0,1
+171479,Thunderstruck,Sativa,Depression, Inflammation, Pain, Stress,,Happy, Relaxed, Tingly, Uplifted, Talkative,,,,Pine,,,6.98564,6.26617,Flower Lot,2,Sativa,1266,147,8,2,0,1,0,1
+172850,Grape Inferno,Hybrid,Insomnia, Pain, Stress, Depression, Inflammation,Relaxed, Sleepy, Hungry, Focused, Happy, Dry Mouth, Paranoid, Anxious,Citrus,,,27.1592,0,Flower Lot,1,Indica,1180,148,2,1,1,0,0,1
+173677,Purple Chemdawg,Indica,Pain, Stress, Depression, Insomnia,,Relaxed, Euphoric, Happy, Uplifted, Creative, Dry Mouth, Anxious,,Grape, Earthy, Sweet,19.2201,0.13155,Flower Lot,1,Indica,414,133,11,1,1,0,0,1
+173834,Darth Vader OG,Indica,Insomnia, Stress, Pain, Depression,,Relaxed, Sleepy, Happy, Euphoric, Hungry, Dry Mouth, Paranoid,,Grape, Earthy, Sweet,22.45,0.94,Flower Lot,1,Indica,431,143,26,1,0.7307692,0.2692308,0,0.7307692
+174077,Headbanger,Hybrid,,,,,,Happy,Uplifted,Euphoric,Relaxed,Hungry,,,,,,,18.0568,0.11401,Flower Lot,1,Hybrid,491,143,6,1,1,0,0,1
+174492,Red Congolese,Hybrid,Stress, Depression, Pain,,,Energetic, Euphoric, Uplifted, Happy, Focused, Dry Mouth, Anxious,,Earthy,,,22.748,0,Flower Lot,1,Sativa,304,126,4,1,1,0,0,1
+176052,1024,Hybrid,Stress, Pain, Depression, Inflammation,,Uplifted, Relaxed, Energetic, Creative, Dry Mouth, Anxious,,,Pine,,,11.9587,0.42096,Flower Lot,1,Sativa,398,143,31,1,1,0,0,1
+176637,Confidential Cheese,Hybrid,Stress, Pain, Insomnia,,,Sleepy, Relaxed, Happy, Hungry, Creative, Dry Mouth, Anxious, Paranoid,Pine, Sweet,,30.53,0.08,Flower Lot,1,Indica,615,140,49,1,1,0,0,1
+177591,Golden Tangie,Sativa,,,,,,Horny, Energetic, Focused, Happy,,,,,,,,21.48832,0,Flower Lot,1,,,,,,,,,
+178339,IG Kush,Hybrid,,,,,,,,,,,,,,Earthy,Woody,Sweet,20.73,0.73,Flower Lot,1,Hybrid,1022,147,2,1,1,0,0,1
+182898,El Jefe,Hybrid,Depression, Stress, Pain, Insomnia,,Relaxed, Euphoric, Tingly, Happy, Creative, Dry Mouth, Paranoid,,Earthy, Pine,,28.5223,0,Flower Lot,1,Indica,969,149,1,1,1,0,0,1
+182899,Grape Cookies,Hybrid,Stress, Muscle Spasms, Pain, Insomnia,,Relaxed, Happy, Sleepy, Euphoric, Hungry, Dry Mouth, Paranoid, Anxious,Grape, Sweet, Berry,26.6346,0,Flower Lot,1,Indica,1076,145,9,1,1,0,0,1
+182906,The Cough,Sativa,Stress, Pain, Depression, Nausea,,Uplifted, Focused, Relaxed, Hungry, Euphoric, Dry Mouth, Anxious,,Pine, Citrus,,24.8052,0,Flower Lot,1,Sativa,1263,149,1,1,1,0,0,1
+183048,Misty Kush,Indica,Muscle Spasms, Pain, Insomnia,,,Happy, Euphoric, Relaxed, Uplifted, Talkative, Dry Mouth, Paranoid,,Sweet, Mango, Lemon,17.7161,0.67529,Flower Lot,1,Indica,1102,149,2,1,1,0,0,1
+183546,Lemon Cake,Hybrid,Stress,,,,,Happy, Relaxed, Creative, Energetic, Euphoric,,,,Lemon, Sweet,,25.7822,0,Flower Lot,1,,,,,,,,,
+183743,Nicole Kush,Hybrid,Insomnia, Depression,,,,Relaxed, Euphoric, Sleepy, Uplifted, Dry Mouth,,,,Earthy, Sweet,,21.67003,0.08139,Flower Lot,1,Indica,780,151,8,1,1,0,0,1
+187786,Diamond OG,Hybrid,Stress, Pain, Insomnia, Depression, Lack of Appetite,Relaxed, Sleepy, Happy, Euphoric, Uplifted, Dry Mouth, Paranoid, Anxious,Earthy, Pine,,30.3303,0,Flower Lot,1,Indica,145,107,3,1,1,0,0,1
+187955,13,,,,,,,,,,,,,,,Honey,Earthy,Woody,21.3972,0,Flower Lot,1,,,,,,,,,
+189939,Belladonna,Hybrid,,,,,,Happy,Sleepy,Giggly,Euphoric,Uplifted,,,,,,,12.31,0.06,Flower Lot,1,Hybrid,1173,152,5,1,1,0,0,1
+189944,White Haze,Hybrid,Stress, Depression, Lack of Appetite, Nausea,,Focused, Creative, Energetic, Euphoric, Happy, Dry Mouth,,,Lemon, Pine, Citrus,21.07,0.05,Flower Lot,1,Sativa,988,151,2,1,1,0,0,1
+194938,Voodoo,Hybrid,Pain, Insomnia, Stress,,,Relaxed, Sleepy, Hungry, Tingly, Euphoric, Dry Mouth, Paranoid, Anxious,Citrus,,,15.0828,0.4385,Flower Lot,1,Sativa,558,145,2,1,1,0,0,1
+197377,Killing Fields,Sativa,Depression, Stress, Pain, Nausea,,Energetic, Happy, Focused, Euphoric, Uplifted, Dry Mouth, Paranoid,,Lemon, Citrus,,15.9721,0,Flower Lot,1,Sativa,1248,151,2,1,1,0,0,1
+197526,Rainbow Jones,Indica,Depression, Stress, Inflammation, Lack of Appetite,,Relaxed, Euphoric, Focused, Talkative, Uplifted,,,,Earthy, Sweet,,25.9945,0,Flower Lot,1,Indica,1011,147,6,1,1,0,0,1
+198555,Crimson Crush,Hybrid,,,,,,,,,,,,,,Flowery,Lavender,Earthy,21.87,0.09,Flower Lot,1,,,,,,,,,
+199382,Iced Widow,Indica,Lack of Appetite, Stress, Pain, Insomnia, Depression,Relaxed, Happy, Talkative, Hungry, Dry Mouth, Anxious,,,Earthy, Pine,,15.1812,0,Flower Lot,1,Indica,589,136,4,2,0.25,0.75,0,0.75
+201103,Eran Almog,Hybrid,Stress, Insomnia, Pain, Inflammation, Depression,Relaxed, Sleepy, Euphoric, Happy, Uplifted, Dry Mouth, Paranoid,,Earthy, Sweet, Citrus,74.26,1.86,CO2 Hash Oil,1,Indica,1265,143,1,1,1,0,0,1
+202380,Chocolate Diesel,Hybrid,Stress, Nausea, Pain, Depression,,Euphoric, Happy, Energetic, Creative, Uplifted, Dry Mouth, Paranoid, Anxious,Pine,,,24.4159,0,Flower Lot,1,Sativa,271,144,3,1,1,0,0,1
+202674,Alien Bubba,Hybrid,Stress, Depression, Pain, Insomnia, Lack of Appetite,Relaxed, Happy, Euphoric, Sleepy, Uplifted, Dry Mouth, Anxious,,Earthy,,,20.95,0.41,Flower Lot,1,Indica,814,150,20,1,1,0,0,1
+202758,Kobain Kush,Hybrid,Pain, Stress, Depression, Insomnia,,Relaxed, Happy, Sleepy, Euphoric, Hungry, Anxious,,,Earthy,,,73.8675,0,Hydrocarbon Wax,1,Indica,1363,151,1,1,1,0,0,1
+202865,Salmon River OG,Hybrid,Stress, Depression, Pain, Muscle Spasms, Insomnia,Relaxed, Sleepy, Talkative, Happy, Euphoric, Dry Mouth,,,Earthy,,,18.54855,0,Flower Lot,1,Indica,986,149,4,1,1,0,0,1
+203365,Grape Valley Kush,Hybrid,Lack of Appetite, Pain, Muscle Spasms, Inflammation, Depression,Relaxed, Sleepy, Euphoric, Hungry, Creative,,,,Pineapple,,,15.22284,0.131673,Marijuana Mix,1,Indica,1174,150,1,1,1,0,0,1
+203809,A-Dub,Hybrid,,,,,,Relaxed,Happy,Euphoric,Uplifted,Sleepy,,,,Pungent,Skunk,Spicy/Herbal,72.4274,0.2631,Hydrocarbon Wax,1,Hybrid,710,143,2,1,1,0,0,1
+210141,Cherry Kola,Hybrid,Stress, Depression, Pain, Lack of Appetite, Insomnia,Euphoric, Happy, Relaxed, Uplifted, Dry Mouth, Paranoid, Anxious,,Berry, Sweet,,85.01,0.25,Hydrocarbon Wax,1,Indica,800,142,3,1,1,0,0,1
+211756,Rare Darkness,Hybrid,Insomnia, Pain, Stress, Muscle Spasms, Inflammation,Relaxed, Sleepy, Euphoric, Hungry, Happy, Dry Mouth, Anxious,,Grape, Citrus, Sweet,23.3277,0,Flower Lot,1,Indica,525,126,2,1,1,0,0,1
+215921,Blue Buddha,Indica,Depression, Insomnia, Lack of Appetite,,,Happy, Relaxed, Tingly, Euphoric,,,,,,,,18.0523,0.2877,Flower Lot,1,Indica,1210,148,3,1,1,0,0,1
+216859,Candy Jack,Hybrid,Stress, Depression, Lack of Appetite,,,Happy, Uplifted, Energetic, Euphoric, Creative, Dry Mouth, Anxious, Paranoid,Sweet, Citrus, Pine,61.23,0.25,Hydrocarbon Wax,1,Sativa,286,123,10,1,1,0,0,1
+218358,Ultra Sour,Hybrid,Depression, Lack of Appetite, Stress,,,Uplifted, Energetic, Creative, Happy, Hungry, Dry Mouth, Anxious,,Lemon, Skunk,,17.93513,0.129919,Flower Lot,1,Sativa,1148,149,3,1,1,0,0,1
+218624,Thai Haze,Hybrid,Depression, Stress, Pain, Lack of Appetite, Muscle Spasms,Creative, Energetic, Happy, Horny, Euphoric, Anxious, Dry Mouth,,Pine, Pepper, Sweet,24.82306,0.12278,Flower Lot,1,Sativa,1169,150,2,1,1,0,0,1
+218708,Clifford,Hybrid,,,,,,,,,,,,,,Earthy,Berry,Citrus,18.68364,0.01754,Flower Lot,1,,,,,,,,,
+222254,White Afghani,Hybrid,,,,,,,,,,,,,,Tropical,Pepper,Sweet,21.44319,0.07893,Flower Lot,1,,,,,,,,,
+223358,Gooberry,Hybrid,Pain, Stress, Nausea, Lack of Appetite, Inflammation,Euphoric, Happy, Relaxed, Horny, Dry Mouth,,,,Berry, Sweet,,80.5605,0,Hydrocarbon Wax,1,Indica,738,143,18,1,1,0,0,1
+229933,Doctor Doctor,Sativa,Inflammation, Muscle Spasms, Nausea, Pain,,Relaxed, Uplifted, Focused, Happy, Tingly,,,,Sweet, Strawberry, Citrus,1.4262,13.0673,Flower Lot,3,Sativa,1109,148,3,3,0,0,1,1
+231077,Terminator OG,Indica,Stress, Insomnia, Pain, Muscle Spasms,,Relaxed, Happy, Sleepy, Creative, Uplifted, Dry Mouth,,,Sweet, Pine, Rose,10.99285,0.083438,Flower Lot,1,Indica,1466,149,12,1,1,0,0,1
+233186,Pinot Noir,Hybrid,,,,,,,,,,,,,,Citrus,Sweet,Orange,13.2152,0.082561,Flower Lot,1,,,,,,,,,
+233690,Bluniverse,Hybrid,,,,,,Euphoric,Uplifted,Happy,Tingly,Creative,,,,Berry,Woody,Earthy,16.64134,0.119395,Flower Lot,1,Hybrid,1474,150,190,1,1,0,0,1
