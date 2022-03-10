@@ -19,7 +19,7 @@ CREATE TABLE kushy_reduced (
 	flavor_1 VARCHAR,
 	flavor_2 VARCHAR,
 	flavor_3 VARCHAR,
-    PRIMARY KEY (test_id),
+    PRIMARY KEY (test_id, test_strain),
 	UNIQUE (test_id, test_strain)
 );
 
@@ -56,3 +56,27 @@ SELECT 	kushy_reduced.*,
 FROM kushy_reduced
 LEFT JOIN washington_reduced
 ON kushy_reduced.test_id = washington_reduced.test_id;
+
+-- Create left join table
+CREATE TABLE kushy_washington AS
+	(SELECT kushy_reduced.*,
+			washington_reduced.thc_max,
+    		washington_reduced.cbd_max,
+    		washington_reduced.inventory_type,
+			washington_reduced.chemotype,
+			washington_reduced.strain_category,
+			washington_reduced.strain_leafly_page_rank,
+			washington_reduced.strain_leafly_review_rank,
+			washington_reduced.strain_tests,
+			washington_reduced.strain_chemotype,
+			washington_reduced.strain_prop_chemotype1,
+			washington_reduced.strain_prop_chemotype2,
+			washington_reduced.strain_prop_chemotype3,
+			washington_reduced.strain_modal_chemo_prop
+	FROM kushy_reduced
+	LEFT JOIN washington_reduced
+	ON kushy_reduced.test_id = washington_reduced.test_id
+	);
+	
+-- Check table created
+SELECT * FROM kushy_washington
