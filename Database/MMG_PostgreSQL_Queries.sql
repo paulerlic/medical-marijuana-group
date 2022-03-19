@@ -85,3 +85,14 @@ CREATE TABLE kushy_washington AS
 	
 -- Check table created
 SELECT * FROM kushy_washington
+
+-- Create table prior to importing csv file 
+CREATE TABLE states_legal_status (
+	State VARCHAR NOT NULL,
+	Abbreviation VARCHAR NOT NULL,
+   	Legalization_STatus VARCHAR NOT NULL,
+    UNIQUE (State, Abbreviation)
+);
+
+-- Check table created and data imported
+SELECT * FROM states_legal_status
