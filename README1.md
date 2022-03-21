@@ -43,15 +43,14 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
 
 ## Project Description
  #### Data Cleaning and Exploration
- * 1. Our first step in the ETL workflow was to purge the data of all null values, and to remove any columns or rows that were not pertinent to our projects goals this process was done in excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data.  
- 
+ * 1. Our first step in the ETL workflow was to purge the data of all null values, and to remove any columns or rows that were not pertinent to our projects goals this process was done in excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data. 
  
  * 2. The data was then cleaned again in Pythons/Pandas the purpouse of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemo type variables, rather than drop them from the analysis we transformed them to a zero. Neither of the tranformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the orginal empty cells in the data set. 
  
   ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
  
  * 3. We also created 5 new calculated fields/columns and added them to the dataset n Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
-https://github.com/paulerlic/medical-marijuana-group/blob/Laup/Imgs/Prelim.PNG
+![Prelim](https://github.com/paulerlic/medical-marijuana-group/blob/Laup/Imgs/Prelim.PNG)
  
  
  #### Database Creation and Description
