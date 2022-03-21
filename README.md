@@ -1,5 +1,7 @@
 # Medical Marijuana Group Final Project
 
+![download](https://user-images.githubusercontent.com/59430635/159196712-e7aa3de9-7247-4aff-82d1-4e2ebc7d5c1c.gif)
+
 
 ### Selected Topic
 Medical Marijuana "Picking The Right Strain"
@@ -58,7 +60,10 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
   A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.A neural network is a system that learns how to make predictions by following these steps: Taking the input data. Making a prediction. Comparing the prediction to the desired output.
 - Taking the input data:
   *Connecting to PostgresSQL Database, then creating a function to take in the query and outputs a pandas dataframe by using the create_pandas_df function.
-Then store the data as a variable in our case we used Kushy_washingto_cleaned_df, then closed the cursor connection so we can save bandwidth.Dropping non-beneficial identification columns in the dataframe.
+Then store the data as a variable in our case we used Kushy_washingto_cleaned_df, then closed the cursor connection so we can save bandwidth.Dropping non-beneficial identification columns in the dataframe.Use labelencoder to encode target ailment_1 column and check datatype which than convert vector of integers to one hot encoding using keras function to_categorical
+*Use get_dummies() to encode object columns
+*Split preprocessed data into features and target arrays
+*Split preprocessed data into training and testing datasets
   
 
 
