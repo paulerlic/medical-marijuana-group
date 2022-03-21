@@ -25,7 +25,7 @@ Can we find a positive correlation between the strain type and ailments, for exa
 Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects by creating a neural network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from depression, stress, pain, and inflammation, among others.
 
 ### Team Role Distribution
-* Triangle -Machine Learning Model - David Bastien
+* Triangle - Machine Learning Model - David Bastien
 * Square - GitHub Repository - Paul Erlic
 * X - Technology Architect - Ashley Mayes
 * Circle - Database Integration - Jemi Shieh
