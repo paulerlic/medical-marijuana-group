@@ -98,9 +98,11 @@ Deep neural network models also are commonly referred to as deep learning models
 * Created 5 new calculated fields/columns added to dataset n Python/Pandas 
 * Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
 * Data imported into model from PostgreSQL preprocessed using Pandas (unique, value_counts, binning, get_dummies) and SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split data into Dependent Target and Independent Feature variables
+* Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
+* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which * The features and target sets were split into training and testing sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model. 
 
 #### Analysis
-We tested several different machine learning models when analyzing the data they are listed below [add screenhsots]. 
+We tested several different machine learning models when analyzing the data o predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results[add screenhsots]: 
 *  K-means clustering - 66.76%
 *  K-means clustering with Principal Component Analysis - 51.47%
 *  Random Forest Classifier - 67.96%
