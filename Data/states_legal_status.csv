@@ -1,0 +1,52 @@
+State,Abbreviation,Legalization_Status
+Alabama,AL,Medical
+Alaska,AK,Medical_Recreational
+Arizona,AZ,Medical_Recreational
+Arkansas,AR,Medical
+California,CA,Medical_Recreational
+Colorado,CO,Medical_Recreational
+Connecticut,CT,Medical_Recreational
+Delaware,DE,Medical
+District of Columbia,DC,Medical_Recreational
+Florida,FL,Medical
+Georgia,GA,CBD
+Hawaii,HI,Medical
+Idaho,ID,Illegal
+Illinois,IL,Medical_Recreational
+Indiana,IN,CBD
+Iowa,IA,CBD
+Kansas,KS,Illegal
+Kentucky,KY,CBD
+Louisiana,LA,Medical
+Maine,ME,Medical_Recreational
+Maryland,MD,Medical
+Massachusetts,MA,Medical_Recreational
+Michigan,MI,Medical_Recreational
+Minnesota,MN,Medical
+Mississippi,MS,Medical
+Missouri,MO,Medical
+Montana,MT,Medical_Recreational
+Nebraska,NE,Illegal
+Nevada,NV,Medical_Recreational
+New Hampshire,NH,Medical
+New Jersey,NJ,Medical_Recreational
+New Mexico,NM,Medical_Recreational
+New York,NY,Medical_Recreational
+North Carolina,NC,CBD
+North Dakota,ND,Medical
+Ohio,OH,Medical
+Oklahoma,OK,Medical
+Oregon,OR,Medical_Recreational
+Pennsylvania,PA,Medical
+Rhode Island,RI,Medical
+South Carolina,SC,CBD
+South Dakota,SD,Medical_Recreational
+Tennessee,TN,CBD
+Texas,TX,CBD
+Utah,UT,Medical
+Vermont,VT,Medical_Recreational
+Virginia,VA,Medical_Recreational
+Washington,WA,Medical_Recreational
+West Virginia,WV,Medical
+Wisconsin,WI,CBD
+Wyoming,WY,CBD
