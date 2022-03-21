@@ -99,6 +99,7 @@ We tested several different machine learning models when analyzing the data they
 #### Tools used to create the final dashboard
 * Tableau, JavaScript, HTML, Bootstrap, d3
 #### Description of interactive elements
+* Link to dashboard blue print https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_107
 * All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
 * Map and Strain Selector also include interactive search filters, we included a map of states in the united states. 
 ![Map](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/Laup/Imgs/US_legal_map.PNG)
