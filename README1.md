@@ -14,6 +14,8 @@ There is one issue however, since marijuana has been illegal for so long many pa
   1. Can a Neural Network be created that can identify patterns in strains?
   2. Can we correctly match a patients ailments to the effects of certain strains?
 
+### Hypothesis
+
 #### Null Hypothesis: Do Sativa ,Indicia and Hybird strains share a correlation with certain effects that are best suited for the treamtent of patient aliments.
 
 Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the sativa category treat stress, and depression. Will strains that fall under the indica category treat ailments like nausea and lack of sleep?
