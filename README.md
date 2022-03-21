@@ -16,16 +16,15 @@ There is one issue however, since marijuana has been illegal for so long many pa
 
 ### Questions We Hope to Answer:
   1. Can a Neural Network be created that can identify patterns in strains?
-  2. Can we correctly match a patients ailments to the effects of certain strains?
+  2. Can a Neural Network correctly match a patients ailments to the effects of certain strains?
 
 ### Hypothesis
 
-#### Null Hypothesis: Do Sativa ,Indicia and Hybird strains share a correlation with certain effects that are best suited for the treamtent of patient aliments.
-
-Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the sativa category treat stress, and depression. Will strains that fall under the indica category treat ailments like nausea and lack of sleep?
+#### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
+Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression. Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
 
 #### Alternate Hypothesis: There is no relationship between strains and their effects.
-Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects.By creating a neutral network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from deppression, stress, pain, inflammation ,etc.. We believe that creating a netural network in which our machine can learn 
+Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects by creating a neural network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from depression, stress, pain, and inflammation, among others.
 
 ### Team Role Distribution
 * Triangle -Machine Learning Model - David Bastien
@@ -34,10 +33,10 @@ Determine which medical marijuana strains are best suited as treatment for speci
 * Circle - Database Integration - Jemi Shieh
 
 ### Resources
-* Kushy cannabis Data: https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
-* Washington cannabis data: https://www.nature.com/articles/s41598-018-22755-2
+* Kushy cannabis dataset: https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
+* Washington cannabis dataset: https://www.nature.com/articles/s41598-018-22755-2
 * Harvard Dataverse Replication data: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
-* Cannabis US legalization map: https://data.world/sya/marijuana-laws-by-state
+* Cannabis US legalization map data: https://data.world/sya/marijuana-laws-by-state
 
 ### Technolgy Used:
 * Data Analysis: Excel, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
@@ -90,6 +89,7 @@ Deep neural network models also are commonly referred to as deep learning models
 * Allows for multiple parallel computations using GPUs scalable for large data volumes
 * Larger data volumes actually result in enhanced performance   
 * Produces output regardless of fault/error detection with model/data
+* Ideal for multiclass classification with large number of inputs/outputs
 
 #### Preprocesssing the Data
 * Kushy and Washington datasets indexed by primary key, parsed text into columns, reduced unnecessary columns and rows using Excel
@@ -101,11 +101,11 @@ Deep neural network models also are commonly referred to as deep learning models
  
 #### Feature Engineering, Selection, and Training/Testing Split
 * Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
-* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) and the remaining features independent variables (X) which were directly related to a specific strain profile.
-* The features and target sets were split into stamdard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
+* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output clases and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
+* The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
 
 #### Analysis
-We tested several different machine learning models when analyzing the data o predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results[add screenhsots]: 
+We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9)[add screenhsots]: 
 *  K-means clustering - 66.76%
 *  K-means clustering with Principal Component Analysis - 51.47%
 *  Random Forest Classifier - 67.96%
@@ -115,7 +115,7 @@ We tested several different machine learning models when analyzing the data o pr
 
 ### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
-* Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons 
+* Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons
 * Emergency contact information (email/mobile) provided by each team member
 * Emergency contact Jemi Shieh 24/7 by Slack/email/text/call as needed
 * Periodic zoom calls for short group review sessions
