@@ -4,6 +4,10 @@
 ### Selected Topic
 Medical Marijuana "Picking The Right Strain"
 
+![slides](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/main/Images/Slides.gif)
+
+Link to presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit#slide=id.g11d87207918_1_21
+
 #### Reason for choosing this Topic:
 
 Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jeffereson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economey and with recently passed legislation marijuana is once again becoming a part of the US economey. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
@@ -95,6 +99,8 @@ We tested several different machine learning models when analyzing the data they
 
 
 ### Dashboard Blueprint
+
+https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_143
 
 #### Tools used to create the final dashboard
 * Tableau, JavaScript, HTML, Bootstrap, d3
