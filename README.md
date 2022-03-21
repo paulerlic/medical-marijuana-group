@@ -98,6 +98,8 @@ We tested several different machine learning models when analyzing the data they
 
 ### Dashboard Blueprint
 
+https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_143
+
 #### Tools used to create the final dashboard
 * Tableau, JavaScript, HTML, Bootstrap, d3
 #### Description of interactive elements
