@@ -49,7 +49,7 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
   ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
  
  * 3. We also created 5 new calculated fields/columns and added them to the dataset n Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
-
+https://github.com/paulerlic/medical-marijuana-group/blob/Laup/Imgs/Prelim.PNG
  
  
  #### Database Creation and Description
@@ -57,11 +57,10 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
       - Reading and writing operations are fast for PostgresSQL databases.
       - SQLite is very easy to learn, additionally there is no added installation and configuration.
  * 2. We have four tables in the database which can be seen in ERD below
+ ![mmg_sql_erd pgerd](https://user-images.githubusercontent.com/59430635/159135849-557fdfcf-56c9-47b1-aeb7-58404e5385a7.png)
  * 3. Postgres connects to the model via psycopg2 SQL Alchemy.
+      
  
- 
-
-![mmg_sql_erd pgerd](https://user-images.githubusercontent.com/59430635/159135849-557fdfcf-56c9-47b1-aeb7-58404e5385a7.png)
 
 ### Machine Learning Model - Neural Network
 ##### How does a Neural Network?
