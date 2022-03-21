@@ -46,19 +46,19 @@ Determine which medical marijuana strains are best suited as treatment for speci
 * Dashboard: Tableau, JavaScript, HTML, Bootstrap, and d3 used to create a fully functioning and interactive dashboard.
 
 ## Project Description
- #### Data Cleaning and Exploration
- * Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used Excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data. 
+#### Data Cleaning and Exploration
+* Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used Excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data. 
  
- * The data was then cleaned again in Pythons/Pandas the purpouse of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the tranformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the orginal empty cells in the data set. 
+* The data was then cleaned again in Pythons/Pandas the purpouse of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the tranformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the orginal empty cells in the data set. 
  
   ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
  
- * We also created 5 new calculated fields/columns and added them to the dataset in Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
+* We also created 5 new calculated fields/columns and added them to the dataset in Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
   
 ### Database Integration
- * Our database is hosted in PostgresSQL, to store the static data for our analysis.
+* Our database is hosted in PostgresSQL, to store the static data for our analysis.
     - Reading and writing operations are fast for PostgresSQL databases.
- * We have four tables in the database which can be seen in ERD below
+* We have four tables in the database which can be seen in ERD below
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
 
@@ -98,8 +98,11 @@ Deep neural network models also are commonly referred to as deep learning models
 * Created 5 new calculated fields/columns added to dataset n Python/Pandas 
 * Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
 * Data imported into model from PostgreSQL preprocessed using Pandas (unique, value_counts, binning, get_dummies) and SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split data into Dependent Target and Independent Feature variables
+ 
+#### Feature Engineering, Selection, and Training/Testing Split
 * Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
-* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which * The features and target sets were split into training and testing sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model. 
+* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) and the remaining features independent variables (X) which were directly related to a specific strain profile.
+* The features and target sets were split into stamdard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
 
 #### Analysis
 We tested several different machine learning models when analyzing the data o predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results[add screenhsots]: 
