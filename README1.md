@@ -5,15 +5,20 @@
 Medical Marijuana "Picking The Right Strain"
 
 #### Reason for choosing this Topic:
-In the years since the legalization of medicinal cannabis , thier has been an uptick in the minds of patients opting out from Doctor prescribe mediciton to different strains of cannabis to treat their aliments. As many patients have never had a prior history with consuming cannabis.Many who are trying for the first time , should know what strains is best fit for themselves and the effects that a certain type of strain has to their aliments.
+
+Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jeffereson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economey and with recently passed legislation marijuana is once again becoming a part of the US economey. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
+
+There is one issue however, since marijuana has been illegal for so long many patients have no first hand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treament. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
 
 ### Questions we hope to answer:
-  1. Can we create a Neural Network that can identify patterns in Strains?
-  2. Can we match Aliments correctly to Effects?
+  1. Can a Neural Network be created that can identify patterns in strains?
+  2. Can we correctly match a patients ailments to the effects of certain strains?
 
-#### Null Hypothesis: Do Sativa ,Indicia and Hybird indivdual strains lineup with certain Effects that are bested suited for the treamtent of specific aliments.
+#### Null Hypothesis: Do Sativa ,Indicia and Hybird strains share a correlation with certain effects that are best suited for the treamtent of patient aliments.
 
-#### Alternate Hypothesis: There is no relationship between individual strains and their effects.
+    Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the sativa category treat stress, and depression. Will strains that fall under the indica category treat ailments like nausea and lack of sleep?
+
+#### Alternate Hypothesis: There is no relationship between strains and their effects.
 Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects.By creating a neutral network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from deppression, stress, pain, inflammation ,etc.. We believe that creating a netural network in which our machine can learn 
 
 ### Team
@@ -60,17 +65,17 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
   *Connecting to PostgresSQL Database, then creating a function to take in the query and outputs a pandas dataframe by using the create_pandas_df function.
 Then store the data as a variable in our case we used Kushy_washingto_cleaned_df, then closed the cursor connection so we can save bandwidth.Dropping non-beneficial identification columns in the dataframe.
   
-
+## Machine learning model
+  We used a radom forest classifier 
 
 ## Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
 * Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons 
 * Emergency contact information (email/mobile) provided by each team member
 * Emergency contact Jemi Shieh 24/7 by Slack/email/text/call as needed
-
-
+* Periodic zoom calls for short group review sessions
 
 
 
 ### Dashboard (0 points)
-There are no deliverables associated with the dashboard for this segment.
+We used tableu 
