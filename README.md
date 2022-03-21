@@ -1,6 +1,5 @@
 # Medical Marijuana Group Final Project
 
-
 ### Selected Topic
 Medical Marijuana Strain Selection Analysis
 
@@ -9,26 +8,25 @@ Medical Marijuana Strain Selection Analysis
 Link to presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit#slide=id.g11d87207918_1_21
 
 #### Reason for Choosing Topic:
+Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jefferson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economy and with recently passed legislation marijuana is once again becoming a part of the US economy. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
 
-Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jeffereson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economey and with recently passed legislation marijuana is once again becoming a part of the US economey. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
-
-There is one issue however, since marijuana has been illegal for so long many patients have no first hand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treament. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
+There is one issue however, since marijuana has been illegal for so long many patients have no firsthand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treatment. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
 
 ### Questions We Hope to Answer:
   1. Can a Neural Network be created that can identify patterns in strains?
-  2. Can a Neural Network correctly match a patients ailments to the effects of certain strains?
+  2. Can a Neural Network correctly match patients' ailments to the effects of certain strains?
 
 ### Hypothesis
 
 #### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
-Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression. Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
+Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression? Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
 
 #### Alternate Hypothesis: There is no relationship between strains and their effects.
 Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects by creating a neural network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from depression, stress, pain, and inflammation, among others.
 
 ### Team Role Distribution
 * Triangle -Machine Learning Model - David Bastien
-* Square - GitHub Respository - Paul Erlic
+* Square - GitHub Repository - Paul Erlic
 * X - Technology Architect - Ashley Mayes
 * Circle - Database Integration - Jemi Shieh
 
@@ -38,7 +36,7 @@ Determine which medical marijuana strains are best suited as treatment for speci
 * Harvard Dataverse Replication data: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
 * Cannabis US legalization map data: https://data.world/sya/marijuana-laws-by-state
 
-### Technolgy Used:
+### Technologies Used
 * Data Analysis: Excel, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
 * Database Storage: PostgreSQL is the storage database and psycopg2 (import model data from database) and SQLAlchemy (export data cleaning/model output to database) used to interface and connect the model with the database in Python.
 * Machine Learning: TensorFLow, KerasTuner, and SciKitLearn machine learning libraries used to create a Deep Learning Neural Network using Python in Jupyter Notebook.
@@ -46,9 +44,9 @@ Determine which medical marijuana strains are best suited as treatment for speci
 
 ## Project Description
 #### Data Cleaning and Exploration
-* Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used Excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data. 
+* Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used Excel to get a preliminary feel for the data in order to better understand what if any underlying patterns existed in the data. 
  
-* The data was then cleaned again in Pythons/Pandas the purpouse of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the tranformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the orginal empty cells in the data set. 
+* The data was then cleaned again in Pythons/Pandas the purpose of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the transformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the original empty cells in the dataset. 
  
   ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
  
@@ -78,7 +76,7 @@ Deep neural network models also are commonly referred to as deep learning models
 * Requires larger data volumes than other models
 * High computational power and cost to train due to complex data models running on multiple expensive GPUs and machines
 * Highly complex and esoteric given no standard theory
-* DIfficult to comprehend results given black box nature 
+* Difficult to comprehend and interpret results given black box nature 
 
 #### Benefits of the Deep Learning Neural Network:
 * Ability to learn independently in real-time
@@ -91,7 +89,7 @@ Deep neural network models also are commonly referred to as deep learning models
 * Produces output regardless of fault/error detection with model/data
 * Ideal for multiclass classification with large number of inputs/outputs
 
-#### Preprocesssing the Data
+#### Preprocessing the Data
 * Kushy and Washington datasets indexed by primary key, parsed text into columns, reduced unnecessary columns and rows using Excel
 * Datasets uploaded into PostgreSQL tables, joined/merged and exported as CSV
 * ETL cleaning performed in Python/Pandas to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
@@ -101,17 +99,23 @@ Deep neural network models also are commonly referred to as deep learning models
  
 #### Feature Engineering, Selection, and Training/Testing Split
 * Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
-* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output clases and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
+* Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output classes and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
 * The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
 
 #### Analysis
-We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9)[add screenhsots]: 
+We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9)[add screenshots]: 
 *  K-means clustering - 66.76%
 *  K-means clustering with Principal Component Analysis - 51.47%
 *  Random Forest Classifier - 67.96%
 *  Simple Neural Network - 75.69%
 *  Deep Learning Neural Network - 77.34%
 *  Deep Learning Neural Network with KerasTuner optimization - 79-80%
+
+#### Results
+* The Deep Learning Neural Network was 77.34% accurate with KerasTuner optimization leading to accuracy as high as 79-80%.
+* The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
+* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9), although a simple neural network entailing less computational cost and resources was 75.69% accurate.
+* The model is built and trained to reproduce similarly accurate results each time it is run.
 
 ### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
@@ -129,7 +133,7 @@ https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V
 
 #### Description of interactive elements
 * All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
-* Map and Strain Selector also include interactive search filters, we included a map of states in the United States: 
+* Map and Strain Selector also include interactive search filters. We included a map of states in the United States: 
 * 
 ![Map](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/Laup/Imgs/US_legal_map.PNG)
 
