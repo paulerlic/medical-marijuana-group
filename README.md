@@ -8,13 +8,13 @@ Medical Marijuana Strain Selection Analysis
 
 Link to presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit#slide=id.g11d87207918_1_21
 
-#### Reason for choosing this Topic:
+#### Reason for Choosing This Topic:
 
 Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jeffereson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economey and with recently passed legislation marijuana is once again becoming a part of the US economey. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
 
 There is one issue however, since marijuana has been illegal for so long many patients have no first hand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treament. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
 
-### Questions we hope to answer:
+### Questions We Hope to Answer:
   1. Can a Neural Network be created that can identify patterns in strains?
   2. Can we correctly match a patients ailments to the effects of certain strains?
 
@@ -65,7 +65,7 @@ Determine which medical marijuana strains are best suited as treatment for speci
 * Postgres connects to the model via psycopg2 and SQLAlchemy.
       
 ### Machine Learning Model 
-Deep Learning Neural Network
+#### Deep Learning Neural Network
 
 Neural networks are a set of algorithms modeled after the human brain. They are an advanced form of machine learning that recognizes patterns and features in input data and provides a clear quantitative output. In its simplest form, a neural network contains layers of neurons, which perform individual computations. These computations are connected and weighed against one another until the neurons reach the final layer, which returns a numerical result, or an encoded categorical result.
 
@@ -75,21 +75,13 @@ Deep neural network models also are commonly referred to as deep learning models
 
 ![deep_nn.png](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/deep_nn.png)
 
-We tested several different machine learning models when analyzing the data they are listed below. 
-*  K-means clustering - 66.76%
-*  K-means clustering with Principal Component Analysis - 51.47%
-*  Random Forest Classifier - 67.96%
-*  Simple Neural Network - 75.69%
-*  Deep Learning Neural Network - 77.34%
-*  Deep Learning Neural Network with KerasTuner optimization - 79-80%
-  
-Limitations of the Deep Learning Neural Network:
+#### Limitations of the Deep Learning Neural Network:
 * Requires larger data volumes than other models
 * High computational power and cost to train due to complex data models running on multiple expensive GPUs and machines
 * Highly complex and esoteric given no standard theory
 * DIfficult to comprehend results given black box nature 
 
-Benefits of the Deep Learning Neural Network:
+#### Benefits of the Deep Learning Neural Network:
 * Ability to learn independently in real-time
 * The neural network is flexible and can be applied to multiple data types and current and future applications
 * Features automatically deduced/optimally tuned for desired result so outputs not limited to provided inputs
@@ -98,6 +90,23 @@ Benefits of the Deep Learning Neural Network:
 * Allows for multiple parallel computations using GPUs scalable for large data volumes
 * Larger data volumes actually result in enhanced performance   
 * Produces output regardless of fault/error detection with model/data
+
+#### Preprocesssing the Data
+* Kushy and Washington datasets indexed by primary key, parsed text into columns, reduced unnecessary columns and rows using Excel
+* Datasets uploaded into PostgreSQL tables, joined/merged and exported as CSV
+* ETL cleaning performed in Python/Pandas to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
+* Created 5 new calculated fields/columns added to dataset n Python/Pandas 
+* Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
+* Data imported into model from PostgreSQL preprocessed using Pandas (unique, value_counts, binning, get_dummies) and SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split data into Dependent Target and Independent Feature variables
+
+#### Analysis
+We tested several different machine learning models when analyzing the data they are listed below [add screenhsots]. 
+*  K-means clustering - 66.76%
+*  K-means clustering with Principal Component Analysis - 51.47%
+*  Random Forest Classifier - 67.96%
+*  Simple Neural Network - 75.69%
+*  Deep Learning Neural Network - 77.34%
+*  Deep Learning Neural Network with KerasTuner optimization - 79-80%
 
 ### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
