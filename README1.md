@@ -68,17 +68,17 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
 - Connected to PostgresSQL Database, then created a function to take in the query and outputs of a pandas dataframe by using the create_pandas_df function. Stored the data as a variable in our case we used Kushy_washingto_cleaned_df, then closed the cursor connection so we can save bandwidth.Dropping non-beneficial identification columns in the dataframe.
 
 We tested several different machine learning models when analyzing the data they are listed below. 
-* 1 K-means clustering - 66.76%
+*  K-means clustering - 66.76%
 
-* 2 K-means clustering with Principal Component Analysis - 51.47%
+*  K-means clustering with Principal Component Analysis - 51.47%
 
-* 3 Random Forest Classifier - 67.96%
+*  Random Forest Classifier - 67.96%
 
-* 4 Simple Neural Network - 75.69%
+*  Simple Neural Network - 75.69%
 
-* 5 Deep Learning Neural Network - 77.34%
+*  Deep Learning Neural Network - 77.34%
 
-* 6 Deep Learning Neural Network with KerasTuner optimization - 79-80%
+*  Deep Learning Neural Network with KerasTuner optimization - 79-80%
 
 
   
