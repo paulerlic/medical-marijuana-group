@@ -34,7 +34,6 @@ Kushy Cannabis Data: https://github.com/kushyapp/cannabis-dataset/blob/master/Da
 Washington Cannabis data: https://www.nature.com/articles/s41598-018-22755-2
 Harvard Dataverse Replication data: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
 Cannabis Legalization map: https://data.world/sya/marijuana-laws-by-state
-
 ### Technolgy Used:
 
 Software: Jupyter NoteBook, Python 3.7.6,Javascript,PostgresSql,Google Colab, Google Slides, Tableau.
@@ -42,19 +41,25 @@ Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hv
 
 ## Project Description
  #### Data Cleaning and Exploration
- The Initial step is to clean the data by removing null values.
-- Our data was downloaded from Github/Kushy Profile and Nature.com.
-- First indexing/parsing/dropping unnecessary rows/columns.Then we merging/joining the two datasets(Kushy and Washington) in PostgresSQL.
-- Then created the null values heat map to show/confirm the work.
-- Replaced categorical object null values (text in ailments/effects/flavor) with None.
-- Replaced continuous numerical data null values (chemotype testing measurements) with 0s.
-![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
+ * 1. Our first step in the ETL workflow was to purge the data of all null values, and to remove any columns or rows that were not pertinent to our projects goals this process was done in excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used excel to get a prelimanary feel for the data in order to better understand what if any underlying patterns existed in the data.  
  
- #### Database Integration 
- We used pandas and PostgresSQL to put the csv files that we started with, and merged tables that we created into a PostgresSQL database.Once we merge the database we created our ERD.Our database is then able to interact with our machnie learning model, which allows us to make predictions and analyze our results. We choose to  use PostgresSQL because it has several characteristics that we were looking for.
  
- - Reading and writing operations are fast for PostgresSQL databases.
-- SQLite is very easy to learn, additionally there is no added installation and configuration.
+ * 2. The data was then cleaned again in Pythons/Pandas the purpouse of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemo type variables, rather than drop them from the analysis we transformed them to a zero. Neither of the tranformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the orginal empty cells in the data set. 
+ 
+  ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
+ 
+ * 3. We also created 5 new calculated fields/columns and added them to the dataset n Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
+
+ 
+ 
+ #### Database Creation and Description
+ * 1. Our data base was hosted in PostgresSQL, to store the static data for our analysis.
+      - Reading and writing operations are fast for PostgresSQL databases.
+      - SQLite is very easy to learn, additionally there is no added installation and configuration.
+ * 2. We have four tables in the database which can be seen in ERD below
+ * 3. Postgres connects to the model via psycopg2 SQL Alchemy.
+ 
+ 
 
 ![mmg_sql_erd pgerd](https://user-images.githubusercontent.com/59430635/159135849-557fdfcf-56c9-47b1-aeb7-58404e5385a7.png)
 
