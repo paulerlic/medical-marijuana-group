@@ -101,6 +101,9 @@ We tested several different machine learning models when analyzing the data they
 #### Description of interactive elements
 * All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
 * Map and Strain Selector also include interactive search filters, we included a map of states in the united states. 
+![Map](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/Laup/Imgs/US_legal_map.PNG)
+
 * Web app includes interactive search filter.
-* 
+![Webapp](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/mmg-s1-js-database/Images/Screenshot%20(89).png
+* Bubble Chart exploring chemotype and THC to CBD ratio.
 <div class='tableauPlaceholder' id='viz1647836665224' style='position: relative'><noscript><a href='#'><img alt='CHEMOTYPE_CBD_THC-RATIO_BUBBLESBubble Size = Chemo Type 1-3THC to CBD Ratio = Color ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
