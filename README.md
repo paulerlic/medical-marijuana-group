@@ -106,7 +106,7 @@ Deep neural network models also are commonly referred to as deep learning models
 We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9)[add screenshots]: 
 *  K-means clustering - 66.76%
 *  K-means clustering with Principal Component Analysis - 51.47%
-*  Random Forest Classifier - 67.96%
+*  Random Forest Multiclass Classifier - 67.96%
 *  Simple Neural Network - 75.69%
 *  Deep Learning Neural Network - 77.34%
 *  Deep Learning Neural Network with KerasTuner optimization - 79-80%
