@@ -135,7 +135,7 @@ https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V
 * All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
 * Map and Strain Selector also include interactive search filters. We included an interactive United States legalization map: 
 
-![Map](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/Laup/Imgs/US_legal_map.PNG)
+![Map](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(108).png)
 
 * Strain Selector includes interactive search filter:
 
