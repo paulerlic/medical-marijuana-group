@@ -55,7 +55,7 @@ Determine which medical marijuana strains are best suited as treatment for speci
 ### Database Integration
 * Our database is hosted in PostgresSQL, to store the static data for our analysis.
     - Reading and writing operations are fast for PostgresSQL databases.
-* We have four tables in the database which can be seen in ERD below
+* We have four tables in the database which can be seen in ERD below.
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
 
@@ -128,7 +128,7 @@ We tested several different machine learning models when analyzing the data to p
 * Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons
 * Emergency contact information (email/mobile) provided by each team member
 * Emergency contact Jemi Shieh 24/7 by Slack/email/text/call as needed
-* Periodic zoom calls for short group review sessions
+* Periodic Zoom calls for short group review sessions
 
 ### Dashboard Blueprint
 
