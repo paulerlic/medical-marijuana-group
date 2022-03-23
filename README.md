@@ -116,7 +116,6 @@ We tested several different machine learning models when analyzing the data to p
 * Deep Learning Neural Network - 80.66% accuracy, 0.9598 loss
 * Deep Learning Neural Network with KerasTuner optimization - 81.21% accuracy, .8656 loss
 
-
 #### Results
 * The Deep Learning Neural Network was 80.66% accurate with KerasTuner optimization leading to accuracy of 81.21%.
 * The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
