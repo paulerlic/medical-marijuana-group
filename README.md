@@ -5,7 +5,7 @@ Medical Marijuana Strain Selection Analysis
 
 ![slides](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/main/Images/Slides.gif)
 
-Link to presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit#slide=id.g11d87207918_1_21
+Link to Presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit#slide=id.g11d87207918_1_21
 
 #### Reason for Choosing Topic:
 Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jefferson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economy and with recently passed legislation marijuana is once again becoming a part of the US economy. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
@@ -70,7 +70,12 @@ A neural network with more than one hidden layer is known as a deep neural netwo
 
 Deep neural network models also are commonly referred to as deep learning models due to their ability to learn from example data, regardless of the complexity or data input type. Just like humans, deep learning models can identify patterns, determine severity, and adapt to changing input data from a wide variety of data sources. Compared to basic neural network models, which require a large number of neurons to identify nonlinear characteristics, deep learning models only need a few neurons across a few hidden layers to identify the same nonlinear characteristics.
 
+Source: https://courses.bootcampspot.com/courses/949/pages/19-dot-1-1-what-is-a-neural-network?module_item_id=342279 <br />
+Source: https://courses.bootcampspot.com/courses/949/pages/19-dot-4-1-unleash-the-hidden-potential-of-neural-networks?module_item_id=342386
+
 ![deep_nn.png](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/deep_nn.png)
+
+Source: University of Cincinnati https://healthitanalytics.com/features/what-is-deep-learning-and-how-will-it-change-healthcare
 
 #### Limitations of the Deep Learning Neural Network:
 * Requires larger data volumes than other models
@@ -147,9 +152,8 @@ https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V
 * Bubble Chart exploring chemotype and THC to CBD ratio:
 
 <div class='tableauPlaceholder' id='viz1647994606036' style='position: relative'><noscript><a href='#'><img alt='CHEMOTYPE_CBD_THC-RATIO_BUBBLESBubble Size = Chemo Type 1-3THC to CBD Ratio = Color ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
+
 #### Dashboard Reference Links
-https://public.tableau.com/app/profile/paul4991/viz/MMGP/CHEMOTYPE_CBD_THC-RATIO_BUBBLES?publish=yes
-
-https://public.tableau.com/app/profile/david8025/viz/Medicialstrains/Story1
-
+https://public.tableau.com/app/profile/paul4991/viz/MMGP/CHEMOTYPE_CBD_THC-RATIO_BUBBLES?publish=yes <br />
+https://public.tableau.com/app/profile/david8025/viz/Medicialstrains/Story1 <br />
 https://public.tableau.com/app/profile/jemi.shieh/viz/MMG_Strain_Selector_Filter/StrainSelectorFilterDB?publish=yes
