@@ -108,18 +108,19 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
 
 #### Analysis
-We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9)[add screenshots]: 
-*  K-means clustering - 66.76%
-*  K-means clustering with Principal Component Analysis - 51.47%
-*  Random Forest Multiclass Classifier - 67.96%
-*  Simple Neural Network - 75.69%
-*  Deep Learning Neural Network - 77.34%
-*  Deep Learning Neural Network with KerasTuner optimization - 79-80%
+We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9)[add screenshots]: 
+* K-means clustering - 66.76% accuracy
+* K-means clustering with Principal Component Analysis - 51.47% accuracy
+* Random Forest Multiclass Classifier - 67.96% accuracy
+* Simple Neural Network - 77.90% accuracy, 1.0286 loss
+* Deep Learning Neural Network - 80.66% accuracy, 0.9598 loss
+* Deep Learning Neural Network with KerasTuner optimization - 81.21% accuracy, .8656 loss
+
 
 #### Results
-* The Deep Learning Neural Network was 77.34% accurate with KerasTuner optimization leading to accuracy as high as 79-80%.
+* The Deep Learning Neural Network was 80.66% accurate with KerasTuner optimization leading to accuracy of 81.21%.
 * The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
-* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (316) and output variables (9), although a simple neural network entailing less computational cost and resources was 75.69% accurate.
+* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9), although a simple neural network entailing less computational cost and resources was 77.90% accurate.
 * The model is built and trained to reproduce similarly accurate results each time it is run.
 
 ### Communication Protocols
