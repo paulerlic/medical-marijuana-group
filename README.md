@@ -77,13 +77,13 @@ Source: https://courses.bootcampspot.com/courses/949/pages/19-dot-4-1-unleash-th
 
 Source: University of Cincinnati https://healthitanalytics.com/features/what-is-deep-learning-and-how-will-it-change-healthcare
 
-#### Limitations of the Deep Learning Neural Network:
+#### Limitations of the Deep Learning Neural Network
 * Requires larger data volumes than other models
 * High computational power and cost to train due to complex data models running on multiple expensive GPUs and machines
 * Highly complex and esoteric given no standard theory
 * Difficult to comprehend and interpret results given black box nature 
 
-#### Benefits of the Deep Learning Neural Network:
+#### Benefits of the Deep Learning Neural Network
 * Ability to learn independently in real-time
 * The neural network is flexible and can be applied to multiple data types and current and future applications
 * Features automatically deduced/optimally tuned for desired result so outputs not limited to provided inputs
