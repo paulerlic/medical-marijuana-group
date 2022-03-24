@@ -31,35 +31,42 @@ Determine which medical marijuana strains are best suited as treatment for speci
 * Circle - Database Integration - Jemi Shieh
 
 ### Resources
-* Kushy cannabis dataset: https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
-* Washington cannabis dataset: https://www.nature.com/articles/s41598-018-22755-2
-* Harvard Dataverse Replication data: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
-* Cannabis US legalization map data: https://data.world/sya/marijuana-laws-by-state
+* The Kushy cannabis dataset is a collection of tabular data from different sectors of the industry, from strains to products to lab results:<br />
+https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
+* The Washington cannabis dataset contains over 215,000 laboratory measurements, performed at six different labs, of retail cannabis products from Washington State, originally published on March 14, 2018 in Nature. Harvard Replication Data: <br />
+https://www.nature.com/articles/s41598-018-22755-2 <br />
+https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
+* The US state medical marijuana laws dataset: <br /> 
+https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
+
 
 ### Technologies Used
-* Data Analysis: Excel, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
+* Data Analysis: Excel, Python, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
 * Database Storage: PostgreSQL is the storage database and psycopg2 (import model data from database) and SQLAlchemy (export data cleaning/model output to database) used to interface and connect the model with the database in Python.
 * Machine Learning: TensorFLow, KerasTuner, and SciKitLearn machine learning libraries used to create a Deep Learning Neural Network using Python in Jupyter Notebook.
 * Dashboard: Tableau, JavaScript, HTML, Bootstrap, and d3 used to create a fully functioning and interactive dashboard.
 
 ## Project Description
-#### Data Cleaning and Exploration
+#### Data Exploration and Cleaning 
 * Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a csv for simpler handling. We also used Excel to get a preliminary feel for the data in order to better understand what if any underlying patterns existed in the data. 
  
 * The data was then cleaned again in Pythons/Pandas the purpose of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the transformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the original empty cells in the dataset. 
  
-  ![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
+![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
  
-* We also created 5 new calculated fields/columns and added them to the dataset in Python/Pandas, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set. 
+* We also created 5 new calculated fields/columns and added them to the dataset using Pandas in Python, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set.
+* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
+
+![Screenshot 109](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(109).png)
   
 ### Database Integration
 * Our database is hosted in PostgresSQL, to store the static data for our analysis.
-    - Reading and writing operations are fast for PostgresSQL databases.
+  - Reading and writing operations are fast for PostgresSQL databases.
 * We have four tables in the database which can be seen in ERD below.
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
 
-* Postgres connects to the model via psycopg2 and SQLAlchemy.
+* PostgreSQL connects to the model via psycopg2 to import data and SQLAlchemy to export data.
       
 ### Machine Learning Model 
 #### Deep Learning Neural Network
@@ -82,10 +89,11 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * High computational power and cost to train due to complex data models running on multiple expensive GPUs and machines
 * Highly complex and esoteric given no standard theory
 * Difficult to comprehend and interpret results given black box nature 
+* Prone to overfitting
 
 #### Benefits of the Deep Learning Neural Network
 * Ability to learn independently in real-time
-* The neural network is flexible and can be applied to multiple data types and current and future applications
+* Flexible and can be applied to multiple data types and current and future applications
 * Features automatically deduced/optimally tuned for desired result so outputs not limited to provided inputs
 * Features not required to be extracted in advance
 * Data stored in neural network itself rather than a database 
@@ -93,22 +101,26 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * Larger data volumes actually result in enhanced performance   
 * Produces output regardless of fault/error detection with model/data
 * Ideal for multiclass classification with large number of inputs/outputs
+* Effective at detecting complex, nonlinear relationships
+* Greater tolerance for messy data and can learn to ignore noisy characteristics in data
 
 #### Preprocessing the Data
 * Kushy and Washington datasets indexed by primary key, parsed text into columns, reduced unnecessary columns and rows using Excel
 * Datasets uploaded into PostgreSQL tables, joined/merged and exported as CSV
-* ETL cleaning performed in Python/Pandas to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
-* Created 5 new calculated fields/columns added to dataset n Python/Pandas 
+* ETL cleaning performed using Pandas in Python to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
+* Created 5 new calculated fields/columns added to dataset using Pandas in Python 
+* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
 * Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
-* Data imported into model from PostgreSQL preprocessed using Pandas (unique, value_counts, binning, get_dummies) and SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split data into Dependent Target and Independent Feature variables
+* Data imported into model from PostgreSQL using psycopg2 and preprocessed in Python using Pandas (shape, dtypes, info, describe, duplicates, unique, value_counts, binning, categorical, get_dummies), SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split into Dependent Target and Independent Feature variables
  
 #### Feature Engineering, Selection, and Training/Testing Split
 * Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
 * Preliminary feature selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output classes and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
 * The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
+* The model has been trained/tested using a 75%/25% split of the data over 100 epochs.
 
 #### Analysis
-We tested several different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9)[add screenshots]: 
+We built and tested six different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9)[add screenshots]: 
 * K-means clustering - 66.76% accuracy
 * K-means clustering with Principal Component Analysis - 51.47% accuracy
 * Random Forest Multiclass Classifier - 67.96% accuracy
@@ -121,6 +133,11 @@ We tested several different machine learning models when analyzing the data to p
 * The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
 * We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9), although a simple neural network entailing less computational cost and resources was 77.90% accurate.
 * The model is built and trained to reproduce similarly accurate results each time it is run.
+
+![Screenshot 121](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(121).png)
+  
+![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
+  
 
 ### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
