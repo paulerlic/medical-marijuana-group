@@ -178,4 +178,4 @@ https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V
 #### Dashboard Reference Links
 https://public.tableau.com/app/profile/paul4991/viz/MMGP/CHEMOTYPE_CBD_THC-RATIO_BUBBLES?publish=yes <br />
 https://public.tableau.com/app/profile/david8025/viz/Medicialstrains/Story1 <br />
-https://public.tableau.com/app/profile/jemi.shieh/viz/MMG_Strain_Selector_Filter/StrainSelectorFilterDB?publish=yes
+https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
