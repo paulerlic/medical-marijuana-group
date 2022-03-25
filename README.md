@@ -62,7 +62,7 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 * We also created 5 new calculated fields/columns and added them to the dataset using Pandas in Python, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set.
 * Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
 
-![Screenshot 109](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(123).png)
+![Screenshot 123](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(123).png)
   
 ### Database Integration
 * Our database is hosted in PostgresSQL, to store the static data for our analysis.
