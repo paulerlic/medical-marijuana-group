@@ -3,7 +3,7 @@
 ### Selected Topic
 Medical Marijuana Strain Selection Analysis
 
-![Medical_Marijuana_Group_Final_Project](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Medical_Marijuana_Group_Final_Project.gif)
+
 
 Link to Presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
 
@@ -44,7 +44,7 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 * Data Analysis: Excel, Python, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
 * Database Storage: PostgreSQL is the storage database and psycopg2 (import model data from database) and SQLAlchemy (export data cleaning/model output to database) used to interface and connect the model with the database in Python.
 * Machine Learning: TensorFLow, KerasTuner, and SciKitLearn machine learning libraries used to create a Deep Learning Neural Network using Python in Jupyter Notebook.
-* Dashboard: Tableau, JavaScript, HTML, Bootstrap, and d3 used to create a fully functioning and interactive dashboard.
+* Dashboard: Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP and GitHub Pages used to create a fully functioning and interactive dashboard and webpages.
 
 ## Project Description
 #### Data Exploration and Cleaning 
@@ -155,7 +155,7 @@ We built and tested six different machine learning models when analyzing the dat
 https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_143
 
 #### Tools Used to Create Final Dashboard
-* Tableau, JavaScript, HTML, Bootstrap, d3
+* Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP, GitHub Pages
 
 #### Description of Interactive Elements
 * All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
