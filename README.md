@@ -3,7 +3,6 @@
 ### Selected Topic
 Medical Marijuana Strain Selection Analysis
 
-![Medical_Marijuana_Group_Final_Project](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Medical_Marijuana_Group_Final_Project.gif)
 
 Link to Presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
 
