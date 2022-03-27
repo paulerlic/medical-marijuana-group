@@ -74,7 +74,7 @@ function updateFilters() {
   // Build the table when the page loads
   buildTable(tableData);
 
-// Create function for Clear Filter Search button
-function clearFilterSearch() {
+// Create function for Clear Search Filter button
+function clearSearchFilter() {
   delete filters[filterId];
   }
