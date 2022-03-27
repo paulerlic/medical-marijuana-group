@@ -1,81 +1,180 @@
 # Medical Marijuana Group Final Project
 
-![download](https://user-images.githubusercontent.com/59430635/159196712-e7aa3de9-7247-4aff-82d1-4e2ebc7d5c1c.gif)
-
-
 ### Selected Topic
-Medical Marijuana "Picking The Right Strain"
+Medical Marijuana Strain Selection Analysis
 
-#### Reason for choosing this Topic:
-In the years since the legalization of medicinal cannabis , thier has been an uptick in the minds of patients opting out from Doctor prescribe mediciton to different strains of cannabis to treat their aliments. As many patients have never had a prior history with consuming cannabis.Many who are trying for the first time , should know what strains is best fit for themselves and the effects that a certain type of strain has to their aliments.
+![Medical_Marijuana_Group_Final_Project](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Medical_Marijuana_Group_Final_Project.gif)
 
-### Questions we hope to answer:
-  1. Can we create a Neural Network that can identify patterns in Strains?
-  2. Can we match Aliments correctly to Effects?
+Link to Presentation: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
 
-#### Null Hypothesis: Do Sativa ,Indicia and Hybird indivdual strains lineup with certain Effects that are bested suited for the treamtent of specific aliments.
+#### Dashboard Link
+https://public.tableau.com/app/profile/paul4991/viz/MedicalMarijuanaGroupFinalProjectDashboard_16484129550350/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
 
-#### Alternate Hypothesis: There is no relationship between individual strains and their effects.
-Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects.By creating a neutral network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from deppression, stress, pain, inflammation ,etc.. We believe that creating a netural network in which our machine can learn 
 
-### Team
-###### Square - Jemi Shieh
-###### Circle -Paul Erlic
-###### Triangle -David Bastien
-###### X - Ashley Mayes
+#### Reason for Choosing Topic:
+Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jefferson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economy and with recently passed legislation marijuana is once again becoming a part of the US economy. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
 
+There is one issue however, since marijuana has been illegal for so long many patients have no firsthand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treatment. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
+
+### Questions We Hope to Answer:
+  1. Can a Neural Network be created that can identify patterns in strains?
+  2. Can a Neural Network correctly match patients' ailments to the effects of certain strains?
+
+### Hypothesis
+
+### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
+Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression? Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
+
+### Alternate Hypothesis: There is no relationship between strains and their effects.
+Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects by creating a neural network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from depression, stress, pain, and inflammation, among others.
+
+### Team Role Distribution
+* Triangle - Machine Learning Model - David Bastien
+* Square - GitHub Repository - Paul Erlic
+* X - Technology Architect - Ashley Mayes
+* Circle - Database Integration - Jemi Shieh
 
 ### Resources
+* The Kushy cannabis dataset is a collection of tabular data from different sectors of the industry, from strains to products to lab results:<br />
+https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
+* The Washington cannabis dataset contains over 215,000 laboratory measurements, performed at six different labs, of retail cannabis products from Washington State, originally published on March 14, 2018 in Nature. Harvard Replication Data: <br />
+https://www.nature.com/articles/s41598-018-22755-2 <br />
+https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
+* The US state medical marijuana laws dataset: <br /> 
+https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 
-Kushy Cannabis Data: https://github.com/kushyapp/cannabis-dataset/blob/master/Dataset/Strains/strains-kushy_api.2017-11-14.csv
-Washington Cannabis data: https://www.nature.com/articles/s41598-018-22755-2
-Harvard Dataverse Replication data: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/E8TQSD/XT7UNM&version=2.0
-Cannabis Legalization map: https://data.world/sya/marijuana-laws-by-state
 
-### Technolgy Used:
-
-Software: Jupyter NoteBook, Python 3.7.6,Javascript,PostgresSql,Google Colab, Google Slides, Tableau.
-Libaries: Sklearn, Keras,Utils,Pandas, TensorFlow, Config, Mathplotlib,Plotly Hvplot,Pathlib
+### Technologies Used
+* Data Analysis: Excel, Python, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
+* Database Storage: PostgreSQL is the storage database and psycopg2 (import model data from database) and SQLAlchemy (export data cleaning/model output to database) used to interface and connect the model with the database in Python.
+* Machine Learning: TensorFLow, KerasTuner, and SciKitLearn machine learning libraries used to create a Deep Learning Neural Network using Python in Jupyter Notebook.
+* Dashboard: Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP and GitHub Pages used to create a fully functioning and interactive dashboard and webpages.
 
 ## Project Description
- #### Data Cleaning and Exploration
- The Initial step is to clean the data by removing null values.
-- Our data was downloaded from Github/Kushy Profile and Nature.com.
-- First indexing/parsing/dropping unnecessary rows/columns.Then we merging/joining the two datasets(Kushy and Washington) in PostgresSQL.
-- Then created the null values heat map to show/confirm the work.
-- Replaced categorical object null values (text in ailments/effects/flavor) with None.
-- Replaced continuous numerical data null values (chemotype testing measurements) with 0s.
-![Screen Shot 2022-03-19 at 4 13 39 PM](https://user-images.githubusercontent.com/59430635/159137028-67e93f0d-4add-4f2a-af70-5ab076c6a0d4.png)
+#### Data Exploration and Cleaning 
+* Our first step in the ETL workflow was to index, parse, and remove any columns or rows that were not pertinent to our projects goals this process was done in Excel. After this step we chose to merge the two data sets into one dataset, merging was performed in PostgresSQL and the dataset was exported as a CSV file for simpler handling. We also used Excel to get a preliminary feel for the data in order to better understand what if any underlying patterns existed in the data. 
  
- #### Database Integration 
- We used pandas and PostgresSQL to put the csv files that we started with, and merged tables that we created into a PostgresSQL database.Once we merge the database we created our ERD.Our database is then able to interact with our machnie learning model, which allows us to make predictions and analyze our results. We choose to  use PostgresSQL because it has several characteristics that we were looking for.
+* The data was then cleaned again in Pythons/Pandas the purpose of the extra cleaning step was to replace all categorical object null values with “None” and all continuous numerical null values with “0”. Doing this to the data allowed us more flexibility when analyzing the 'ailments' as some of them were empty in the original data. The same applied to the empty chemotype variables, rather than drop them from the analysis we transformed them to a zero. Neither of the transformations to data will skew the results in any meaningful way because all we were doing was creating place holders for the original empty cells in the dataset. 
+
+![Screen Shot 105](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(105).png)
+
+![Screen Shot 106](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(106).png)
+
+![Screen Shot 107](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(107).png)
  
- - Reading and writing operations are fast for PostgresSQL databases.
-- SQLite is very easy to learn, additionally there is no added installation and configuration.
+* We also created 5 new calculated fields/columns and added them to the dataset using Pandas in Python, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set.
+* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
 
-![mmg_sql_erd pgerd](https://user-images.githubusercontent.com/59430635/159135849-557fdfcf-56c9-47b1-aeb7-58404e5385a7.png)
+![Screenshot 123](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(123).png)
+  
+### Database Integration
+* Our database is hosted in PostgresSQL, to store the static data for our analysis.
+  - Reading and writing operations are fast for PostgresSQL databases.
+* We have four tables in the database which can be seen in ERD below.
+ 
+ ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
 
-### Machine Learning Model - Neural Network
-##### How does a Neural Network?
-  A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.A neural network is a system that learns how to make predictions by following these steps: Taking the input data. Making a prediction. Comparing the prediction to the desired output.
-- Taking the input data:
-  *Connecting to PostgresSQL Database, then creating a function to take in the query and outputs a pandas dataframe by using the create_pandas_df function.
-Then store the data as a variable in our case we used Kushy_washingto_cleaned_df, then closed the cursor connection so we can save bandwidth.Dropping non-beneficial identification columns in the dataframe.Use labelencoder to encode target ailment_1 column and check datatype which than convert vector of integers to one hot encoding using keras function to_categorical
-*Use get_dummies() to encode object columns
-*Split preprocessed data into features and target arrays
-*Split preprocessed data into training and testing datasets
+* PostgreSQL connects to the model via psycopg2 to import data and SQLAlchemy to export data.
+      
+### Machine Learning Model 
+#### Deep Learning Neural Network
+
+Neural networks are a set of algorithms modeled after the human brain. They are an advanced form of machine learning that recognizes patterns and features in input data and provides a clear quantitative output. In its simplest form, a neural network contains layers of neurons, which perform individual computations. These computations are connected and weighed against one another until the neurons reach the final layer, which returns a numerical result, or an encoded categorical result.
+
+A neural network with more than one hidden layer is known as a deep neural network. Deep neural networks function similarly to the basic neural network, with one major exception. The outputs of one hidden layer of neurons (that have been evaluated and transformed using an activation function) become the inputs to additional hidden layers of neurons. As a result, the next layer of neurons can evaluate higher order interactions between weighted variables and identify complex, nonlinear relationships across the entire dataset. These additional layers can observe and weight interactions between clusters of neurons across the entire dataset, which means they can identify and account for more information than any number of neurons in a single hidden layer.
+
+Deep neural network models also are commonly referred to as deep learning models due to their ability to learn from example data, regardless of the complexity or data input type. Just like humans, deep learning models can identify patterns, determine severity, and adapt to changing input data from a wide variety of data sources. Compared to basic neural network models, which require a large number of neurons to identify nonlinear characteristics, deep learning models only need a few neurons across a few hidden layers to identify the same nonlinear characteristics.
+
+Source: https://courses.bootcampspot.com/courses/949/pages/19-dot-1-1-what-is-a-neural-network?module_item_id=342279 <br />
+Source: https://courses.bootcampspot.com/courses/949/pages/19-dot-4-1-unleash-the-hidden-potential-of-neural-networks?module_item_id=342386
+
+![deep_nn.png](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/deep_nn.png)
+
+Source: University of Cincinnati https://healthitanalytics.com/features/what-is-deep-learning-and-how-will-it-change-healthcare
+
+#### Limitations of the Deep Learning Neural Network
+* Requires larger data volumes than other models
+* High computational power and cost to train due to complex data models running on multiple expensive GPUs and machines
+* Highly complex and esoteric given no standard theory
+* Difficult to comprehend and interpret results given black box nature 
+* Prone to overfitting
+
+#### Benefits of the Deep Learning Neural Network
+* Ability to learn independently in real-time
+* Flexible and can be applied to multiple data types and current and future applications
+* Features automatically deduced/optimally tuned for desired result so outputs not limited to provided inputs
+* Features not required to be extracted in advance
+* Data stored in neural network itself rather than a database 
+* Allows for multiple parallel computations using GPUs scalable for large data volumes
+* Larger data volumes actually result in enhanced performance   
+* Produces output regardless of fault/error detection with model/data
+* Ideal for multiclass classification with large number of inputs/outputs
+* Effective at detecting complex, nonlinear relationships
+* Greater tolerance for messy data and can learn to ignore noisy characteristics in data
+
+#### Preprocessing the Data
+* Kushy and Washington datasets indexed by primary key, parsed text into columns, reduced unnecessary columns and rows using Excel
+* Datasets uploaded into PostgreSQL tables, joined/merged and exported as CSV
+* ETL cleaning performed using Pandas in Python to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
+* Created 5 new calculated fields/columns added to dataset using Pandas in Python 
+* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
+* Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
+* Data imported into model from PostgreSQL using psycopg2 and preprocessed in Python using Pandas (shape, dtypes, info, describe, duplicates, unique, value_counts, binning, categorical, get_dummies), SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split into Dependent Target and Independent Feature variables
+ 
+#### Feature Engineering, Selection, and Training/Testing Split
+* Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
+* Preliminary feature reduction/selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output classes and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
+* The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
+* The model has been trained/tested using a 75%/25% split of the data over 100 epochs.
+
+#### Analysis
+We built and tested six different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9)[add screenshots]: 
+* K-means clustering - 66.76% accuracy
+* K-means clustering with Principal Component Analysis - 51.47% accuracy
+* Random Forest Multiclass Classifier - 67.96% accuracy
+* Simple Neural Network - 77.90% accuracy, 1.0286 loss
+* Deep Learning Neural Network - 80.66% accuracy, 0.9598 loss
+* Deep Learning Neural Network with KerasTuner optimization - 81.21% accuracy, .8656 loss
+
+#### Results
+* The Deep Learning Neural Network was 80.66% accurate with KerasTuner optimization leading to accuracy of 81.21%.
+* The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
+* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9), although a simple neural network entailing less computational cost and resources was 77.90% accurate.
+* The model is built and trained to reproduce similarly accurate results each time it is run.
+
+![Screenshot 121](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(121).png)
+  
+![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
   
 
-
-## Communication Protocols
+#### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
-* Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons 
+* Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons
 * Emergency contact information (email/mobile) provided by each team member
 * Emergency contact Jemi Shieh 24/7 by Slack/email/text/call as needed
+* Periodic Zoom calls for short group review sessions
 
+### Dashboard Blueprint
 
+https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_143
 
+#### Tools Used to Create Final Dashboard
+* Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP, GitHub Pages
 
+#### Description of Interactive Elements
+* All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
+* Map and Strain Selector also include interactive search filters. We included an interactive United States legalization map: 
 
-### Dashboard (0 points)
-There are no deliverables associated with the dashboard for this segment.
+![Map](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(108).png)
+
+* Strain Selector includes interactive search filter:
+
+![strain_selector](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(103).png)
+
+* Web app Strain Selector includes interactive search filter:
+
+![Webapp](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/mmg-s1-js-database/Images/Screenshot%20(89).png)
+* Bubble Chart exploring chemotype and THC to CBD ratio:
+
+<div class='tableauPlaceholder' id='viz1647994606036' style='position: relative'><noscript><a href='#'><img alt='CHEMOTYPE_CBD_THC-RATIO_BUBBLESBubble Size = Chemo Type 1-3THC to CBD Ratio = Color ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
+
