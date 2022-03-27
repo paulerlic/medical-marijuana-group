@@ -22,10 +22,10 @@ There is one issue however, since marijuana has been illegal for so long many pa
 
 ### Hypothesis
 
-#### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
+### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
 Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression? Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
 
-#### Alternate Hypothesis: There is no relationship between strains and their effects.
+### Alternate Hypothesis: There is no relationship between strains and their effects.
 Determine which medical marijuana strains are best suited as treatment for specific ailments by analyzing their chemical composition and characteristics such as flavor and effects by creating a neural network that allows us to recognize similar characterizes in strains of cannabis that would best work to help relieve a whole array of symptoms ranging from depression, stress, pain, and inflammation, among others.
 
 ### Team Role Distribution
@@ -147,7 +147,7 @@ We built and tested six different machine learning models when analyzing the dat
 ![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
   
 
-### Communication Protocols
+#### Communication Protocols
 * Create direct messages for only team members in dedicated medical-marijuana-group Slack channel
 * Weekly meetings Tuesday/Thursday during class and Friday/Sunday afternoons
 * Emergency contact information (email/mobile) provided by each team member
