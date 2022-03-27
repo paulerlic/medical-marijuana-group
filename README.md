@@ -174,7 +174,5 @@ https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V
 
 <div class='tableauPlaceholder' id='viz1647994606036' style='position: relative'><noscript><a href='#'><img alt='CHEMOTYPE_CBD_THC-RATIO_BUBBLESBubble Size = Chemo Type 1-3THC to CBD Ratio = Color ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
 
-#### Dashboard Reference Links
-https://public.tableau.com/app/profile/paul4991/viz/MMGP/CHEMOTYPE_CBD_THC-RATIO_BUBBLES?publish=yes <br />
-https://public.tableau.com/app/profile/david8025/viz/Medicialstrains/Story1 <br />
-https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
+#### Dashboard Link
+https://public.tableau.com/app/profile/paul4991/viz/MedicalMarijuanaGroupFinalProjectDashboard_16484129550350/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
