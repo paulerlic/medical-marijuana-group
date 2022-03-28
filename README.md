@@ -1,4 +1,4 @@
-## Medical Marijuana Group Final Project
+# Medical Marijuana Group Final Project
 
 ### Selected Topic
 Medical Marijuana Strain Selection Analysis
