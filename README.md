@@ -172,7 +172,7 @@ https://mmg-strain-selector.herokuapp.com/
 ![Screenshot (126)](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(126).png)
 
 #### Tools Used to Create Final Dashboard
-* Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP, GitHub Pages
+* Tableau, JavaScript, Tableau JavaScript API, HTML, Bootstrap, d3, Heroku, PHP, GitHub Pages
 
 #### Description of Interactive Elements
 * All Tableau visualizations include interactive legend filters to sort the data and explore different patterns we found in the medical marijuana data.
