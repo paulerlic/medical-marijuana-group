@@ -12,8 +12,10 @@ https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZ
 https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
 
 #### Webpage Links
+Dashboard:
 https://mmg-tableau-dashboard.herokuapp.com/
 
+Strain Selector:
 https://mmg-strain-selector.herokuapp.com/
 
 ### Reason for Selecting Topic:
