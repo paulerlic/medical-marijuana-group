@@ -9,7 +9,11 @@ Medical Marijuana Strain Selection Analysis
 https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
 
 #### Dashboard Link
-https://public.tableau.com/app/profile/paul4991/viz/MedicalMarijuanaGroupFinalProjectDashboard_16484129550350/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
+https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
+
+#### Webpage Links
+https://mmg-tableau-dashboard.herokuapp.com/
+https://mmg-strain-selector.herokuapp.com/
 
 ### Reason for Selecting Topic:
 Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jefferson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economy and with recently passed legislation marijuana is once again becoming a part of the US economy. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
