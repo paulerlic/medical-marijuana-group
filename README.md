@@ -75,12 +75,18 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
   
 #### Database Integration
 * Our database is hosted in PostgresSQL, to store the static data for our analysis.
-  - Reading and writing operations are fast for PostgresSQL databases.
+* Reading and writing operations are fast for PostgresSQL databases.
 * We have four tables in the database which can be seen in ERD below.
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
 
 * PostgreSQL connects to the model via psycopg2 to import data and SQLAlchemy to export data.
+
+![Screenshot 112](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(112).png)
+
+* PostgreSQL connects to the model via SQLAlchemy to export data.
+
+![Screenshot 120](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(120).png)
       
 #### Machine Learning Model 
 ##### Deep Learning Neural Network
