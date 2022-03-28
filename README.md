@@ -151,25 +151,24 @@ We built and tested six different machine learning models when analyzing the dat
   
 ![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
 
-### Dashboard Blueprint
-https://docs.google.com/presentation/d/1D_68ffRjq-3gRIabL9SGe-Tsh35xAHHXCnpitS0V9DY/edit#slide=id.g11d7d2e999a_0_143
+### Dashboard
+https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
+
+#### Webpage Links
+Dashboard:
+https://mmg-tableau-dashboard.herokuapp.com/
+
+![Screenshot (125)](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(125).png)
+
+Strain Selector:
+https://mmg-strain-selector.herokuapp.com/
+
+![Screenshot (126)](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(126).png)
 
 #### Tools Used to Create Final Dashboard
 * Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP, GitHub Pages
 
 #### Description of Interactive Elements
-* All Tableau visualizations include interactive legend filters, to sort the data and explore different patterns we found in the medical marijuana data.
-* Map and Strain Selector also include interactive search filters. We included an interactive United States legalization map: 
-
-![Map](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(108).png)
-
-* Strain Selector includes interactive search filter:
-
-![strain_selector](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(103).png)
-
-* Web app Strain Selector includes interactive search filter:
-
-![Webapp](https://raw.githubusercontent.com/paulerlic/medical-marijuana-group/mmg-s1-js-database/Images/Screenshot%20(89).png)
-* Bubble Chart exploring chemotype and THC to CBD ratio:
-
-<div class='tableauPlaceholder' id='viz1647994606036' style='position: relative'><noscript><a href='#'><img alt='CHEMOTYPE_CBD_THC-RATIO_BUBBLESBubble Size = Chemo Type 1-3THC to CBD Ratio = Color ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMGP&#47;CHEMOTYPE_CBD_THC-RATIO_BUBBLES&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
+* All Tableau visualizations include interactive legend filters to sort the data and explore different patterns we found in the medical marijuana data.
+* Tableau US Legalization Map and Strain Selector include interactive search filters.
+* Web app Strain Selector includes interactive search filter
