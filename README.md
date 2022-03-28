@@ -21,7 +21,6 @@ There is one issue however, since marijuana has been illegal for so long many pa
   2. Can a Neural Network correctly match patients' ailments to the effects of certain strains?
 
 ### Hypothesis
-
 #### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
 Can we find a positive correlation between the strain type and ailments, for example will strains that fall under the Sativa category treat stress, and depression? Will strains that fall under the Indica category treat ailments like nausea and lack of sleep?
 
@@ -62,7 +61,7 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 ![Screen Shot 107](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(107).png)
  
 * We also created 5 new calculated fields/columns and added them to the dataset using Pandas in Python, these calculate columns allowed us to explore some potential patterns in ratios between several variables in the data set.
-* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
+* Bi-Variate Correlation Statistical Analysis performed using heat maps to find relationships between features and identify dependent variables.
 
 ![Screenshot 123](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(123).png)
   
@@ -77,7 +76,6 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
       
 #### Machine Learning Model 
 ##### Deep Learning Neural Network
-
 Neural networks are a set of algorithms modeled after the human brain. They are an advanced form of machine learning that recognizes patterns and features in input data and provides a clear quantitative output. In its simplest form, a neural network contains layers of neurons, which perform individual computations. These computations are connected and weighed against one another until the neurons reach the final layer, which returns a numerical result, or an encoded categorical result.
 
 A neural network with more than one hidden layer is known as a deep neural network. Deep neural networks function similarly to the basic neural network, with one major exception. The outputs of one hidden layer of neurons (that have been evaluated and transformed using an activation function) become the inputs to additional hidden layers of neurons. As a result, the next layer of neurons can evaluate higher order interactions between weighted variables and identify complex, nonlinear relationships across the entire dataset. These additional layers can observe and weight interactions between clusters of neurons across the entire dataset, which means they can identify and account for more information than any number of neurons in a single hidden layer.
