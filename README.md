@@ -5,7 +5,8 @@ Medical Marijuana Strain Selection Analysis
 
 ![Medical_Marijuana_Group_Final_Project](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Medical_Marijuana_Group_Final_Project.gif)
 
-#### Presentation Link: https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
+#### Presentation Link
+https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZMVY/edit?usp=sharing
 
 #### Dashboard Link
 https://public.tableau.com/app/profile/paul4991/viz/MedicalMarijuanaGroupFinalProjectDashboard_16484129550350/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
