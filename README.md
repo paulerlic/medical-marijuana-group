@@ -11,14 +11,15 @@ https://docs.google.com/presentation/d/1T1nRURT1p7oJN2ruLPGVpZXlen5MgNw84jo5yZJZ
 #### Dashboard Link
 https://public.tableau.com/app/profile/paul4991/viz/MedicalMarijuanaGroupFinalProjectDashboard_16484129550350/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
 
-### Reason for Choosing Topic:
+### Reason for Selecting Topic:
 Marijuana has long been a controversial topic in the US, at one point in history it was perfectly legal. It was grown, sold, and consumed openly. Benjamin Franklin, Thomas Jefferson, and James Madison to name a few had cultivated hemp in the 1700's. The marijuana crop has long been a part of the US economy and with recently passed legislation marijuana is once again becoming a part of the US economy. Cannabis has long been known to have medicinal qualities going back many centuries from the Egyptians all the way to the silk road and was grown in much of Asia thousands of years ago. However only recently have scientists and medical professionals been able to quantify and measure the medicinal properties of marijuana, there are plenty well documented medical applications for Marijuana. Doctors have been prescribing medicinal marijuana to treat, depression, stress, nausea, epilepsy, seizures, glaucoma, and numerous other ailments. There have been promising developments in the field of cancer research with several studies showing that medicinal marijuana can help to alleviate certain symptoms from certain types of cancer and to help mitigate the side effects of chemotherapy. 
 
 There is one issue however, since marijuana has been illegal for so long many patients have no firsthand experience with the plant and many of them are trying it for the first time when a doctors prescribes it as a treatment. The goal of this project is to see if there is a correlation between the various strains of medical marijuana and the ailments they are intended to treat. If a relationship between strain and ailment does exist then it may be possible to create an easy to use engine for medical marijuana patients to identify which strains will best treat their ailments.  
 
 ### Questions We Hope to Answer:
-  1. Can a Neural Network be created that can identify patterns in strains?
-  2. Can a Neural Network correctly match patients' ailments to the effects of certain strains?
+1. Can we create a neural network that can accurately classify strains?
+2. Can the model correctly match strains with ailments treated?
+3. Can we create a strain selector to help patients choose the proper strain based on their ailments?
 
 ### Hypothesis
 #### Null Hypothesis: Sativa, Indica and Hybrid strains share a correlation with certain effects that are best suited for the treatment of patient ailments.
