@@ -75,7 +75,7 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
   
 #### Database Integration
 * Our database is hosted in PostgresSQL to store the static data for our analysis.
-* Readiing and writing operations in PostgresSQL databases are fast and efficient.
+* Reading and writing operations in PostgresSQL databases are fast and efficient.
 * We have four tables in the database which can be seen in ERD below.
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
