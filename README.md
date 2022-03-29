@@ -54,7 +54,7 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 * Data Analysis: Excel, Python, Pandas and SQL used to perform data exploration, cleaning and preprocessing the data.
 * Database Storage: PostgreSQL is the storage database and psycopg2 (import model data from database) and SQLAlchemy (export data cleaning/model output to database) used to interface and connect the model with the database in Python.
 * Machine Learning: TensorFLow, KerasTuner, and SciKitLearn machine learning libraries used to create a Deep Learning Neural Network using Python in Jupyter Notebook.
-* Dashboard: Tableau, JavaScript, HTML, Bootstrap, d3, Heroku, PHP and GitHub Pages used to create a fully functioning and interactive dashboard and webpages.
+* Dashboard: Tableau, JavaScript, HTML, Bootstrap, d3, PHP, Heroku and GitHub Pages used to create a fully functioning and interactive dashboard and webpages.
 
 ### Project Description
 #### Data Exploration and Cleaning 
