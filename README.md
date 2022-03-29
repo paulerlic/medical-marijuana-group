@@ -74,8 +74,8 @@ https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx
 ![Screenshot 123](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(123).png)
   
 #### Database Integration
-* Our database is hosted in PostgresSQL, to store the static data for our analysis.
-* Reading and writing operations are fast for PostgresSQL databases.
+* Our database is hosted in PostgresSQL to store the static data for our analysis.
+* Readiing and writing operations in PostgresSQL databases are fast and efficient.
 * We have four tables in the database which can be seen in ERD below.
  
  ![mmg_sql_erd pgerd](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/mmg_sql_erd.pgerd.png)
@@ -128,7 +128,7 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * Datasets uploaded into PostgreSQL tables, joined/merged and exported as CSV
 * ETL cleaning performed using Pandas in Python to create missing value heatmaps and find/replace all categorical object null values with “None” and all continuous numerical null values with “0”
 * Created 5 new calculated fields/columns added to dataset using Pandas in Python 
-* Bi-Variate Correlation Analysis performed using heat maps to find relationships between features and identify dependent variables
+* Bi-Variate Correlation Statistical Analysis performed using heat maps to find relationships between features and identify dependent variables
 * Exported cleaned/calculated data back to PostrgreSQL using SQLAlchemy to be imported into the model using psycopg2
 * Data imported into model from PostgreSQL using psycopg2 and preprocessed in Python using Pandas (shape, dtypes, info, describe, duplicates, unique, value_counts, binning, categorical, get_dummies), SciKitLearn (LabelEncoder, OneHotEncoder, StandardScaler), and split into Dependent Target and Independent Feature variables
  
@@ -136,10 +136,10 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * Preliminary feature engineering included the creation of five calculated fields: ailment_count, effects_count, flavor_count, thc_max/cbd_max, cbd_max/thc_max 
 * Preliminary feature reduction/selection eliminated identification, location and other non-strain specific columns as it was determined there was no correlation with strains or ailments which would help the model make predictions. The dependent target variable was determined to be ailment_1 (y) comprising 9 output classes and the remaining features independent variables (X) comprising 316 input variables which were all descriptive characteristics and testing results directly related to a specific strain profile.
 * The features and target sets were split into standard training (75%) and testing (25%) sets to train and validate the model. The purpose is to prevent overfitting and accurately evaluate the model.
-* The model has been trained/tested using a 75%/25% split of the data over 100 epochs.
+* The model was compiled, fit, trained and tested in TensorFlow using a 75%/25% split of the data over 100 epochs.
 
 ##### Analysis
-We built and tested six different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9)[add screenshots]: 
+We built and tested six different machine learning models when analyzing the data to predict accuracy and chose the Deep Learning Neural Network as it produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9): 
 * K-means clustering - 66.76% accuracy
 * K-means clustering with Principal Component Analysis - 51.47% accuracy
 * Random Forest Multiclass Classifier - 67.96% accuracy
@@ -156,6 +156,19 @@ We built and tested six different machine learning models when analyzing the dat
 ![Screenshot 121](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(121).png)
   
 ![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
+
+##### Future Analysis Recommendations
+* Further model optimization, such as additional binning of categorical and numerical data and features
+* Perform chi-square test statistical analysis to determine most relevant features
+* Perform natural language processing analysis on ailment, effect and flavor tags
+* Perform strain image clustering and classification analysis
+
+### Project Improvement Recommendations 
+* Create larger, more complete and updated dataset using the Cannabis Reports Database API
+* Add strain images to dataset for identification and analysis 
+* Further model optimization to improve accuracy and reduce loss
+* Create improved webpages for the project dashboard and strain selector search filter with drop-down menus
+* Adhere to improved GitHub guidelines for project development, review and implementation workflow
 
 ### Dashboard
 https://public.tableau.com/app/profile/jemi.shieh/viz/MedicalMarijuanaGroupFinalProjectDashboard/MedicalMarijuanaGroupFinalProjectStrainSelectionAnalysis?publish=yes
