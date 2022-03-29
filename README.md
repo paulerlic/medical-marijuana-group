@@ -157,7 +157,7 @@ We built and tested six different machine learning models when analyzing the dat
   
 ![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
 
-##### Future Analysis Recommendations
+### Future Analysis Recommendations
 * Further model optimization, such as additional binning of categorical and numerical data and features
 * Perform chi-square test statistical analysis to determine most relevant features
 * Perform natural language processing analysis on ailment, effect and flavor tags
