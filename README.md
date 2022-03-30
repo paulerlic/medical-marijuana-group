@@ -144,19 +144,24 @@ We built and tested six different machine learning models when analyzing the dat
 * K-means clustering - 66.76% accuracy
 * K-means clustering with Principal Component Analysis - 51.47% accuracy
 * Random Forest Multiclass Classifier - 67.96% accuracy
-* Simple Neural Network - 77.90% accuracy, 1.0286 loss
-* Deep Learning Neural Network - 80.66% accuracy, 0.9598 loss
-* Deep Learning Neural Network with KerasTuner optimization - 81.21% accuracy, .8656 loss
+* Simple Neural Network - 85.64% accuracy, 0.70 loss
+* Deep Learning Neural Network - 87.85% accuracy, 0.67 loss
+* Deep Learning Neural Network with KerasTuner optimization - 88.40% accuracy, .60 loss
 
 ##### Results
-* The Deep Learning Neural Network was 80.66% accurate with KerasTuner optimization leading to accuracy of 81.21%.
+* The Deep Learning Neural Network was 87.85% accurate with KerasTuner optimization leading to accuracy of 88.40%.
 * The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
-* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9), although a simple neural network entailing less computational cost and resources was 77.90% accurate.
+* We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9).
+* A simple neural network entailing less computational cost and resources was 85.64% accurate.
 * The model is built and trained to reproduce similarly accurate results each time it is run.
 
-![Screenshot 121](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(121).png)
+##### Confusion Matrix
+The model correctly classified strains according to their primary ailment treated with an accuracy score of 87.85%. This would assist in the creation of a strain selector to help patients choose an appropriate medicinal strain based on their ailments.
+The model’s weighted average precision and recall (sensitivity) is 84% and 88%, respectively, meaning 84% of the retrieved instances were relevant and 88% of all relevant instances were retrieved.
+
+![Screenshot 150](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(150).png)
   
-![Screenshot 122](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(122).png)
+![Screenshot 151](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Screenshot%20(151).png)
 
 ### Future Analysis Recommendations
 * Further model optimization, such as additional binning of categorical and numerical data and features
