@@ -149,7 +149,8 @@ We built and tested six different machine learning models when analyzing the dat
 * Deep Learning Neural Network with KerasTuner optimization - 88.40% accuracy, .60 loss
 
 ##### Results
-* The Deep Learning Neural Network was 87.85% accurate with KerasTuner optimization leading to accuracy of 88.40%.
+* A Deep Learning Neural Network was used to classify medical marijuana strains by their primary ailment treated with an 87.85% accuracy.
+* KerasTuner optimization resulted in accuracy as high as 88.40%.
 * The results were fairly easy to interpret from the model accuracy score despite the black box nature of neural networks.
 * We chose the model that produced the most accurate results and was the most appropriate algorithm for multiclass classification of our large number of input (190) and output variables (9).
 * A simple neural network entailing less computational cost and resources was 85.64% accurate.
