@@ -1,0 +1,723 @@
+test_strain,type,ailment_1,effects_1,flavor_1,thc_max,cbd_max,chemotype,strain_leafly_review_rank,strain_leafly_page_rank
+Dutch Hawaiian,Sativa,Depression,Happy,Citrus,20.1309,0.54,1,141,619
+SleeStack,Hybrid,Stress,Uplifted,Sweet,9.9139,0,1,151,1276
+Space Needle,Sativa,Depression,Uplifted,Pine,10.8132,0,1,0,0
+Double Purple Doja,Hybrid,Pain,Relaxed,Earthy,11.6702,0,1,151,1115
+Jack Skellington,Hybrid,Stress,Creative,Citrus,13.4657,0,1,141,708
+Northern Lights,Hybrid,Stress,Relaxed,Earthy,12.0579,0,1,11,11
+Qleaner,Hybrid,None,Uplifted,None,13.2919,0,1,150,1377
+Qush,Hybrid,Stress,Relaxed,Citrus,10.3016,0,1,151,1594
+Afgoo,Indica,Stress,Relaxed,Pine,12.5149,0,1,116,196
+Pineapple,Hybrid,None,Happy,Earthy,14.4689,0,1,93,143
+Jack the Ripper,Hybrid,Stress,Happy,Lemon,4.008,0,1,122,158
+Grape Ape,Hybrid,Stress,Relaxed,Grape,9.67,0,1,32,39
+Harlequin,Hybrid,Stress,Relaxed,Earthy,6.9406,0,1,40,32
+Chocolope,Sativa,Stress,Happy,Earthy,12.9395,0,1,42,85
+Gremlin,Hybrid,None,Euphoric,None,16.20232,0.11,1,0,0
+Jack Herer,Hybrid,Stress,Happy,Earthy,17.19814,0.02,1,9,9
+AK-47,Hybrid,None,Happy,None,14.50805,0.01,1,15,16
+Ace of Spades,Hybrid,Stress,Relaxed,Earthy,9.21006,0.01,1,120,296
+G-13,Hybrid,None,Relaxed,Chemical,13.00715,0.01,1,69,56
+Permafrost,Hybrid,None,Focused,None,12.82555,0.01,1,126,317
+Sour Diesel,Hybrid,None,None,Earthy,12.82555,0.01,1,2,3
+Casey Jones,Hybrid,Depression,Euphoric,Sweet,12.12518,0.01,1,114,213
+Purple Urkel,Indica,None,None,Sweet,16.11082,0.44,1,43,64
+Agent Orange,Hybrid,None,None,Spicy/Herbal,13.01854,0.01,1,52,74
+Querkle,Hybrid,Stress,Relaxed,Sweet,15.63505,0.18,1,138,315
+Amnesia,Sativa,Stress,Happy,Earthy,16.47237,0.01,1,60,103
+Cinex,Hybrid,Depression,Energetic,Citrus,16.8122,0,1,71,119
+Godzilla,Hybrid,Pain,Euphoric,Earthy,15.5475,0,1,145,894
+Blueberry Kush,Indica,Pain,Relaxed,Blueberry,15.17099,0.01,1,67,93
+Pitbull,Indica,Pain,Relaxed,Earthy,13.69437,0.01,1,134,607
+Vortex,Hybrid,Stress,Uplifted,Mango,11.50748,0.01,1,131,256
+Tangerine Dream,Hybrid,None,None,Flowery,17.43017,0.01,1,57,86
+Royal Queen,Hybrid,None,None,Sweet,14.04233,0.01,1,0,0
+Moby Dick,Hybrid,Stress,Happy,Citrus,14.0548,0.52,1,62,101
+Purple Pineapple,Hybrid,None,None,Sweet,13.09678,0.01,1,0,0
+Blue Magoo,Hybrid,None,None,Tree,14.88314,0.01,1,113,295
+Critical Mass,Hybrid,Stress,Relaxed,Earthy,4.24105,7.87,2,69,70
+Grape Krush,Hybrid,None,None,Earthy,6.13756,7.27,2,145,1304
+Train Wreck,Hybrid,None,None,Earthy,16.432,0.01,1,18,14
+Trainwreck,Hybrid,None,Happy,Woody,14.2243,0.22,1,18,14
+Afgooey,Indica,Pain,Relaxed,Earthy,18.6693,0.13,1,129,416
+Bubba Kush,Hybrid,Pain,Relaxed,Earthy,12.55218,0.01,1,13,10
+Lavender,Indica,Stress,Relaxed,Lavender,16.01323,0.01,1,76,151
+Maui,Hybrid,Depression,Talkative,Citrus,17.53721,0.109,1,146,479
+Alice in Wonderland,Hybrid,Lack of Appetite,Relaxed,Pine,11.49111,0.19,1,141,535
+Strawberry Cough,Hybrid,Stress,Happy,Strawberry,11.73576,0.11,1,16,28
+Dynamite,Hybrid,Stress,Euphoric,Earthy,10.81828,0.05,1,144,874
+Headband,Hybrid,None,Happy,None,11.48095,0.11,1,21,27
+Durban Poison,Sativa,Depression,Uplifted,Earthy,13.3673,0.16,1,12,13
+Skunk #1,Hybrid,None,None,Berry,9.99144,0.11,1,113,58
+Candy Skunk,Hybrid,None,None,Tropical,10.7132,0.12,1,0,0
+Blue God,Hybrid,Pain,Relaxed,Berry,12.34565,0.09,1,131,426
+Space Queen,Hybrid,None,None,Tropical,7.75926,0.04,1,79,115
+Night Train,Hybrid,Insomnia,Relaxed,Pepper,7.12381,0.09,1,151,1534
+Blackberry Kush,Hybrid,Stress,Relaxed,Berry,12.18806,0.21,1,36,46
+Big Bud,Hybrid,Stress,Relaxed,Earthy,10.1693,0.07,1,119,132
+Blue Cheese,Hybrid,Stress,Relaxed,Blueberry,9.61032,0.06,1,19,23
+OG Kush,Hybrid,None,None,Earthy,12.84859,0.09,1,6,5
+Shining Silver Haze,Hybrid,Stress,Talkative,None,3.49581,6.45,2,149,1243
+Sage,Hybrid,None,Happy,None,11.50892,0.08,1,134,393
+Purple Jolly Rancher,Hybrid,Insomnia,Relaxed,Citrus,15.77499,0.05,1,147,1332
+Chocolate Thai,Hybrid,Stress,Relaxed,Earthy,12.2979,0.02,1,141,290
+Obama Kush,Hybrid,Pain,Relaxed,Earthy,7.91846,0.42,1,65,126
+Purple Kush,Hybrid,Stress,Relaxed,Earthy,11.68298,0.03,1,24,21
+Schrom,Hybrid,Stress,Happy,Lemon,7.26199,0.01,1,0,0
+Chemdawg,Hybrid,None,Relaxed,None,11.44908,0.04,1,23,18
+UW,Indica,Insomnia,Relaxed,Earthy,19.3532,0.17,1,136,675
+Warlock,Hybrid,None,Relaxed,Earthy,11.57913,0.04,1,142,601
+God Bud,Hybrid,Stress,Relaxed,Earthy,18.25123,0.01,1,90,137
+Grape God,Hybrid,None,None,Lavender,7.16996,0.01,1,86,234
+Blue Hawaiian,Hybrid,None,None,Earthy,15.13804,0.04,1,116,453
+Seattle Cough,Hybrid,Depression,Happy,Pine,16.48874,0.03,1,146,1273
+Freezeland,Indica,Stress,Happy,Pine,13.21651,0.04,1,146,1101
+Black Cherry OG,Indica,Insomnia,Relaxed,Berry,19.74197,0.08,1,141,555
+Romulan,Hybrid,Stress,Relaxed,Earthy,15.05649,0.03,1,80,121
+Ice,Hybrid,None,Euphoric,None,14.82863,0.04,1,134,230
+Dirty Girl,Hybrid,Depression,Happy,Sweet,16.54365,0.04,1,132,433
+B-52,Hybrid,Stress,Relaxed,Earthy,18.48203,0.28,1,146,996
+Plushberry,Hybrid,Stress,Relaxed,Berry,16.92814,0.75,1,124,311
+Mickey Kush,Sativa,Depression,Happy,Earthy,13.90361,0.04,1,138,957
+Double Purple,Hybrid,None,None,Earthy,10.53676,0.03,1,151,1115
+Master Kush,Hybrid,Stress,Relaxed,Earthy,14.95159,0.099,1,33,31
+New York Diesel,Sativa,None,None,Citrus,14.49506,0.099,1,0,0
+Shiva Skunk,Hybrid,Pain,Sleepy,Skunk,14.91695,0.223,1,145,318
+Super Lemon Haze,Hybrid,Stress,Happy,Lemon,12.47531,0.128,1,22,29
+Godberry,Indica,Insomnia,Relaxed,Berry,14.032,0,1,146,910
+Quantum Kush,Hybrid,Depression,Happy,Sweet,15.36638,0.18,1,98,226
+Orange Kush,Hybrid,Stress,Relaxed,Citrus,21.07542,0.139,1,77,112
+Panama Red,Hybrid,Depression,Happy,Citrus,16.19771,0.21,1,139,269
+Sour Tangie,Hybrid,Stress,Happy,Citrus,17.25867,0.18,1,59,123
+Timewreck,Hybrid,Depression,Energetic,Lemon,18.92315,0.24,1,141,395
+Ogre,Hybrid,None,Relaxed,None,23.13832,0.14,1,135,246
+Black Magic,Hybrid,None,None,Pungent,16.07011,0.087,1,143,1147
+O.G. Kush,Sativa,None,None,Butter,10.83176,0.13,1,6,5
+Purple Elephant,Hybrid,Stress,Relaxed,Sweet,14.15736,0.18,1,141,468
+The HOG,Hybrid,Stress,Sleepy,Earthy,11.77641,0.01,1,147,610
+Blueberry,Hybrid,Stress,Relaxed,Blueberry,18.09259,0.273,1,20,22
+Sugar Plum,Hybrid,Pain,Euphoric,Sweet,10.77042,0.136,1,141,1017
+Cherry Pie,Indica,None,None,Pungent,13.72544,0.065,1,27,30
+Cream Caramel,Hybrid,Stress,Relaxed,Sweet,20.81446,0.184,1,143,355
+LA Woman,Hybrid,None,None,Earthy,16.10552,0.197,1,148,802
+Remedy,Indica,Stress,Relaxed,Earthy,0.307073,9.36,3,132,354
+Elephant,Sativa,None,Happy,Sweet,15.14269,0.25,1,136,787
+Blue OG,Hybrid,None,None,Apricot,19.294,0,1,139,297
+Chernobyl,Hybrid,None,Happy,None,22.355,0.32,1,73,118
+Kosher Kush,Hybrid,Pain,Relaxed,Earthy,15.42574,0,1,56,76
+Kali Mist,Hybrid,Stress,Energetic,Earthy,15.8027,0.164,1,117,227
+Super Skunk,Hybrid,Stress,Relaxed,Skunk,12.43757,0.136,1,103,100
+Caramelicious,Hybrid,None,Focused,None,15.1767,0,1,146,815
+AK-48,Hybrid,None,Happy,None,16.3122,0,1,138,270
+MK Ultra,Hybrid,Stress,Relaxed,Earthy,18.39769,0.106,1,72,97
+Sweet Cheese,Hybrid,Depression,Euphoric,Sweet,16.17552,0,1,142,568
+The Black,Hybrid,Insomnia,Relaxed,Earthy,16.663,0,1,144,303
+Super Silver Haze,Sativa,Stress,Happy,Citrus,16.2109,0.133,1,17,25
+Charlie Sheen,Hybrid,None,None,Spicy/Herbal,18.2,0.2,1,132,470
+Purple OG Kush,Indica,Stress,Relaxed,Earthy,17.3,0.2,1,112,184
+THC Bomb,Hybrid,None,None,Earthy,13.45884,0.082,1,116,183
+Aurora Indica,Hybrid,Stress,Relaxed,Pine,17.7154,0,1,138,396
+Chronic,Hybrid,None,Relaxed,None,13.48602,0.15,1,133,171
+Fruit Punch,Hybrid,Depression,Happy,Sweet,12.5411,0,1,123,349
+Pot of Gold,Hybrid,Insomnia,Relaxed,Sweet,19.72214,0.31,1,136,361
+Granddaddy Purple,Indica,Stress,Relaxed,Berry,14.37372,0.069,1,7,7
+Burmese,Hybrid,None,None,Earthy,13.78687,0,1,135,378
+Buffalo Bill,Sativa,Depression,Euphoric,Pine,19.1,0.2,1,148,1621
+Alaskan Thunder Fuck,Sativa,Stress,Happy,Earthy,14.15644,0,1,39,33
+Deadwood,Indica,Stress,Relaxed,Berry,13.52564,0,1,146,1631
+Green Crack,Hybrid,Stress,Energetic,Citrus,23.03949,0.13,1,4,6
+Blackberry Trainwreck,Hybrid,None,None,Earthy,13.7558,0,1,151,1445
+Skywalker,Hybrid,Stress,Relaxed,Earthy,20.8787,0.19,1,67,43
+Blue Mystic,Hybrid,Stress,Relaxed,Blueberry,7.00583,0,1,142,376
+Berry White,Hybrid,Stress,Relaxed,Berry,3.083684,0.001,1,49,102
+Purple Diesel,Hybrid,None,None,Grape,8.23027,0.086,1,115,192
+Blue City Diesel,Hybrid,None,None,Lime,17.6646,0.2,1,99,128
+Straight Jacket,Hybrid,None,None,Citrus,23.6363,0.23,1,0,0
+Cinderella 99,Sativa,None,None,Earthy,11.14455,0.05,1,82,69
+Royal Haze,Hybrid,Depression,Uplifted,Skunk,16.13724,0.224,1,150,925
+Strawberry Kush,Hybrid,None,None,Sweet,19.1797,0.27,1,111,150
+Jack Frost,Hybrid,None,None,Earthy,16.21862,0.34,1,98,142
+X Factor,Hybrid,None,None,Sweet,19.4063,0.4,1,0,0
+Papaya,Hybrid,Stress,Relaxed,Sweet,19.65047,0.2,1,136,432
+Acapulco Gold,Sativa,Depression,Happy,Earthy,16.13337,0.283,1,84,108
+LSD,Hybrid,None,Happy,Citrus,15.9,0.3,1,47,51
+Oregon Diesel,Hybrid,Depression,Relaxed,Earthy,13.52147,0.78,1,136,665
+Critical Kush,Indica,Depression,Relaxed,Earthy,16.60826,0.159,1,51,68
+Vanilla Kush,Indica,Stress,Relaxed,Vanilla,21.39759,0.185,1,87,179
+White Rhino,Hybrid,Stress,Relaxed,Earthy,15.70154,0.094,1,67,54
+White Lavender,Hybrid,None,None,Strawberry,15.90138,0.079,1,143,963
+Thai,Sativa,Stress,Happy,Earthy,17.81722,0.199,1,137,147
+Bubblicious,Hybrid,None,Happy,Sweet,13.94938,0.079,1,142,517
+Shark Attack,Hybrid,Pain,Happy,Earthy,17.16335,0.139,1,151,1618
+Blackberry,Hybrid,None,Relaxed,None,9.66561,0.07,1,101,156
+Purple Haze,Hybrid,Depression,Euphoric,Earthy,10.73201,0.135,1,49,36
+Everlast,Indica,Stress,Relaxed,Earthy,24.74766,0.35,1,0,0
+Northern Lights x Blueberry,Hybrid,None,None,Earthy,15.3844,0.7,1,0,0
+Alien Dawg,Indica,Stress,Relaxed,Earthy,11.32856,0.156,1,128,293
+Blood Wreck,Hybrid,None,None,Sweet,9.6,0.2,1,0,0
+Flo,Hybrid,None,Happy,None,13.6,0.4,1,83,148
+Maui Wowie,Sativa,Stress,Happy,Sweet,6.9,0,1,49,60
+Sensi Star,Hybrid,Stress,Relaxed,Earthy,13.39741,0.76,1,94,139
+Blueberry Skunk,Hybrid,Stress,Euphoric,Blueberry,6.967445,0.017,1,147,672
+Snow Leopard,Hybrid,Stress,Euphoric,Earthy,18.70933,0.201,1,142,1149
+Cheese,Hybrid,None,Relaxed,None,16.0014,0.05,1,39,34
+Hindu Kush,Hybrid,Stress,Relaxed,Earthy,13.06919,0,1,55,59
+Dutch Dream,Hybrid,None,None,Lavender,19.1,0.2,1,55,104
+Deep Purple,Hybrid,Stress,Relaxed,Grape,20.07429,0.01,1,147,600
+Rosetta Stone,Hybrid,None,None,Citrus,16.286,0.7,1,0,0
+Skunk,Hybrid,None,None,Spicy/Herbal,22.42349,0.01,1,113,58
+Pez,Indica,Pain,Euphoric,Sweet,7.492102,0,1,151,1213
+Phantom Cookies,Hybrid,None,None,Earthy,19.84341,0.17,1,109,309
+Purple Urkle,Hybrid,Pain,Relaxed,Sweet,13.30398,0,1,43,64
+Death Star,Hybrid,Stress,Relaxed,Earthy,20,0.3,1,41,55
+Cheeseburger,Hybrid,None,Tingly,None,17.67935,0,1,150,1536
+Chocolate Chunk,Hybrid,Insomnia,Relaxed,Earthy,10.37897,0.105,1,141,472
+Cherry Kush,Organi,None,None,Lemon,14.05582,0.173,1,128,241
+Amnesia Haze,Hybrid,Stress,Happy,Citrus,15.70653,0.18,1,30,26
+Green Love Potion,Hybrid,Pain,Relaxed,Pine,10.68508,0.09,1,150,1002
+Enigma,Hybrid,Insomnia,Relaxed,Citrus,4.4,10,2,149,1577
+Super Blue Dream,Hybrid,None,None,Citrus,19,0.2,1,134,360
+XXX OG,Indica,Stress,Sleepy,Earthy,10.5609,0.4,1,127,127
+Omega,Hybrid,None,Euphoric,Tropical,12.9166,0.151,1,150,1514
+CBD Critical Mass,Hybrid,Pain,Relaxed,Earthy,3.423396,7.627,2,69,70
+Bay 11,Hybrid,Depression,Happy,Sweet,16.7507,0,1,134,454
+Critical Sensi Star,Hybrid,Stress,Relaxed,Citrus,10.62154,0.237,1,144,836
+Supergirl,Hybrid,Stress,Happy,Earthy,22.3004,1.3,1,146,1491
+Strawberry,Sativa,Stress,Happy,Strawberry,15.986,0.2,1,127,244
+Moonshine Haze,Sativa,Stress,Uplifted,Earthy,15.29426,0.161,1,134,410
+God,Hybrid,None,None,Sweet,16.6839,0.278,1,0,0
+Chem Valley Kush,Hybrid,None,None,Earthy,19.92971,0,1,146,735
+LA Confidential,Hybrid,Stress,Relaxed,Earthy,14.01456,0.462,1,58,65
+Dance World,Hybrid,Stress,Relaxed,Citrus,8.427882,14.223,2,150,630
+Jack Cheddar,Hybrid,None,None,Menthol,20.83582,0.864,1,0,0
+Cotton Candy,Hybrid,None,None,Citrus,13.8058,0.4,1,63,94
+Purple Mr. Nice,Indica,Insomnia,Relaxed,Earthy,18.7924,0.1,1,143,549
+Big Bang,Hybrid,Pain,Relaxed,Earthy,11.54476,1.531,1,148,812
+Island Sweet Skunk,Sativa,Stress,Happy,Sweet,13.8,0.2,1,65,114
+Hash Plant,Indica,Stress,Relaxed,Earthy,17.9,0.2,1,102,140
+Lemon Haze,Hybrid,Stress,Happy,Lemon,15.46502,0.131,1,14,17
+Abusive OG,Hybrid,Stress,Relaxed,Earthy,17.4,0.2,1,140,419
+Raspberry Kush,Hybrid,Stress,Relaxed,Berry,14.67525,0.192,1,118,231
+Critical Hog,Hybrid,Stress,Relaxed,Earthy,10.44974,0.261,1,143,883
+Double Bubble,Hybrid,None,None,Pineapple,9.947473,0.083,1,0,0
+Pink Champagne,Indica,Stress,Relaxed,Berry,17.9,0.3,1,136,359
+Red Headed Stranger,Sativa,Depression,Focused,Citrus,17.2,0.2,1,121,415
+CheeseWreck,Hybrid,None,Happy,Sweet,24.0298,0,1,145,981
+Sugar Black Rose,Hybrid,Stress,Relaxed,Sweet,18.87301,0.07,1,122,263
+Jock Horror,Hybrid,Depression,Euphoric,Sweet,15.95218,0.076,1,148,730
+Brainwreck,Hybrid,None,Creative,Earthy,18.4,0.2,1,143,711
+Galactic Jack,Hybrid,Depression,Energetic,Citrus,22.19281,0,1,136,508
+Marionberry Kush,Hybrid,None,None,Earthy,20.85287,0,1,133,439
+Pennywise,Hybrid,Stress,Relaxed,Earthy,9.55786,11.83,2,104,172
+WSU,Indica,Pain,Relaxed,Pine,6.539448,0,1,150,1810
+American Kush,Hybrid,Pain,Relaxed,Sweet,8.841914,0,1,0,0
+Cali Orange,Hybrid,None,None,Woody,11.47993,0,1,151,1854
+Pre-98 Bubba Kush,Indica,Pain,Relaxed,Earthy,8.522264,0,1,93,164
+Sweet Tooth,Hybrid,Stress,Relaxed,Sweet,11.98333,0,1,116,144
+Purple Afghani,Hybrid,Stress,Relaxed,Sweet,12.34883,0,1,141,401
+DJ Short Blueberry,Indica,Stress,Relaxed,Blueberry,17.9154,0.1,1,127,319
+Purple Wreck,Hybrid,Stress,Relaxed,Grape,6.8606,0.13,1,133,629
+Chocolate Kush,Hybrid,Stress,Relaxed,Earthy,12.6111,0.27,1,135,201
+Pure Kush,Indica,Pain,Relaxed,Earthy,9.5946,0.21,1,124,155
+XJ-13,Hybrid,None,Happy,None,12.8026,0.6,1,64,110
+Violator Kush,Indica,Depression,Relaxed,Earthy,18.96427,0.368,1,114,229
+G13,Indica,Stress,Relaxed,Earthy,8.4315,0.34,1,69,56
+Cannalope Haze,Hybrid,Depression,Happy,Sweet,17,0,1,126,299
+Tangerine,Hybrid,None,Happy,None,21.877,0,1,128,291
+Super Sour Diesel,Hybrid,Stress,Euphoric,Earthy,22.048,0,1,95,149
+Blue Venom,Hybrid,None,None,Earthy,13.0296,0.34,1,143,823
+Gigabud,Hybrid,Pain,Hungry,Sweet,39.22202,0.646,1,149,1021
+Jamaican Dream,Hybrid,Stress,Happy,Earthy,16.18665,0.277,1,144,661
+Mr. Nice,Hybrid,Stress,Relaxed,Sweet,15.89328,0.28,1,75,62
+Afghooey,Indica,Pain,Uplifted,Earthy,18.54,0,1,147,1204
+Cookie Monster,Hybrid,Stress,Relaxed,Grape,20.171,0,1,136,450
+Sweet Baby Jane,Indica,Muscle Spasms,Relaxed,Citrus,18.663,0,1,144,1305
+Dairy Queen,Hybrid,None,None,Earthy,15.909,0,1,120,372
+Sweet and Sour Widow,Indica,Pain,Relaxed,Earthy,6.45328,0,1,150,573
+Early Girl,Indica,Stress,Relaxed,Citrus,18.0007,0,1,150,757
+Nuken,Hybrid,Depression,Relaxed,Citrus,16.47958,0,1,118,283
+Kilimanjaro,Sativa,Depression,Energetic,Earthy,14.06845,0,1,137,858
+Wild Thailand,Hybrid,Depression,Horny,Sweet,13.1062,0,1,151,1459
+Great White Shark,Sativa,Stress,Relaxed,Earthy,10.15345,0.531,1,103,159
+Haze Mist,Hybrid,Nausea,Energetic,None,6.262763,0.65,1,152,1636
+Kalashnikova,Hybrid,None,Relaxed,None,8.677074,0.235,1,143,840
+Super Critical,Hybrid,None,None,Sage,12.33255,0.926,1,0,0
+The Doctor,Hybrid,Insomnia,Relaxed,Earthy,13.15114,0.346,1,148,768
+Jamaican Lion,Hybrid,Pain,Uplifted,Earthy,23.8913,0.8,1,148,811
+Jedi Kush,Hybrid,Stress,Relaxed,Earthy,16.032,0,1,110,251
+Redwood Kush,Hybrid,Insomnia,Euphoric,Pine,11.19282,0.14,1,135,505
+Jesus OG,Hybrid,Stress,Happy,Earthy,18.54,1,1,108,188
+ACDC,Sativa,None,Relaxed,None,4.50607,9.03,2,62,77
+Orange Creamsicle,Hybrid,None,None,Diesel,16.14124,0.15,1,129,408
+Original Blueberry,Hybrid,None,None,Earthy,14.132,0,1,0,0
+Shark Shock,Hybrid,Pain,Relaxed,Earthy,3.91142,0.18,1,137,382
+SnowLAnd,Hybrid,None,Relaxed,None,14.37997,0,1,150,861
+Humboldt,Hybrid,None,Relaxed,Diesel,12.79479,0,1,116,609
+Grapefruit,Hybrid,Stress,Happy,Citrus,21.01425,0.74,1,89,154
+NightFire OG,Hybrid,Stress,Talkative,Earthy,20.31682,0.794,1,151,1302
+Fucking Incredible,Hybrid,Pain,Relaxed,Skunk,18.59481,0.23,1,106,351
+Afghan Skunk,Hybrid,Stress,Relaxed,Earthy,23.14938,0.26,1,146,725
+Monster Cookies,Hybrid,Stress,Relaxed,Earthy,17.42981,0.296,1,101,217
+Green Dragon,Hybrid,Pain,Relaxed,Sweet,19.00591,0.689,1,140,520
+Purple Bubba,Indica,Lack of Appetite,Relaxed,Grape,23.048,0,1,149,579
+Tropicali,Hybrid,None,Euphoric,None,18.6808,0.24,1,151,1229
+Huckleberry,Hybrid,None,Happy,None,19.3,0.2,1,128,409
+Yummy,Hybrid,None,Uplifted,None,3.64185,0.21,1,151,1143
+Pineapple Euphoria,Hybrid,None,None,Skunk,17.8069,0.2,1,0,0
+Chronic Thunder,Indica,Insomnia,Relaxed,Earthy,13.5796,0.36,1,140,726
+Jacky White,Hybrid,Stress,Energetic,Citrus,17.0876,1.9,1,141,723
+Hawaiian,Hybrid,Stress,Happy,Sweet,13.6,0,1,139,204
+Emerald Jack,Hybrid,Stress,Happy,Pine,17.663,1,1,142,960
+K2,Hybrid,None,Relaxed,None,21.02989,0,1,146,624
+Cannalope Kush,Hybrid,None,None,Citrus,10.0216,0.2,1,142,527
+Lemon Sour Diesel,Hybrid,None,None,Vanilla,12.91126,0.1,1,83,124
+Apple Jack,Hybrid,None,None,Earthy,24.55675,0.5,1,136,481
+Northern Berry,Hybrid,Stress,Relaxed,Berry,13.4257,0.13,1,145,789
+Northern Lights #5,Hybrid,Pain,Relaxed,Sweet,16.8,0,1,135,310
+Medusa,Hybrid,None,Relaxed,None,15.24991,0.09,1,143,774
+Black Russian,Hybrid,Stress,Relaxed,Citrus,13.7158,0.2,1,136,611
+Golden Pineapple,Hybrid,None,None,Woody,23.2651,0.4,1,107,278
+9 Pound Hammer,Hybrid,Stress,Relaxed,Earthy,19.30561,0.21,1,54,106
+Jazz,Hybrid,None,Uplifted,None,9.387722,0,1,146,1301
+Blue Lights,Indica,Stress,Euphoric,Blueberry,15.3721,0.2,1,150,831
+Frankenstein,Hybrid,Stress,Relaxed,Earthy,14.74181,0,1,150,1056
+Supernatural,Hybrid,Stress,Euphoric,Citrus,18.0746,0.19,1,151,1495
+Canna-Tsu,Hybrid,None,Relaxed,None,3.58538,11.9,2,130,377
+Platinum Bubba Kush,Indica,Pain,Relaxed,Earthy,8.04006,0.12,1,103,162
+Swiss Gold,Hybrid,Pain,Relaxed,Citrus,2.44218,4.11,2,152,1183
+Blue Power,Hybrid,Stress,Relaxed,Berry,19.24,0.34,1,142,594
+Jillybean,Hybrid,None,Happy,None,17.786,0,1,68,116
+Power Plant,Hybrid,Pain,Happy,Earthy,16.3637,0.29,1,115,166
+Opium,Hybrid,None,Happy,None,13.56901,0,1,149,1179
+Skunk 47,Indica,Pain,Relaxed,Earthy,20.0202,0.33,1,150,1322
+C4,Hybrid,None,Relaxed,None,22.048,0,1,148,509
+NYPD,Sativa,Stress,Uplifted,Earthy,17.8015,0.1,1,147,826
+QuickSilver,Hybrid,None,None,Earthy,15.3721,0.6,1,0,0
+Space Jill,Sativa,Pain,Creative,None,16.909,0,1,152,1675
+White Kush,Hybrid,Insomnia,Sleepy,Berry,26.0961,0.8,1,145,634
+Goo,Hybrid,Pain,Sleepy,Berry,17.663,0.2,1,140,374
+Chemo,Hybrid,Insomnia,Relaxed,Earthy,14.6197,0.3,1,95,243
+True OG,Indica,Stress,Relaxed,Earthy,23.869,0.17,1,102,131
+Deep Sleep,Indica,Pain,Relaxed,Earthy,25.33722,0,1,138,816
+Matanuska Thunder,Hybrid,None,None,Sweet,15.9013,0.19,1,133,329
+Hawaiian Delight,Indica,Pain,Happy,Sweet,19.4432,0.9,1,0,0
+Purple Nepal,Hybrid,Stress,Relaxed,Grape,19.38698,0,1,148,949
+Dream Berry,Hybrid,Pain,Relaxed,Berry,14.3,0,1,152,1165
+Gorilla Glue,Hybrid,None,None,Berry,18.1477,0.19,1,33,15
+Blue Moonshine,Hybrid,Stress,Relaxed,Berry,13.5919,1.1,1,146,626
+EWOK,Hybrid,None,Relaxed,None,18.9431,0,1,128,566
+Bay Dream,Hybrid,Depression,Happy,Citrus,19.0232,0.17,1,142,617
+Hawaiian Dream,Sativa,Depression,Happy,Sweet,19.70849,0.17,1,136,526
+Presidential OG,Hybrid,Insomnia,Relaxed,Earthy,14.59804,0.17,1,97,207
+Grape Skunk,Hybrid,Nausea,Happy,Skunk,18.8039,0.19,1,150,1181
+Laughing Buddha,Sativa,Depression,Happy,Citrus,22.60591,0,1,123,224
+MILF,Hybrid,None,Happy,None,16.28231,0.16,1,152,667
+Northern Wreck,Hybrid,Depression,Euphoric,Earthy,19.5,0.2,1,144,1043
+Blue Dynamite,Hybrid,Pain,Relaxed,Citrus,4.508,12,2,150,962
+Guard Dawg,Hybrid,Muscle Spasms,Euphoric,Sweet,65.75629,1.18,1,150,1733
+Cotton Candy Kush,Hybrid,None,None,Sweet,18.8916,0.48,1,63,94
+Tutankhamon,Sativa,Depression,Uplifted,Skunk,88.42986,2.64,1,108,206
+Champagne,Hybrid,None,None,Cheese,12.6887,0.13,1,0,0
+Blue Afghani,Hybrid,Lack of Appetite,Relaxed,Blueberry,26.556,0,1,146,950
+Lavender Haze,Sativa,Stress,Happy,Lavender,25.556,0,1,146,1257
+Aliens On Moonshine,Indica,Inflammation,Relaxed,Vanilla,17.155,0,1,143,911
+Snowcap,Hybrid,None,Happy,None,20.7,0.1,1,108,191
+Flowerbomb Kush,Hybrid,Stress,Relaxed,Earthy,16.6222,0.13,1,148,775
+Blue Knight,Indica,Stress,Relaxed,Berry,16.5,0.3,1,142,507
+Super Silver Sour Diesel Haze,Hybrid,None,None,Cheese,15.6452,0.37,1,0,0
+Platinum Kush,Hybrid,Stress,Relaxed,Earthy,15.7329,0.16,1,64,72
+Matanuska Thunder Fuck,Sativa,Depression,Euphoric,Earthy,41.93075,0.26,1,133,329
+Afghani,Indica,Stress,Relaxed,Earthy,12.8526,0.63,1,99,83
+Bubbleberry,Hybrid,None,Happy,None,12.9765,0.06,1,141,490
+Hammerhead,Hybrid,Insomnia,Sleepy,Berry,3.14683,6.36,2,147,824
+Vader OG,Hybrid,Pain,Relaxed,Earthy,19.9063,0.3,1,142,1119
+Key Lime Pie,Hybrid,None,None,Menthol,17.2,0.4,1,120,198
+Blue Alien,Hybrid,Pain,Relaxed,Blueberry,16.933,0.12,1,145,830
+Dark Star,Indica,Pain,Relaxed,Earthy,18.7977,0.22,1,115,237
+Strawberry Mango Haze,Sativa,Stress,Happy,Mango,47.9,1.3,1,145,666
+Nordle,Hybrid,Stress,Relaxed,Pine,7.90557,11.7,2,140,920
+Pineapple Super Silver Haze,Sativa,Stress,Happy,Pineapple,15.89568,0.13,1,144,1081
+Trinity,Hybrid,Depression,Happy,Earthy,18.8,0.2,1,135,344
+Ancient OG,Hybrid,Stress,Relaxed,Earthy,16.04183,0.18,1,139,683
+Shishkaberry,Indica,Stress,Relaxed,Berry,18.0854,0.18,1,118,255
+Purple Pinecone,Hybrid,None,Euphoric,None,17,0,1,150,1461
+Wappa,Hybrid,None,Happy,None,23.8551,0.22,1,134,512
+Purple Dragon,Indica,Stress,Relaxed,Grape,8.71241,0.06,1,149,483
+Candyland,Sativa,Stress,Happy,Sweet,24.802,0,1,38,50
+3X Crazy,Indica,Stress,Relaxed,Earthy,16.786,0,1,137,264
+Mazar Kush,Indica,Pain,Relaxed,Earthy,14.13505,0.12,1,141,860
+Bianca,Hybrid,None,Relaxed,None,48.73,0.12,1,149,1366
+Sin Diesel,Hybrid,None,None,Cheese,23.96481,0.66,1,150,1742
+Ghost OG Moonshine,Indica,Depression,Euphoric,Earthy,20.0509,0.13,1,149,1465
+Platinum OG,Indica,Stress,Relaxed,Earthy,19.5363,0.15,1,65,71
+Blue Train,Hybrid,None,None,Citrus,6.68103,0.02,1,150,753
+Dancehall,Hybrid,None,Happy,None,0.63743,16.4,3,138,797
+Strawberry Ice,Sativa,Depression,Euphoric,Strawberry,63.1916,0,1,147,889
+ReCON,Hybrid,Stress,Relaxed,Sweet,19.2678,0.1,1,142,762
+P-51,Indica,Pain,Happy,Earthy,24.90322,0.22,1,151,1673
+Conspiracy Kush,Hybrid,Pain,Relaxed,Earthy,21.26,0.45,1,129,655
+Silver Haze,Hybrid,Stress,Euphoric,Earthy,16.2736,0.33,1,82,90
+Mad Scientist,Hybrid,Insomnia,Relaxed,Earthy,20.36405,0,1,152,1067
+Space Candy,Hybrid,None,None,Citrus,21.72,0.11,1,138,425
+Lemonberry,Hybrid,None,Euphoric,None,15.1913,0.24,1,145,651
+Stephen Hawking Kush,Hybrid,Stress,Relaxed,Earthy,21.31,0.14,1,147,548
+Purple Punch,Hybrid,Stress,Relaxed,Sweet,4.2,15.03,2,109,228
+Webster,Hybrid,Pain,Relaxed,Citrus,24.3,0.5,1,151,1743
+Purple Champagne,Hybrid,Stress,Uplifted,Grape,25.75,0.38,1,139,927
+Tang,Hybrid,None,None,Citrus,17.5584,0.42,1,0,0
+Strawberry Blue,Hybrid,Stress,Happy,Strawberry,15.1613,0.12,1,145,748
+Snow Monster,Indica,Pain,Relaxed,Sweet,13.0534,0.07,1,146,1287
+Locktite,Hybrid,None,Relaxed,Sweet,22.2527,0.12,1,132,625
+Allen Wrench,Hybrid,Stress,Energetic,Earthy,15.4,0.2,1,123,380
+Tangerine Kush,Hybrid,Insomnia,Relaxed,Citrus,17.7992,0.15,1,113,267
+Hawaiian Punch,Hybrid,Pain,Happy,Citrus,19.98,0.69,1,145,784
+Gobbstopper,Hybrid,Depression,Happy,Sweet,15.8906,0.12,1,151,1567
+Mendo Purps,Hybrid,None,None,Earthy,14.582,0.15,1,123,160
+Training Day,Hybrid,Insomnia,Relaxed,Earthy,17.4,0.3,1,142,773
+Hog's Breath,Hybrid,None,None,Earthy,18.2,0.4,1,140,664
+Sour Amnesia,Hybrid,Stress,Happy,Sweet,24.8,0.2,1,137,603
+Hindu Skunk,Hybrid,Stress,Relaxed,Skunk,16.27461,0,1,148,843
+Kryptonite,Hybrid,Pain,Relaxed,Sweet,18.30326,0.09,1,115,240
+Kush Dream,Hybrid,None,None,Flowery,15.1651,0.07,1,0,0
+Mango,Hybrid,Stress,Relaxed,Mango,19.21224,0.16,1,119,173
+Grapefruit Haze,Hybrid,Stress,Uplifted,Lemon,20.6,0.2,1,141,900
+Dog Walker,Hybrid,None,None,Tropical,21.65539,0.19,1,123,279
+Grape Crush,Indica,Stress,Relaxed,Grape,22.24,0.06,1,146,770
+Solace,Hybrid,None,None,Berry,15.5967,0.5,1,0,0
+Woody Kush,Hybrid,Insomnia,Relaxed,Pine,23.2373,4.9,2,147,982
+Bubblegum Kush,Hybrid,Pain,Relaxed,Sweet,15.0828,0.3,1,113,163
+Ice Bomb,Hybrid,None,None,Sweet,16.7614,0.5,1,0,0
+SFV OG Kush,Indica,Pain,Relaxed,Earthy,22.16,0.06,1,137,212
+Hurkle,Hybrid,None,Relaxed,None,14.2066,0.06,1,140,865
+Sage N Sour,Sativa,Depression,Happy,Earthy,16.3268,0,1,134,423
+Heisenberg Kush,Sativa,Depression,Happy,Berry,15.6544,0.08,1,149,886
+Swiss Tsunami,Sativa,Pain,Relaxed,Citrus,1,16.58,3,146,1185
+Jack Diesel,Hybrid,Depression,Happy,Sweet,15.532,0.6,1,147,997
+Cat Piss,Hybrid,Stress,Happy,Ammonia,14.2812,0.5,1,120,200
+U2 Kush,Hybrid,Depression,Relaxed,Sweet,23.65,0.1,1,149,1444
+Blue Ox,Hybrid,Depression,Sleepy,Berry,23.59879,0.09,1,152,1609
+White Berry,Hybrid,Insomnia,Horny,Berry,21.86,0.41,1,135,346
+StarDawg,Hybrid,None,Happy,None,23.16,0.29,1,70,75
+OG-18,Indica,None,Relaxed,None,23.0143,0.1,1,103,174
+Money Maker,Hybrid,Pain,Relaxed,Earthy,18.1539,0,1,148,467
+Harle-Tsu,Hybrid,None,Relaxed,Earthy,5.27628,10,2,103,219
+Willy Wonka,Hybrid,Stress,Happy,Sweet,15.1582,0.1,1,147,798
+Somango,Indica,Pain,Relaxed,Mango,15.75092,2.41,1,130,417
+Danky Doodle,Indica,Stress,Euphoric,Sweet,13.2427,0,1,0,0
+Dr. Grinspoon,Sativa,Depression,Energetic,Citrus,26.16,0.07,1,149,420
+Purple Dream,Hybrid,None,None,Earthy,16.17969,0,1,116,272
+Mango Haze,Hybrid,Stress,Happy,Mango,23.25,0.07,1,110,197
+Kona Gold,Hybrid,Depression,Happy,Sweet,23.34,0.17,1,150,972
+Sour Dream,Hybrid,None,None,Sweet,17.36364,0,1,142,430
+Silver Kush,Hybrid,Stress,Relaxed,Earthy,48.1764,0.18,1,137,389
+Strawberry Banana,Hybrid,None,None,Woody,16.0752,0.12,1,99,130
+Hurricane,Sativa,Stress,Euphoric,Sweet,18.3677,0.15,1,145,1155
+Ghost OG,Hybrid,None,None,Sweet,23.3,0.3,1,96,95
+Sour Alien,Hybrid,None,None,Earthy,19.42,0.16,1,134,620
+Walrus Kush,Hybrid,None,None,Earthy,17.41,0.34,1,152,1889
+Honey Boo Boo,Indica,Pain,Relaxed,Honey,18.06,0.17,1,149,796
+J1,Hybrid,None,Euphoric,None,20.9325,0.27,1,93,152
+Strawberry Frost,Indica,Depression,Happy,Sweet,17.8154,0.2,1,148,956
+California Hash Plant,Indica,Stress,Sleepy,Citrus,8.2807,0,1,150,1447
+MediHaze,Sativa,Pain,Happy,Pine,9.25187,11.96,2,119,456
+Yoda OG,Hybrid,Stress,Relaxed,Earthy,20.19,0.4,1,114,249
+Atomic,Hybrid,None,Happy,None,22.6,0.4,1,0,0
+Dutch Haze,Hybrid,None,Energetic,Citrus,16.22878,0.28,1,149,1083
+Crystal,Hybrid,None,None,Earthy,16.7605,0.08,1,0,0
+Mindbender,Hybrid,None,None,Earthy,14.9366,0.18,1,0,0
+Euphoria,Hybrid,None,Euphoric,None,7.98129,0.14,1,140,368
+Phantom OG,Indica,Depression,Euphoric,Earthy,26.64,0.01,1,142,469
+Lemon Thai,Hybrid,Stress,Happy,Lemon,81.49474,0.57,1,142,405
+91 Krypt,Indica,Stress,Relaxed,Earthy,12.1641,0.2,1,151,1216
+Full Moon,Hybrid,Depression,Happy,Ammonia,21.1464,0.3,1,150,791
+Caramelo,Hybrid,Stress,Happy,Sweet,18.513,0.12,1,150,1086
+Northern Light,Hybrid,None,None,Lemon,14.5582,1.4,1,11,11
+Afghani Bullrider,Hybrid,Stress,Uplifted,Sweet,20.417,0,1,139,585
+Memory Loss,Hybrid,Stress,Uplifted,Earthy,21.25,0.3,1,144,671
+Sour Cookies,Hybrid,None,None,Sweet,20.4525,0.11,1,130,300
+Trash,Hybrid,None,Relaxed,None,24.1667,0.2,1,149,1287
+Punky Lion,Hybrid,Stress,Relaxed,Earthy,19.81,0.09,1,0,0
+Dinachem,Hybrid,None,Talkative,None,24.89,0.09,1,147,1337
+Sweet Black Angel,Hybrid,Depression,Relaxed,Sweet,17.7,0.2,1,144,1030
+Fruity Chronic Juice,Hybrid,Lack of Appetite,Relaxed,Citrus,18,0.3,1,150,901
+Chocolate Fondue,Hybrid,Depression,Relaxed,Sweet,19.4,0.2,1,146,1009
+Buddha Tahoe,Hybrid,Insomnia,Relaxed,Earthy,19.8,0.2,1,142,584
+Destroyer,Hybrid,Depression,Energetic,Lavender,15.5944,0.32,1,141,737
+Citrix,Hybrid,None,Happy,None,21.56,0.04,1,144,743
+Nebula,Hybrid,None,Uplifted,None,14,0.1,1,130,292
+Sunset Sherbet,Sativa,None,None,Sweet,17.8269,0.11,1,28,24
+Church OG,Hybrid,Stress,Relaxed,Earthy,64.3658,0.39,1,145,574
+Hawaiian Snow,Hybrid,Depression,Happy,None,19.1893,0.09,1,135,313
+Star Killer,Hybrid,Pain,Relaxed,Lemon,19.88261,0.13,1,105,287
+Enemy of the State,Indica,Stress,Relaxed,Sweet,19.694,0.2,1,142,1026
+Dawgfather,Hybrid,None,None,Earthy,10.26967,0,1,152,1804
+Dutch Queen,Hybrid,None,None,Earthy,26.99,0.07,1,150,1734
+Future,Hybrid,None,Relaxed,None,22.53,0.15,1,141,977
+Cornbread,Hybrid,Stress,Relaxed,Earthy,15.90814,0.13,1,121,531
+Durban Cookies,Hybrid,Pain,Happy,Sweet,18.95,0.1,1,133,799
+Swiss Tsu 2,Hybrid,None,None,Lemon,3.94,73.05,3,0,0
+Magnum,Hybrid,None,Energetic,None,10.7978,0.05,1,148,859
+White Nightmare,Hybrid,Stress,Uplifted,Earthy,15.786,0.61,1,141,539
+Willie Nelson,Hybrid,Stress,Happy,Earthy,7.8,0.1,1,136,358
+Mataro Blue,Hybrid,Pain,Relaxed,Berry,20.29,0.06,1,141,819
+Hades Haze,Indica,Insomnia,Relaxed,Citrus,11.6748,0.05,1,149,1749
+Purple Star,Hybrid,Pain,Tingly,Berry,17.9569,0.65,1,149,1242
+PowerNap,Hybrid,None,None,Diesel,20.6132,0.11,1,0,0
+Tangie,Hybrid,Stress,Happy,Citrus,72.4905,0.61,1,34,38
+Cherries Jubilee,Indica,Stress,Euphoric,Berry,69,4.9,1,150,1607
+Monolith,Indica,Insomnia,Relaxed,Earthy,24.93,0.04,1,148,1844
+Black Domina,Hybrid,Stress,Relaxed,Pine,15.74873,0,1,121,176
+Starfighter,Hybrid,None,Euphoric,None,77.28,0.38,1,148,399
+Blue Diamond,Hybrid,Stress,Euphoric,Sweet,21.9157,0.11,1,143,428
+Lime Skunk,Hybrid,Depression,Uplifted,Lime,24.6789,0.25,1,125,716
+Night Nurse,Hybrid,Pain,Relaxed,Sweet,19.5678,0,1,146,809
+Ortega,Hybrid,Depression,Relaxed,Pepper,17.2753,0.1,1,0,0
+Blockhead,Hybrid,None,Relaxed,None,20.3,0.18,1,151,907
+Amethyst,Hybrid,None,Energetic,None,17.39,0.14,1,152,1335
+Quin-N-Tonic,Indica,Stress,Relaxed,Sweet,21.0533,0.1,1,151,1652
+Bubba OG,Hybrid,Stress,Relaxed,Earthy,22.65,0.1,1,112,186
+Firehouse,Hybrid,None,None,Diesel,19.86079,0,1,0,0
+Primus,Hybrid,Stress,Relaxed,Sweet,25.2699,0,1,132,704
+Cascadia Kush,Indica,Depression,Relaxed,Earthy,21.59608,0.09,1,151,1805
+Sour Urkle,Hybrid,None,None,Earthy,15.47328,0,1,146,1150
+Cactus,Indica,Pain,Relaxed,Citrus,24.81,0.36,1,121,690
+Nigerian Nightmare,Hybrid,None,None,Earthy,12.8588,0.09,1,0,0
+Skunkberry,Hybrid,None,Relaxed,None,12.9372,0.11,1,124,577
+Dark Side of the Moon,Hybrid,Stress,Relaxed,Earthy,19.4332,0.13,1,141,979
+Haze,Hybrid,Stress,Euphoric,Earthy,51.5,2.4,1,111,73
+White Buffalo,Sativa,Stress,Happy,Sweet,22.5,0.3,1,127,340
+Bandana,Hybrid,None,Euphoric,None,17.7223,0,1,148,1252
+Strawberry Lemonade,Sativa,Stress,Happy,Lemon,16.22001,0.25,1,112,343
+Kraken,Indica,Stress,Relaxed,Earthy,20.79,0.08,1,149,1159
+Black Bubba,Indica,Stress,Happy,Earthy,21.86,0.1,1,151,1261
+Cuvee,Indica,Stress,Euphoric,Sweet,14.9636,0.13,1,146,657
+Sonic Screwdriver,Hybrid,Stress,Happy,Earthy,12.1672,0.49,1,139,896
+Alien Rift,Hybrid,Stress,Relaxed,Earthy,20.08,0.09,1,142,818
+Green Lantern,Hybrid,Stress,Uplifted,Citrus,21,0.1,1,150,895
+Super Green Crack,Hybrid,Depression,Energetic,Earthy,11.9,0.1,1,141,463
+Black Diamond,Hybrid,Stress,Relaxed,Earthy,21.6234,0.3,1,118,199
+Kushage,Hybrid,None,Relaxed,None,20.97747,0.04,1,148,1399
+Power Kush,Hybrid,Stress,Relaxed,Sweet,15.8306,0.09,1,146,654
+DJ Andy Williams,Sativa,None,Creative,None,22.4512,0,1,150,1613
+Murkle,Indica,None,Giggly,None,20.96,0.03,1,140,865
+Grape OX,Hybrid,Stress,Hungry,Grape,16.7999,0.1,1,143,1344
+Herojuana,Hybrid,None,Relaxed,None,19.0432,0.2,1,97,223
+White Strawberry Skunk,Hybrid,None,None,Citrus,18.2408,0.22,1,151,1420
+Triangle Kush,Indica,Depression,Relaxed,Earthy,52.5,1.1,1,137,275
+Stella Blue,Sativa,Depression,Energetic,Sweet,21.31,0.04,1,150,1364
+Alaskan Ice,Hybrid,Depression,Euphoric,Sweet,18.4739,0.13,1,140,547
+Hawaiian Haze,Hybrid,Stress,Uplifted,Skunk,5.85836,0,1,141,496
+The OX,Hybrid,Pain,Relaxed,Sweet,19.1332,0.21,1,147,1232
+Tora Bora,Hybrid,Pain,Relaxed,Earthy,23.35,0.05,1,134,673
+Super Cheese,Hybrid,Insomnia,Euphoric,Earthy,10.24272,0,1,147,898
+Satori,Hybrid,None,Creative,None,5.09981,7.06,2,147,682
+Kaboom,Hybrid,Depression,Happy,Earthy,16.03552,0,1,136,1012
+Watermelon,Indica,Stress,Relaxed,Sweet,18.2662,0.1,1,115,276
+Blackberry Diesel,Hybrid,Stress,Happy,None,15.3344,0.13,1,150,1117
+Devil Fruit,Hybrid,Stress,Relaxed,Pepper,21.68,0.03,1,150,636
+Kushberry,Indica,Stress,Relaxed,Berry,14.5474,0.35,1,136,387
+Super Slutty Hayes,Hybrid,None,None,Earthy,18.0523,0.12,1,0,0
+Casper OG,Hybrid,Insomnia,Relaxed,Earthy,20.6964,0.17,1,145,1184
+Temple Haze,Hybrid,None,None,Earthy,9.7839,0,1,0,0
+Outlaw,Hybrid,Depression,Euphoric,Earthy,9.76251,0,1,150,1281
+Green Kush,Hybrid,Stress,Euphoric,Citrus,19.5,0.1,1,145,803
+Sour Haze,Hybrid,Stress,Uplifted,Citrus,77.15,1.42,1,146,721
+Mendo Breath,Hybrid,Stress,Relaxed,Earthy,15.1844,0.32,1,103,153
+Rockstar,Hybrid,Stress,Relaxed,Earthy,13.81719,0.11,1,94,181
+CBD Mango Haze,Hybrid,Stress,Focused,Pepper,2.4025,6.96,2,148,366
+Grimace OG,Hybrid,Depression,Sleepy,None,13.575,0.12,1,152,1537
+Harlesin,Hybrid,None,None,Pungent,19.01275,43.86,2,40,32
+Treasure Island,Hybrid,None,None,Tropical,16.72457,39.11,2,148,1107
+Dutch Dragon,Hybrid,Depression,Euphoric,Citrus,23.69,0,1,141,687
+Purple Power,Hybrid,Lack of Appetite,Happy,Earthy,17.46,0.05,1,149,838
+Purple Widow,Hybrid,None,None,Citrus,15.2267,0.17,1,144,752
+Sugar Mama,Indica,Stress,Euphoric,Sweet,14.1366,0.2,1,147,827
+Stone Free,Hybrid,None,None,Earthy,22.8335,0.14,1,0,0
+Cambodian,Sativa,None,Energetic,Earthy,20.33,0.13,1,152,1320
+Purple Goo,Hybrid,Stress,Relaxed,Lavender,16.59,0.09,1,150,869
+Vanilluna,Hybrid,None,Sleepy,None,14.82,0,1,151,1702
+Sunshine Daydream,Hybrid,Inflammation,Relaxed,Sweet,21.76,0,1,145,534
+The One,Hybrid,None,None,Diesel,67.9421,0.23,1,150,1195
+Raspberry Cough,Hybrid,Stress,Happy,Berry,20.9172,0.14,1,138,465
+Sugar Kush,Hybrid,Insomnia,Relaxed,Sweet,16.2852,0.58,1,142,669
+Blue Blood,Hybrid,Stress,Relaxed,Blueberry,3.9,11.6,2,148,1353
+5th Element,Hybrid,Pain,Relaxed,Earthy,24.4005,0.17,1,152,822
+StarBud,Hybrid,Insomnia,Relaxed,Earthy,16.0721,0.1,1,142,1104
+Incredible Hulk,Sativa,Pain,Happy,Sweet,18.47,0.05,1,130,262
+Malawi,Sativa,Stress,Energetic,Earthy,27.7747,1.1,1,148,473
+Blueberry Blast,Hybrid,Depression,Happy,Blueberry,20,0.1,1,143,989
+White Durban,Sativa,Stress,Energetic,Earthy,24.73,0.12,1,135,958
+White Dragon,Hybrid,Pain,Relaxed,Earthy,24.6175,0.21,1,152,1589
+P-91,Hybrid,None,Euphoric,None,28.1763,0.4,1,143,914
+Sin City Kush,Hybrid,Insomnia,Euphoric,Grape,12.1541,0.05,1,152,1046
+Blackwater,Indica,Pain,Relaxed,Berry,18.39668,0.15,1,95,190
+Apollo 13,Hybrid,None,None,Earthy,20.4079,0.8,1,137,460
+Brazil Amazonia,Hybrid,Depression,Relaxed,Berry,23.0974,0.47,1,152,1559
+Sour Bubba,Hybrid,Stress,Happy,Pine,25.0706,0.15,1,145,878
+Pineapple OG,Hybrid,Pain,Happy,Pineapple,18.5293,0.1,1,134,449
+Green Poison,Hybrid,Stress,Relaxed,Sweet,21.6,0.1,1,128,337
+Big Wreck,Hybrid,Stress,Euphoric,Earthy,24.6828,0.67,1,149,1467
+Pineapple Fields,Hybrid,Inflammation,Happy,Sweet,16.6999,0.3,1,134,963
+Lee Roy,Hybrid,Pain,Relaxed,Lime,14.9382,0.09,1,137,783
+Space Dawg,Indica,Pain,Relaxed,Sweet,22.5,0.1,1,148,1145
+Berry Wreck,Hybrid,None,None,None,22.7642,0.73,1,0,0
+G Force,Hybrid,None,None,Pine,14.77355,0.2,1,152,1593
+Critical Kali Mist,Sativa,Depression,Creative,Pine,8.21616,0,1,151,1439
+Pineapple Punch,Hybrid,Depression,Energetic,Pineapple,20.1517,0.07,1,150,968
+Blue Steel,Hybrid,Pain,Uplifted,Blueberry,21.33982,0.02,1,151,1291
+A-Train,Hybrid,None,Creative,None,19.31042,0.02,1,146,947
+Fat Purple,Hybrid,Pain,Happy,Berry,12.8726,0.05,1,149,1412
+Fighting Buddha,Hybrid,None,None,Pungent,22.3496,0.2,1,152,1456
+Super Bud,Hybrid,Insomnia,Relaxed,Citrus,14.3743,0.1,1,152,1034
+Gelato,Hybrid,None,Relaxed,None,24.0343,0.17,1,29,20
+Pineapple Purps,Sativa,Inflammation,Relaxed,Pineapple,21.38951,0.18,1,152,764
+Grizzly Purple Kush,Hybrid,None,None,Skunk,73.2,0.4,1,0,0
+Strawberry Cheesecake,Hybrid,Depression,Relaxed,Strawberry,23.402,1,1,133,332
+Super Jack,Hybrid,Depression,Energetic,Sweet,73.1477,1.6,1,127,365
+Whitaker Blues,Hybrid,Stress,Relaxed,Sweet,14.3074,0,1,150,1522
+Big Skunk,Hybrid,None,None,Earthy,12.5256,0.22,1,139,478
+Tangilope,Hybrid,Depression,Happy,Citrus,16.1,0.1,1,136,571
+Cookies Kush,Indica,Stress,Relaxed,Sweet,23.3635,1.1,1,115,109
+Purple Berry,Hybrid,Pain,Relaxed,Berry,14.732,0.1,1,145,586
+Hawaiian Diesel,Hybrid,Stress,Happy,Citrus,76.9,0.3,1,148,1221
+Magnum PI,Sativa,Depression,Uplifted,Citrus,21.4557,1,1,149,1656
+Superstar,Hybrid,None,Relaxed,None,25.8052,1,1,151,1481
+Blue Fire,Hybrid,None,None,Earthy,66.13848,0.14,1,0,0
+Purple People Eater,Hybrid,Depression,Uplifted,Grape,72.7,0.2,1,0,0
+Kandahar,Hybrid,Insomnia,Relaxed,Earthy,11.8471,0.07,1,0,0
+Pineapple Jack,Hybrid,Stress,Relaxed,Pineapple,81.5,0.2,1,143,447
+Commerce City Kush,Hybrid,Insomnia,Euphoric,Sweet,27.7085,0.19,1,0,0
+Wonder,Hybrid,None,None,None,15.7367,0,1,0,0
+Dreamweaver,Hybrid,None,None,Earthy,18.5823,0,1,148,998
+King Louis XIII,Hybrid,Stress,Relaxed,Earthy,20.0631,0.2,1,56,89
+Mother Tongue,Sativa,Lack of Appetite,Euphoric,Earthy,15.0213,0.2,1,148,1227
+Strawberry Fields,Hybrid,Stress,Relaxed,Strawberry,16.15659,0.03,1,131,438
+LA Ultra,Indica,Insomnia,Relaxed,Lemon,84.20747,0.86,1,152,1685
+Pakistan Valley Kush,Indica,Insomnia,Relaxed,Pine,69.7221,0.22,1,144,812
+Incredible Bulk,Indica,Stress,Relaxed,Earthy,16.3091,1.69,1,129,266
+Blackberry Cream,Hybrid,Depression,Relaxed,Berry,13.2279,2.67,2,150,1097
+Sour Pebbles,Hybrid,Stress,Happy,Sweet,21.21934,0.04877,1,150,1392
+Aloha,Hybrid,Depression,Energetic,Sweet,18.8,0.1,1,143,1028
+Sour Jack,Hybrid,Depression,Energetic,Citrus,19.0293,0,1,123,314
+CBD Shark,Indica,Pain,Relaxed,Earthy,4.7,8.8,2,131,330
+Blue Dot,Sativa,Stress,Uplifted,Earthy,27.4438,0.17,1,149,1122
+Lemon G,Hybrid,Pain,Focused,Lemon,76.03442,0.16,1,135,466
+Very Berry Haze,Hybrid,Pain,Happy,Berry,27.1654,0.21,1,145,887
+Twizzler,Hybrid,None,None,Mango,20.3801,0.11,1,0,0
+Extreme OG,Hybrid,Pain,Relaxed,Lime,15.6467,0.1,1,149,790
+Colombian Gold,Hybrid,Depression,Euphoric,Earthy,19.6963,0.14,1,125,185
+Tangie Ghost Train,Sativa,Depression,Uplifted,Sweet,16.7999,0.3,1,0,0
+Himalayan Blackberry,Indica,Insomnia,Sleepy,Berry,17.9,0,1,143,1541
+Narnia,Sativa,Stress,Creative,Sweet,23.1,0.1,1,133,506
+Appalachian Power,Sativa,None,Euphoric,Grape,21,0.1,1,150,1694
+Pacific Blue,Indica,Stress,Happy,Blueberry,21.79399,0.19,1,142,1511
+Sour Bubble,Indica,Pain,Relaxed,Sweet,12.5803,0.05,1,146,751
+Blueberry Dream,Hybrid,Stress,Relaxed,Blueberry,20.6356,0.17,1,134,674
+Lucy,Hybrid,None,Relaxed,None,32.05062,33.8,2,148,902
+Clementine,Hybrid,Stress,Happy,Citrus,24.4774,0.6,1,102,232
+Bogglegum,Hybrid,None,None,Sweet,15.8229,0.15,1,151,1523
+Hempstar,Sativa,Stress,Happy,Earthy,22.905,0.18,1,139,476
+Poochie Love,Hybrid,None,Euphoric,Earthy,27.13294,0.15,1,150,1738
+Light of Jah,Hybrid,Stress,Happy,Earthy,17.7384,0,1,147,856
+8 Ball Kush,Indica,Depression,Relaxed,Earthy,19.83545,0.15,1,146,660
+Super G,Hybrid,None,Creative,Earthy,19.83,0.07,1,149,1528
+Opal OG Kush,Indica,Stress,Relaxed,Earthy,16.30953,0.03,1,152,1727
+Twisted Citrus,Sativa,Depression,Energetic,Citrus,20.7094,0.30278,1,150,1436
+Strawberry Amnesia,Sativa,Stress,Euphoric,Strawberry,11.9272,0,1,135,599
+Platinum Purple Kush,Indica,Insomnia,Relaxed,Sweet,15.809,0,1,132,369
+Extreme Cream,Hybrid,Pain,Relaxed,Earthy,23.92034,0.08262,1,138,699
+Mammoth,Hybrid,None,Happy,None,13.0673,0,1,142,797
+Do-Si-Dos,Indica,Stress,Relaxed,Earthy,19.7132,0.14909,1,100,98
+Face Off OG,Indica,Pain,Relaxed,Earthy,21.7295,0.16663,1,139,282
+Dream Beaver,Hybrid,Muscle Spasms,Uplifted,Pineapple,16.8552,0.23679,1,148,998
+Hulkamania,Indica,Depression,Horny,Sweet,16.3206,0.13155,1,151,1245
+Lemon Meringue,Hybrid,Depression,Uplifted,Lemon,17.839,0.11401,1,139,545
+East Coast Sour Diesel,Sativa,Muscle Spasms,Happy,Citrus,18.7493,0.11401,1,129,334
+Brandywine,Indica,None,Sleepy,None,22.94,0.1,1,149,1691
+Frida,Indica,Pain,Relaxed,Lemon,7.71,12.81,2,142,1638
+Elphinstone,Hybrid,Depression,Happy,Citrus,18.4308,0.4354,1,152,1625
+Rocklock,Hybrid,Stress,Relaxed,Earthy,17.5761,0.12278,1,149,1140
+Ambrosia,Hybrid,None,Uplifted,None,29.0394,0,1,147,868
+Bangi Haze,Hybrid,Inflammation,Horny,Berry,65.4157,0,1,0,0
+Outer Space,Hybrid,Stress,Uplifted,Citrus,68.2863,0.3508,1,134,718
+Herijuana,Hybrid,Stress,Relaxed,Earthy,69.4083,0.39465,1,97,223
+Pineapple Haze,Hybrid,Depression,Relaxed,Pineapple,12.2949,0.06139,1,136,443
+Lemon Jack,Hybrid,Stress,Energetic,Lemon,19.0647,0.20171,1,134,362
+Jack Smack,Sativa,Depression,Energetic,Blueberry,16.5614,0,1,148,1634
+Blueberry Pie,Hybrid,None,None,Sweet,19.7,0.1,1,110,702
+Pamelina,Indica,Depression,Euphoric,None,24.0513,0.16663,1,0,0
+Green Haze,Sativa,Pain,Happy,Earthy,65.29,1.66,1,0,0
+CBD Critical Cure,Indica,Pain,Relaxed,Earthy,8.3529,13.3,2,127,503
+Nicole Kush,Hybrid,Insomnia,Relaxed,Earthy,21.67003,0.08139,1,151,780
+Yumboldt,Hybrid,Insomnia,Relaxed,Citrus,21.51255,0,1,145,1061
+ASH,Hybrid,None,Relaxed,None,21.9988,0,1,0,0
+Blue Bastard,Indica,Stress,Euphoric,Berry,22.4512,0,1,151,1642
+Dr. Funk,Hybrid,Stress,Euphoric,Earthy,71.33,1.34,1,149,1082
+Electric Lemon G,Hybrid,Stress,Euphoric,Lemon,10.3655,0.07893,1,135,926
+Sugar Momma,Hybrid,None,None,Earthy,23.5496,0,1,147,827
+Crouching Tiger Hidden Alien,Indica,Stress,Relaxed,Earthy,16.5,0.59,1,147,1478
+Pakistani Chitral Kush,Indica,Stress,Relaxed,Earthy,20.2448,0,1,145,596
+Tesla Tower,Sativa,Depression,Tingly,Pepper,19.6086,0.19294,1,148,1371
+Emerald OG,Hybrid,Stress,Relaxed,Citrus,14.7051,0.12278,1,146,561
+Sonoma Coma,Hybrid,Depression,Euphoric,Citrus,25.0437,0,1,149,1033
+Flo OG,Indica,Pain,Happy,Sweet,14.9911,0.07893,1,144,967
+VCDC,Hybrid,None,Relaxed,None,10.5069,12.201,2,142,756
+Hubbabubbasmelloscope,Hybrid,None,None,Sweet,63.86186,0.21925,1,0,0
+Tesla,Hybrid,None,Uplifted,None,4.16019,7.31894,2,149,1508
+Hashberry,Hybrid,Pain,Relaxed,Berry,22.1,0.45,1,139,653
+Trix,Hybrid,Stress,Happy,Sweet,74.84,0.28,1,150,1540
+Sirius Black,Indica,Stress,Relaxed,Sweet,8.52412,0.06139,1,128,556
+Locomotion,Hybrid,Stress,Euphoric,Earthy,26.4191,0,1,143,769
+Rocky Mountain Blueberry,Indica,Stress,Euphoric,Blueberry,22.2742,0,1,150,1264
+Gummo,Hybrid,None,Euphoric,None,74.9568,0,1,148,1191
+Funfetti,Hybrid,None,Happy,None,13.99692,0,1,151,1608
+Dark Matter,Hybrid,None,None,Citrus,14.5228,0.09647,1,0,0
+Anesthesia,Indica,Pain,Hungry,Earthy,13.9504,0.36524,1,151,1196
+Sinai,Sativa,Lack of Appetite,Euphoric,Pepper,10.6509,0.51064,1,0,0
+Purple Candy,Hybrid,Insomnia,Relaxed,Sweet,13.364,0.11401,1,99,211
+Tardis,Hybrid,Depression,Talkative,Sweet,23.52991,0.0877,1,148,1374
+Purple Panty Dropper,Hybrid,Stress,Relaxed,Berry,7.83883,0.33326,1,136,442
+Thunderstruck,Sativa,Depression,Happy,Pine,6.98564,6.26617,2,147,1266
+Grape Inferno,Hybrid,Insomnia,Relaxed,Citrus,27.1592,0,1,148,1180
+Purple Chemdawg,Indica,Pain,Relaxed,Grape,19.2201,0.13155,1,133,414
+Darth Vader OG,Indica,Insomnia,Relaxed,Grape,22.45,0.94,1,143,431
+Headbanger,Hybrid,None,Happy,None,18.0568,0.11401,1,143,491
+Red Congolese,Hybrid,Stress,Energetic,Earthy,22.748,0,1,126,304
+1024,Hybrid,Stress,Uplifted,Pine,11.9587,0.42096,1,143,398
+Confidential Cheese,Hybrid,Stress,Sleepy,Pine,30.53,0.08,1,140,615
+Golden Tangie,Sativa,None,Horny,None,21.48832,0,1,0,0
+IG Kush,Hybrid,None,None,Earthy,20.73,0.73,1,147,1022
+El Jefe,Hybrid,Depression,Relaxed,Earthy,28.5223,0,1,149,969
+Grape Cookies,Hybrid,Stress,Relaxed,Grape,26.6346,0,1,145,1076
+The Cough,Sativa,Stress,Uplifted,Pine,24.8052,0,1,149,1263
+Misty Kush,Indica,Muscle Spasms,Happy,Sweet,17.7161,0.67529,1,149,1102
+Lemon Cake,Hybrid,Stress,Happy,Lemon,25.7822,0,1,0,0
+Diamond OG,Hybrid,Stress,Relaxed,Earthy,30.3303,0,1,107,145
+13,Hybrid,None,None,Honey,21.3972,0,1,0,0
+Belladonna,Hybrid,None,Happy,None,12.31,0.06,1,152,1173
+White Haze,Hybrid,Stress,Focused,Lemon,21.07,0.05,1,151,988
+Voodoo,Hybrid,Pain,Relaxed,Citrus,15.0828,0.4385,1,145,558
+Killing Fields,Sativa,Depression,Energetic,Lemon,15.9721,0,1,151,1248
+Rainbow Jones,Indica,Depression,Relaxed,Earthy,25.9945,0,1,147,1011
+Crimson Crush,Hybrid,None,None,Flowery,21.87,0.09,1,0,0
+Iced Widow,Indica,Lack of Appetite,Relaxed,Earthy,15.1812,0,1,136,589
+Eran Almog,Hybrid,Stress,Relaxed,Earthy,74.26,1.86,1,143,1265
+Chocolate Diesel,Hybrid,Stress,Euphoric,Pine,24.4159,0,1,144,271
+Alien Bubba,Hybrid,Stress,Relaxed,Earthy,20.95,0.41,1,150,814
+Kobain Kush,Hybrid,Pain,Relaxed,Earthy,73.8675,0,1,151,1363
+Salmon River OG,Hybrid,Stress,Relaxed,Earthy,18.54855,0,1,149,986
+Grape Valley Kush,Hybrid,Lack of Appetite,Relaxed,Pineapple,15.22284,0.131673,1,150,1174
+A-Dub,Hybrid,None,Relaxed,Pungent,72.4274,0.2631,1,143,710
+Cherry Kola,Hybrid,Stress,Euphoric,Berry,85.01,0.25,1,142,800
+Rare Darkness,Hybrid,Insomnia,Relaxed,Grape,23.3277,0,1,126,525
+Blue Buddha,Indica,Depression,Happy,None,18.0523,0.2877,1,148,1210
+Candy Jack,Hybrid,Stress,Happy,Sweet,61.23,0.25,1,123,286
+Ultra Sour,Hybrid,Depression,Uplifted,Lemon,17.93513,0.129919,1,149,1148
+Thai Haze,Hybrid,Depression,Creative,Pine,24.82306,0.12278,1,150,1169
+Clifford,Hybrid,None,None,Earthy,18.68364,0.01754,1,0,0
+White Afghani,Hybrid,None,None,Tropical,21.44319,0.07893,1,0,0
+Gooberry,Hybrid,Pain,Euphoric,Berry,80.5605,0,1,143,738
+Doctor Doctor,Sativa,Inflammation,Relaxed,Sweet,1.4262,13.0673,3,148,1109
+Terminator OG,Indica,Stress,Relaxed,Sweet,10.99285,0.083438,1,149,1466
+Pinot Noir,Hybrid,None,None,Citrus,13.2152,0.082561,1,0,0
+Bluniverse,Hybrid,None,Euphoric,Berry,16.64134,0.119395,1,150,1474
