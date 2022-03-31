@@ -111,7 +111,7 @@ Source: University of Cincinnati https://healthitanalytics.com/features/what-is-
 * Prone to overfitting
 
 ##### Benefits of the Deep Learning Neural Network
-* Ability to learn independently in real-time
+* Self-organizing ability to learn adaptively and independently in real-time
 * Flexible and can be applied to multiple data types and current and future applications
 * Features automatically deduced/optimally tuned for desired result so outputs not limited to provided inputs
 * Features not required to be extracted in advance
