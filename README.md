@@ -1,7 +1,7 @@
 # Medical Marijuana Group Final Project
 
 ### Selected Topic
-Medical Marijuana Strain Selection Analysis
+# Medical Marijuana Strain Selection Analysis
 
 ![Medical_Marijuana_Group_Final_Project](https://github.com/paulerlic/medical-marijuana-group/blob/main/Images/Medical_Marijuana_Group_Final_Project.gif)
 
