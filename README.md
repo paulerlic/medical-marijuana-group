@@ -19,6 +19,7 @@ There is one issue however, since marijuana has been illegal for so long many pa
 ### Questions We Hope to Answer:
   1. Can a Neural Network be created that can identify patterns in strains?
   2. Can a Neural Network correctly match patients' ailments to the effects of certain strains?
+  3. Can we help patients with little to no marijuana experience pick a strain? 
 
 ### Hypothesis
 
